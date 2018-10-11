@@ -4,16 +4,17 @@ The Inscription Stones of Bangalore project aims at preserving the inscription s
 
 This repository aims at OCR Correction of a book called Epigraphia Carnatica  [Epigraphia Carnatica](http://idb.ub.uni-tuebingen.de/opendigi/EC_17_1965#p=2)  by B.L. Rice. The OCR conversion of the book conatins many English as well as Kannada errors so first an analysis of different types of errors is done.
 ## Analysis of Errors ## 
-Single characters recognized as multiple characters - SCMC                                                               Multiple characters recognized as one character - MCOC
-Division and concatenation of words - DAC
-Single character recognized as another character - SCAC
-Format -  Original Characters = Misinterpreted Character
+Single characters recognized as multiple characters - SCMC <br />
+Multiple characters recognized as one character - MCOC <br />
+Division and concatenation of words - DAC <br /> 
+Single character recognized as another character - SCAC <br /> 
+Format -  Original Characters = Misinterpreted Character <br />
 
 SCMC | MCOC | DAC | SAC | Unique Errors 
 -----|------|------|----|---------
-w = vv|	es = *|	goingbangalore|	f = i (6)| sprar = sprang
-t = tt|	ti = a|	beit (2)|	r = i (3)| missing i (2)
-h = ii (2)| 	( = c| 	foras|	l = i (6)|	missing d
+w = vv|	es = *|	goingbangalore|	f = i | sprar = sprang
+t = tt|	ti = a|	beit |	r = i | missing i 
+h = ii | 	( = c| 	foras|	l = i |	missing d
 m = tn|	re = n|	boundarie s|	u = a|		firm
 
 The above table illustrates how the analysis of errors is done. 
