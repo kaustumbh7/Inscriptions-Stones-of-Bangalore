@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 24 14:15:08 2018
 
-@author: Dhairya and kaustumbh
+@author: Dhairya and Kaustumbh
 """
 kannadaDict = """
 a
@@ -54,7 +54,7 @@ about; against; at; by; for; from; in; inside;
 into; of; off; on; out; outside; over; round;
 since; through; to; towards; up; upon; within;
 iamda
-ಬಹುೇಕ
+ಬಹುೇಕ
 about; almost; around; nearly;
 bahutheka
 above
@@ -73,7 +73,7 @@ on; over; round; to; towards; up; upon;
 upstairs; with; within;
 mele
 abroad
-ೇಶಗಳ
+ೇಶಗಳ
 videshagalalli
 absolutely
 ಸಂಪಣಾ
@@ -94,7 +94,7 @@ accept
 ಅನುೕಸಲು
 accept; approve; receive; take;
 anumeudisalu
-ಇಟುೋ
+ಇಟುೋ
 accept; assume; guess; suppose;
 ittukeu
 ೕಕ
@@ -106,7 +106,7 @@ acceptable
 acceptable; reasonable;
 svikaaraarha
 access
-ಪೇಸಲು
+ಪೇಸಲು
 access; entrance; entry;
 praveshisalu
 accident
@@ -140,19 +140,19 @@ accuse
 ದೂಸಲು
 accuse; blame; debt;
 dushhisalu
-ಆೋಸು
+ಆೋಸು
 accuse; blame;
 aareupisu
 achieve
 ಅನುಸಸು
 achieve; borrow;
 anusarisu
-ೆರೇಸು
+ೆರೇಸು
 neraverisu
 ಪದಶನ
 achieve; implement; perform;
 pradarshana
-ಪೈಸುವ
+ಪೈಸುವ
 puresuva
 acquire
 ಖೕ
@@ -268,10 +268,10 @@ prakatane
 ad; advertising;
 jaahiraathu
 adapt
-ೊಂಸು
+ೊಂಸು
 heumdisu
 addition
-ೊೆೆ
+ೊೆೆ
 jeuthege
 additional
 ೆಚುವ
@@ -287,10 +287,10 @@ adjust
 ತಪದು
 adjust; correct;
 thapputhiddu
-ಸೊಂಸು
+ಸೊಂಸು
 adjust; host;
 sariheumdisu
-ೊಸು
+ೊಸು
 mithigeulisu
 ಸಪ
 adjust; correct; improve;
@@ -300,7 +300,7 @@ administration
 administration; manage; management; rule;
 aadalitha
 admire
-ೊ
+ೊ
 mechchikeu
 admit
 ಸವಲತು
@@ -310,7 +310,7 @@ savalaththu
 admit; recognize;
 aamgikarisu
 ಅನುಮ
-ೊಡು
+ೊಡು
 admit; allow; let; permit;
 anumathi keudu
 ಅೆ
@@ -367,7 +367,7 @@ prakatane
 ಸೆ
 advice; board;
 mathiya sabhe
-ೇಚೆ
+ೇಚೆ
 vivechane
 affair
 ವಸು
@@ -416,7 +416,7 @@ afternoon
 afternoon; south;
 madhyaahna
 again
-ೊಸಾ
+ೊಸಾ
 heusadaagi
 ಂೆ
 after; again; ago; back; before; behind;
@@ -465,7 +465,7 @@ age
 ಅವ
 age; period; time;
 avadhi
-ೈ
+ೈ
 age; time; weather;
 tem
 ಯುಗ
@@ -496,7 +496,7 @@ after; again; ago; back; before; behind;
 previous; previously; then;
 himde
 agree
-ಒಪೇೆ
+ಒಪೇೆ
 oppuththene
 agreement
 ಒಪಂದ
@@ -507,7 +507,7 @@ ahead
 ahead; before; front; previous;
 mumde
 air
-ೋಟವನು
+ೋಟವನು
 air; appearance; aspect; look;
 neutavannu
 ಒಡು
@@ -517,12 +517,12 @@ alarm
 alarm; warning;
 echcharike
 alarm
-ಾಬೊಸು
+ಾಬೊಸು
 gaabarigeulisu
-ರಣೇ
+ರಣೇ
 ranabheri
 alcohol
-ೇತನ
+ೇತನ
 alcohol; spirit;
 chethana
 ಮದಾರ
@@ -554,7 +554,7 @@ whole;
 akhamda
 allow
 ಅನುಮ
-ೊಡು
+ೊಡು
 admit; allow; let; permit;
 anumathi keudu
 ೕ
@@ -567,11 +567,11 @@ almost
 about; above; across; almost; around; at;
 nearly; of; on; over; round;
 kurithu
-ಬಹುೇಕ
+ಬಹುೇಕ
 about; almost; around; nearly;
 bahutheka
 alone
-ಒಬೇ
+ಒಬೇ
 obbane
 ಾತ
 alone; lonely; merely; only; single; unique;
@@ -584,7 +584,7 @@ along
 along; throughout;
 uddakku
 already
-ಆಗೇ
+ಆಗೇ
 already; yet;
 aagale
 ಇನೂ
@@ -603,7 +603,7 @@ saha
 also; more; moreover; plus;
 maththashhtu
 also
-ಅಂೇ
+ಅಂೇ
 also; equally; too;
 aamtheye
 ೕಾ
@@ -674,24 +674,24 @@ thanikhe
 analysis; essay; exam; examination;
 inspection; print; proof; test; try;
 vichaarane
-ೇಷಣ
+ೇಷಣ
 analysis; resolution; test;
 vishleshhana
 analyst
-ೇಷಕ
+ೇಷಕ
 vishleshhaka
 and
 ಮತು
 and; plus;
 maththu
 anger
-ೋಪ
+ೋಪ
 keupa 
 anger
 ಹುಚು
 huchchu
 angle
-ೋನ
+ೋನ
 angle; corner;
 keuna
 ಮೂೆ
@@ -700,7 +700,7 @@ mule
 angry
 ಕುತ
 kupitha
-ೋಪದ
+ೋಪದ
 angry; wild;
 keupada
 animal
@@ -722,13 +722,13 @@ another
 ಇತರ
 another; other; teaching;
 ithara
-ಮೊಂದು
+ಮೊಂದು
 maththeumdu
 answer
 ಉತರ
 answer; north; reply; respond; response;
 uththara
-ಉತರೊಡು
+ಉತರೊಡು
 answer; reply;
 uththarakeudu
 ಪ
@@ -755,14 +755,14 @@ oamdu
 ೆಲವ
 any; certain; few; some;
 kelavu
-ಾವೇ
+ಾವೇ
 any; whatever;
 yaavude
 anybody
 ಾಾದರೂ
 anybody; anyone; somebody; someone;
 yaaraadaru
-ಾೇ
+ಾೇ
 anybody; whoever;
 yaare
 anyone
@@ -775,24 +775,24 @@ anything
 anything; do; make; some; something;
 somewhat; what; which;
 enu
-ಏೋ
+ಏೋ
 ಒಂದು
 anything; something; somewhat;
 eneu oamdu
 anyway
-ೇಾದರೂ
+ೇಾದರೂ
 hegaadaru
 anywhere
 ಎಾದರೂ
 ellaadaru
-ಎೋ
+ಎೋ
 anywhere; somewhere;
 elleu
 apart
 ತುಸುದೂರದ
 thusuduradalli
 apartment
-ೋೆ
+ೋೆ
 apartment; flat;
 keune
 apologize
@@ -807,7 +807,7 @@ kare
 appeal; ask; call; demand; request;
 requirement;
 manavi
-ೇೆ
+ೇೆ
 appeal; ask; demand; desire; please;
 request; require;
 bedike
@@ -828,11 +828,11 @@ kaanu
 appear; happen; occur;
 sambhavisuva
 appearance
-ೋಟವನು
+ೋಟವನು
 air; appearance; aspect; look;
 neutavannu
 apple
-ೇಬು
+ೇಬು
 sebu
 application
 ಅನಸುೆ
@@ -847,7 +847,7 @@ balasuvudu
 apply; employ; use;
 saahasakaarya
 appointment
-ೇಮಾ
+ೇಮಾ
 nemakaathi
 appreciate
 ಸಂಬಂಧ
@@ -868,7 +868,7 @@ vidhaana
 ಅೕ
 apreuch
 appropriate
-ೇಕದ
+ೇಕದ
 appropriate; fair; reasonable; wise;
 vivekada
 ಸೂಕ
@@ -912,10 +912,10 @@ charchisu
 arise
 ಗಸು
 nirgamisu
-ೕೇಳ
+ೕೇಳ
 melelu
 arm
-ೋಳಗಳ
+ೋಳಗಳ
 theulugalu
 ಶಸ
 shasthra
@@ -925,7 +925,7 @@ badava
 army
 ಟ
 militari
-ೇೆ
+ೇೆ
 sene
 around
 ೕೆ
@@ -937,7 +937,7 @@ mele
 ಸುಾರು
 about; around; roughly; round;
 sumaaru
-ಬಹುೇಕ
+ಬಹುೇಕ
 about; almost; around; nearly;
 bahutheka
 around
@@ -964,7 +964,7 @@ art
 art; position; soil; spot;
 kale
 article
-ೇಖನ
+ೇಖನ
 article; item;
 lekhana
 as
@@ -996,17 +996,17 @@ manavi
 ask; demand; desire; need; require;
 requirement; want; wish;
 avashyakathe
-ೋರು
+ೋರು
 ask; request;
 keuru
-ೇಳ
+ೇಳ
 ask; request;
 kelu
 ಬಯೆ
 ask; demand; desire; require; requirement;
 wish;
 bayake
-ೇೆ
+ೇೆ
 appeal; ask; demand; desire; please;
 request; require;
 bedike
@@ -1014,7 +1014,7 @@ asleep
 ಸುಪ
 suptha
 aspect
-ೋಟವನು
+ೋಟವನು
 air; appearance; aspect; look;
 neutavannu
 ದೃ
@@ -1062,10 +1062,10 @@ kudike
 association; company; firm; society;
 samaaja
 assume
-ೊಂದು
+ೊಂದು
 assume; suppose;
 heumdu
-ಇಟುೋ
+ಇಟುೋ
 accept; assume; guess; suppose;
 ittukeu
 ೕಕ
@@ -1166,7 +1166,7 @@ attend; participate;
 bhaagavahisu
 ಾಜರು
 haajariru
-ೇ
+ೇ
 attend; interview; see; visit;
 bheti
 attention
@@ -1174,7 +1174,7 @@ attention
 advice; attention; concentrate; respect;
 gamana
 attitude
-ಮೋಾವ
+ಮೋಾವ
 maneubhaava
 ವತೆ
 attitude; behave;
@@ -1185,14 +1185,14 @@ aakarshhisalu
 ಆಷ
 aamishha
 audience
-ೇಕರು
+ೇಕರು
 audience; hearing; public;
 prekshhakaru
 ಾವಜಕ
 audience; public;
 saarvajanika
 author
-ೇಖಕ
+ೇಖಕ
 author; writer;
 lekhaka
 automatic
@@ -1209,7 +1209,7 @@ avoid
 ತಸಲು
 thappisalu
 award
-ೊೆಾಡು
+ೊೆಾಡು
 heunemaadu
 ಪಶ
 prashasthi
@@ -1254,12 +1254,12 @@ himde
 background
 ೆೆ
 hinnele
-ತರೇ
+ತರೇ
 background; education; practice; teaching;
 training;
 tharabethi
 bad
-ಅಾೋಗ
+ಅಾೋಗ
 bad; ill; sick;
 anaareugya
 ೆಟ
@@ -1267,14 +1267,14 @@ ketta
 ತುಂಟತನದ 
 thumtathanada
 bag
-ೇಬು
+ೇಬು
 jebu
 ೕಲ
 chila
-ೈೕಲ
+ೈೕಲ
 kechila
 balance
-ಸಮೋಲನ
+ಸಮೋಲನ
 samatheulana
 ball
 ball
@@ -1324,7 +1324,7 @@ baarisu
 ಾಪನ
 bar; beat; measurement;
 maapana
-ಛಂೋಗ
+ಛಂೋಗ
 bar; beat;
 chhamdeugathi
 ಾ
@@ -1380,7 +1380,7 @@ battle
 ಯುದ
 battle; contest; fight; struggle; war;
 yuddha
-ೋಾಟ
+ೋಾಟ
 battle; contest; fight; struggle;
 heuraata
 be
@@ -1404,7 +1404,7 @@ maapana
 ಏಟು
 beat; blow; cut; hit; stroke;
 etu
-ಛಂೋಗ
+ಛಂೋಗ
 bar; beat;
 chhamdeugathi
 ಾಸು
@@ -1428,7 +1428,7 @@ bed
 ಾೆ
 haasige
 bedroom
-ಮಲಗುವ ೋೆ
+ಮಲಗುವ ೋೆ
 malaguva keune
 been
 ಎಂದು
@@ -1461,7 +1461,7 @@ beginning
 beginning; start;
 aarambha
 behave
-ನೆದುೊ
+ನೆದುೊ
 nadedukeu
 ವತೆ
 attitude; behave;
@@ -1506,7 +1506,7 @@ kelagade
 among; below; between; down; under;
 adiyalli
 belt
-ೊಂಟಪ
+ೊಂಟಪ
 seumtapatti
 ವಲಯ
 area; belt; sector; zone;
@@ -1573,7 +1573,7 @@ bicycle
 ಚಕ
 bicycle; bike; cycle; wheel;
 chakra
-ೈಕ
+ೈಕ
 bicycle; bike;
 sekal
 bid
@@ -1583,14 +1583,14 @@ niduththave
 ಪಯಸು
 prayathnisu
 big
-ೊಡ
+ೊಡ
 big; brilliant; grand; great; high; large; tall;
 deudda
 bike
 ಚಕ
 bicycle; bike; cycle; wheel;
 chakra
-ೈಕ
+ೈಕ
 bicycle; bike;
 sekal
 bill
@@ -1634,7 +1634,7 @@ black
 ಕಪ
 kappu
 blame
-ಆೋಸು
+ಆೋಸು
 accuse; blame;
 aareupisu
 ಾಲ
@@ -1668,7 +1668,7 @@ baarisu
 beat; blow; cut; hit; stroke;
 etu
 blue
-ಮೋವೆ
+ಮೋವೆ
 maneuvyathhe
 board
 ಮೕಯ
@@ -1679,10 +1679,10 @@ mathiya sabhe
 advice; board; suggest; suggestion;
 salahe
 boat
-ೋ
+ೋ
 deuni
 body
-ೇಹ
+ೇಹ
 deha
 ಶವದ 
 shavada
@@ -1761,7 +1761,7 @@ gamgala
 ಬಟಲು
 bowl; dish;
 battalu
-ೋಗು
+ೋಗು
 beuguni
 box
 ಾೆಟು
@@ -1770,7 +1770,7 @@ kyaasettu
 box; case; chest;
 pettige
 boy
-ೇವಕ
+ೇವಕ
 sevaka
 ಹುಡುಗ
 boy; little; small;
@@ -1779,7 +1779,7 @@ boyfriend
 ೆೆಯ
 boyfriend; friend;
 geleya
-ೇತ
+ೇತ
 boyfriend; friend;
 snehitha
 brain
@@ -1804,7 +1804,7 @@ vibhaagagalu
 brave
 ೕರ
 dhira
-ೈಯಾ
+ೈಯಾ
 dheryashaali
 bread
 ಆಾರ
@@ -1840,7 +1840,7 @@ brick
 ಇೆ
 ittige
 bridge
-ೇತುೆ
+ೇತುೆ
 sethuve
 brief
 ಸಲ
@@ -1853,14 +1853,14 @@ spashhtavaagi
 ೕಾ
 bright; brilliant;
 medhaavi
-ೆರವೊ
+ೆರವೊ
 bright; clear; clearly; light; obvious;
 theravugeulisi
 ಪಾಶಾನ
 bright; clear; light;
 prakaashamaana
 brilliant
-ೊಡ
+ೊಡ
 big; brilliant; grand; great; high; large; tall;
 deudda
 ೕಾ
@@ -1883,7 +1883,7 @@ away; broad; far; large; long; remote; wide;
 widely;
 agalavaada
 brother
-ೋದರ
+ೋದರ
 seudara
 brown
 ಕಂದು ಬಣ
@@ -1920,7 +1920,7 @@ raashi
 ಮೂೆ
 bunch; pack;
 mute
-ೊಂಚಲು
+ೊಂಚಲು
 bunch; pack;
 geumchalu
 ಕುೆ
@@ -1960,7 +1960,7 @@ vyavahaara
 business; trade;
 vyaapaara
 busy
-ಉೋಗೕಲ
+ಉೋಗೕಲ
 udyeugashila
 ಾಯರತ
 alive; busy; live; living;
@@ -2030,13 +2030,13 @@ cable
 ಇಬ
 cable; rope;
 ibbani
-ೇಬಲು
+ೇಬಲು
 keballu
 ಹಗ
 cable; rope;
 hagga 
 cake
-ೇಕು
+ೇಕು
 keku
 calculate
 ೆಕ
@@ -2073,7 +2073,7 @@ mauna
 ಾಂತ
 calm; quiet;
 shaamtha
-ೊಗಳ
+ೊಗಳ
 calm; celebrate;
 heugalu
 ಪಾಂತ
@@ -2117,7 +2117,7 @@ thegeduhaaku
 cancel; scratch;
 raddu
 cancer
-ೇ
+ೇ
 krephishh
 ಾನ
 kyaansar
@@ -2156,7 +2156,7 @@ car
 kaaru
 ಾರುಗಳ
 kaarugalu
-ೊೆಾ
+ೊೆಾ
 heuregaadi
 card
 ನು
@@ -2170,7 +2170,7 @@ care
 ೆ
 care; process; treat;
 chikithse
-ೇ
+ೇ
 ker
 career
 ವೃ
@@ -2242,7 +2242,7 @@ samdarbha
 cause; challenge;
 savaalu
 celebrate
-ೊಗಳ
+ೊಗಳ
 calm; celebrate;
 heugalu
 celebration
@@ -2255,7 +2255,7 @@ habbada
 ಆಚರೆ
 aacharane
 cell
-ೋಶ
+ೋಶ
 keusha
 certain
 ೆಲವ
@@ -2277,7 +2277,7 @@ savaalu
 ಾರಣ
 cause; challenge; occasion; reason;
 kaarana
-ಪೋದೆ
+ಪೋದೆ
 pracheudane
 champion
 ಾಂಯ
@@ -2344,7 +2344,7 @@ nadathe
 charge
 ಶುಲ
 shulka
-ಆೋಪವನು
+ಆೋಪವನು
 aareupavannu
 ಪಾಸ
 charge; load;
@@ -2355,14 +2355,14 @@ bele
 ಬಹುಾನ
 charge; cost; price; prize;
 bahumaana
-ೋ
+ೋ
 charge; load;
 leud
 charity
 ದ
 daye
 chart
-ೇಖನದ
+ೇಖನದ
 rekhanada
 ೕಜು
 chart; register; schedule; table;
@@ -2393,9 +2393,9 @@ sthana
 breast; case; chest;
 samduka
 chicken
-ೋ
+ೋ
 keuli
-ೋಮ
+ೋಮ
 keulimari
 child
 ಮಗು 
@@ -2409,7 +2409,7 @@ hachche
 ಚೆ
 chakke
 chocolate
-ಾೊೇ
+ಾೊೇ
 chaakeulet
 choice
 ಆಸುೆ
@@ -2434,7 +2434,7 @@ church
 ಚಚು
 charchu
 cigarette
-ಗೇ
+ಗೇ
 sigaret
 city
 ನಗರ
@@ -2444,7 +2444,7 @@ civil
 ಾಗಕ
 naagarika
 claim
-ಹಕುೇೆ
+ಹಕುೇೆ
 claim; demand;
 hakkukelike
 class
@@ -2465,7 +2465,7 @@ clean
 ಶುಾದ
 clean; clear; neat; pure;
 shuchiyaada
-ಾವನೊಸು
+ಾವನೊಸು
 clean; clear;
 paavanageulisu
 clear
@@ -2478,17 +2478,17 @@ spashhtavaagi
 ಶುಾದ
 clean; clear; neat; pure;
 shuchiyaada
-ಾವನೊಸು
+ಾವನೊಸು
 clean; clear;
 paavanageulisu
-ೆರವೊ
+ೆರವೊ
 bright; clear; clearly; light; obvious;
 theravugeulisi
 ಪಾಶಾನ
 bright; clear; light;
 prakaashamaana
 clearly
-ೆರವೊ
+ೆರವೊ
 bright; clear; clearly; light; obvious;
 theravugeulisi
 ಸಷಾ
@@ -2516,7 +2516,7 @@ close
 ಹರದ
 close; near;
 haththirada
-ೊೆಾಸು
+ೊೆಾಸು
 close; end; finish; shut;
 keunegaanisu
 ಮು
@@ -2569,13 +2569,13 @@ clue
 clue; indication;
 sulivu
 coach
-ಾೋಟು
+ಾೋಟು
 coach; trainer;
 saareutu
 coast
 ಕಾವ
 karaavali
-ೋ
+ೋ
 keust
 coat
 ಚಮ
@@ -2584,16 +2584,16 @@ charma
 ಫ
 coat; hide; skin;
 phar
-ೋಟು
+ೋಟು
 keutu
 ೕಲಂ
 melamgi
 code
-ಎೋ
+ಎೋ
 enkeud
-ೋ
+ೋ
 keud
-ೊೆ
+ೊೆ
 seunne
 coffee
 ಾ
@@ -2664,13 +2664,13 @@ vyaapaarada
 commission
 ಆೕಗ
 aayeuga
-ೇ
+ೇ
 commission; order;
 shreni
 commit
 ಬದೆ
 baddhathe
-ವೊಡು
+ವೊಡು
 vahisikeudu
 committee
 ಸ
@@ -2720,17 +2720,17 @@ samsthhe
 association; company; firm; society;
 samaaja 
 compare
-ೋೆ
+ೋೆ
 compare; comparison;
 heulike
-ೋಸು
+ೋಸು
 heulisu
 comparison
-ೋೆ
+ೋೆ
 compare; comparison;
 heulike
 compete
-ೈೕ
+ೈೕ
 pepeuti
 competition
 ಸೆ
@@ -2838,14 +2838,14 @@ conflict
 ಸಂಘಷ
 samgharshha
 confusion
-ೊಂದಲ
+ೊಂದಲ
 geumdala
 connect
 ಸಂಪಕ
 combine; connect; connection; join; link;
 samparka
 connection
-ೊಂ
+ೊಂ
 connection; link; tie;
 keumdi
 ಸಂಪಕ
@@ -2859,10 +2859,10 @@ consider
 ಪಗ
 consider; see; view; watch;
 pariganisi
-ೋಟ
+ೋಟ
 consider; look; see; view; watch;
 neuta
-ೋಡಲು
+ೋಡಲು
 consider; look; see; view; watch;
 neudalu
 consideration
@@ -2899,7 +2899,7 @@ consult; examine; matter; problem;
 question; request;
 prashne
 ಸಲೆ
-ೇಳ
+ೇಳ
 salahe kelu
 contact
 ಸಂಪ
@@ -2909,7 +2909,7 @@ contain
 ಒಳೆ
 attach; contain; include;
 olakke
-ೇೆ
+ೇೆ
 contain; include;
 serive
 content
@@ -2921,7 +2921,7 @@ affair; business; case; content; deal;
 material; matter; object; shop; stuff; subject;
 substance; theme; thing; topic; trade;
 vishhaya
-ಸಂೋಷ
+ಸಂೋಷ
 content; glad; happy; pleased; pleasure;
 samtheushha
 contest
@@ -2935,7 +2935,7 @@ yuddha
 ಸೆ
 competition; contest;
 spardhe
-ೋಾಟ
+ೋಾಟ
 battle; contest; fight; struggle;
 heuraata
 context
@@ -2946,7 +2946,7 @@ samdarbha
 continue
 ಮುಂದುವಸು
 mumduvarisu
-ೊೆಯ
+ೊೆಯ
 continue; final; finally; last; latter; stand;
 ultimately;
 keuneya
@@ -2956,10 +2956,10 @@ agreement; contract;
 oppamda
 contribute
 ವಂೆ
-ೊಡು
+ೊಡು
 vamthige keudu
 contribution
-ೊಡುೆ
+ೊಡುೆ
 contribution; gift; present;
 keuduge
 control
@@ -3016,7 +3016,7 @@ anukarisu
 ಅನುಕರಣದ 
 anukaranada
 corner
-ೋನ
+ೋನ
 angle; corner;
 keuna
 ೆೆ
@@ -3067,7 +3067,7 @@ counter
 ಎದುಸಲು
 edurisalu
 country
-ೇಶ
+ೇಶ
 country; ground; land; region;
 desha
 ೕಣ
@@ -3077,14 +3077,14 @@ county
 ೌಂ
 kaumti
 couple
-ೋ
+ೋ
 couple; pair;
 jeudi
 courage
 ಎೆಾೆ
 edegaarike
 course
-ೇತ
+ೇತ
 course; field; ground; pitch;
 kshhethra
 ಾಗ
@@ -3112,13 +3112,13 @@ cover
 ರೆ
 cover; guard; protect; protection;
 rakshhane
-ೇಪನ
+ೇಪನ
 lepana
 ಕಂಬ
 kambali
 ಮುಖಪಟ
 mukhaputa
-ೊೆ
+ೊೆ
 cover; discover; spot;
 heudike
 cow
@@ -3144,7 +3144,7 @@ huchchuhidida
 crazy; mad;
 huchchedda
 crazy
-ೇ
+ೇ
 crazy; mad;
 kreji
 ಪಾಶನ
@@ -3169,7 +3169,7 @@ saala
 ೆ
 credit; loan;
 kredit
-ಕಡೊಡು
+ಕಡೊಡು
 credit; loan;
 kadakeudu
 crew
@@ -3298,7 +3298,7 @@ bicycle; bike; cycle; wheel;
 chakra
 d
 dad
-ೇವಾೆ
+ೇವಾೆ
 devaraane
 daily
 ಪನ
@@ -3319,7 +3319,7 @@ adhhpathana
 ೆಸು
 damage; ruin;
 kedisu
-ೊಂದೆ
+ೊಂದೆ
 damage; difficulty; harm; hurt; injury; trouble;
 theumdare
 dance
@@ -3353,7 +3353,7 @@ as; data; here; how; information; like; so;
 than; that; then; there; thus; what; which;
 maahithi
 database
-ೇಾೇ
+ೇಾೇ
 detaabes
 date
 ಾಂಕ
@@ -3469,7 +3469,7 @@ delivery
 ಬಟಾೆ
 batavaade
 demand
-ಹಕುೇೆ
+ಹಕುೇೆ
 claim; demand;
 hakkukelike
 demand
@@ -3477,7 +3477,7 @@ demand
 appeal; ask; call; demand; request;
 requirement;
 manavi
-ೇೆ
+ೇೆ
 appeal; ask; demand; desire; please;
 request; require;
 bedike
@@ -3510,7 +3510,7 @@ dependent
 ಪಾೕನ
 paraadhina
 deposit
-ೇವ
+ೇವ
 thevani
 depression
 ಕು
@@ -3559,14 +3559,14 @@ desire
 ask; demand; desire; need; require;
 requirement; want; wish;
 avashyakathe
-ೋಾೇೆ
+ೋಾೇೆ
 desire; wish;
 bheugaapekshhe
-ೇೆ
+ೇೆ
 appeal; ask; demand; desire; please;
 request; require;
 bedike
-ೋೆ
+ೋೆ
 desire; wish;
 keurike
 ಬಯೆ
@@ -3673,7 +3673,7 @@ difficult
 difficult; hard;
 kashhta
 difficulty
-ೊಂದೆ
+ೊಂದೆ
 damage; difficulty; harm; hurt; injury; trouble;
 theumdare
 dig
@@ -3694,27 +3694,27 @@ dinnar
 ನು
 dinner; eat; food; lunch; meal;
 thinnu
-ೋಜನ
+ೋಜನ
 dinner; lunch;
 bheujana
 direct
-ನೆೊಂಡು
+ನೆೊಂಡು
 direct; guide; lead; manage;
 nadesikeumdu
 direction
-ೇಶನ
+ೇಶನ
 direction; leadership; management; way;
 nirdeshana
 directly
-ೇರಾ
+ೇರಾ
 directly; immediate; immediately;
 neravaagi
 director
-ೇಶಕ
+ೇಶಕ
 director; manager;
 nirdeshaka
 dirt
-ೊಳಕು
+ೊಳಕು
 dirt; mess;
 keulaku
 ೌಂ
@@ -3728,17 +3728,17 @@ bhumi
 ಮಣು
 bottom; dirt; earth; floor; ground; mud; soil;
 mannu
-ೊಲಸು
+ೊಲಸು
 heulasu
 dirty
-ೊಲಸು
+ೊಲಸು
 ಾಡು
 heulasu maadu
 disagree
-ೇೆಾರು
+ೇೆಾರು
 bereyaagiru
 disappointed
-ಾೆೊಂಡು
+ಾೆೊಂಡು
 niraashegeumdu
 disaster
 ಮಾದುರಂತ
@@ -3752,16 +3752,16 @@ discount
 ಾ
 riyaayithi
 discover
-ೊೆ
+ೊೆ
 cover; discover; spot;
 heudike
-ೇೆ
+ೇೆ
 discover; find;
 hege
 ಬರಂಗ
 discover; reveal;
 bahiramga
-ಅೇಸಲು
+ಅೇಸಲು
 discover; spot;
 anveshhisalu
 discuss
@@ -3775,7 +3775,7 @@ argue; argument; contest; debate; discuss;
 discussion; speak; talk;
 charche
 disease
-ಅಾೋಗದ
+ಅಾೋಗದ
 anaareugyada
 ಾೆ
 kaayile
@@ -3792,17 +3792,17 @@ disk
 disk; slice;
 disk
 display
-ೋಸು
+ೋಸು
 display; point; show;
 theurisu
-ೋಾಟು
+ೋಾಟು
 display; show;
 theurpaatu
 ೆೆಡು
 display; expose;
 theredidu
 distance
-ಅಂಗೇದನ
+ಅಂಗೇದನ
 aamgachchedana
 ದೂರ
 distance; space;
@@ -3841,7 +3841,7 @@ kaalu bhaaga
 ೆ
 district; quarter;
 jille
-ೆೆೊೆ
+ೆೆೊೆ
 district; environment; quarter;
 nereheure
 ಾಲೆಯ
@@ -3864,7 +3864,7 @@ enu
 act; do; make; operate; serve;
 maadu
 doctor
-ೈದರು
+ೈದರು
 vedyaru
 document
 ಾಗದ
@@ -3939,7 +3939,7 @@ seletha
 dream
 ಕನಸು 
 kanasu
-ೇೕ
+ೇೕ
 dedrim
 dress
 ಉಡುಪ
@@ -4100,7 +4100,7 @@ sampaadaka
 ಪಾಶಕ
 prakaashaka
 education
-ತರೇ
+ತರೇ
 background; education; practice; teaching;
 training;
 tharabethi
@@ -4108,7 +4108,7 @@ tharabethi
 education; training;
 vidyaabhyaasa
 educational
-ೈಕ
+ೈಕ
 shekshhanika
 effect
 ೆಲಸ
@@ -4176,7 +4176,7 @@ else
 else; other; otherwise;
 illavaadare
 elsewhere
-ೇೆೆ
+ೇೆೆ
 berede
 emergency
 ತುತು
@@ -4190,7 +4190,7 @@ mahathva
 emphasize
 ಅೆೆಾಕು
 adigerehaaku
-ಒೇಳ
+ಒೇಳ
 oththi helu
 employ
 ಾಹಸಾಯ
@@ -4220,7 +4220,7 @@ employment
 ಬಳಸುವದು
 apply; employ; employment; use;
 balasuvudu
-ಉೋಗ
+ಉೋಗ
 employment; job; profession;
 udyeuga
 empty
@@ -4242,7 +4242,7 @@ encouraging
 ೕಾಹ
 preuthsaaha
 end
-ೊೆಯ
+ೊೆಯ
 end; eventually; finish; stop;
 keuneyalli
 ಮುಚುವ
@@ -4254,17 +4254,17 @@ nillisu
 ಗು
 end; goal; intention; object; purpose; target;
 guri
-ೊೆಾಸು
+ೊೆಾಸು
 close; end; finish; shut;
 keunegaanisu
-ಉೇಶ
+ಉೇಶ
 end; goal; intention; object; objective;
 purpose;
 uddesha
-ಉೇಸುವದು
+ಉೇಸುವದು
 end; goal; intention; object; purpose;
 uddeshisuvudu
-ೊೆೊಳವ
+ೊೆೊಳವ
 keunegeulluva
 energy
 ಶ
@@ -4338,17 +4338,17 @@ every; everything; full; fully; perfectly; quite;
 total; totally; well; whole;
 sampurnavaagi
 entrance
-ಪೇಸಲು
+ಪೇಸಲು
 access; entrance; entry;
 praveshisalu
 entry
-ಪೇಶ
+ಪೇಶ
 pravesha
-ಪೇಸಲು
+ಪೇಸಲು
 access; entrance; entry;
 praveshisalu
 environment
-ೆೆೊೆ
+ೆೆೊೆ
 district; environment; quarter;
 nereheure
 ಪಸರ
@@ -4358,7 +4358,7 @@ equal
 equal; even; like; same; similar;
 sama
 equally
-ಅಂೇ
+ಅಂೇ
 also; equally; too;
 aamtheye
 equipment
@@ -4371,7 +4371,7 @@ error
 ಕಪಟ
 error; mistake;
 kapata
-ೋಷ
+ೋಷ
 error; fault; mistake;
 deushha
 ಪಾದ
@@ -4388,7 +4388,7 @@ especially
 ಮುಖಾ
 especially; mainly; primarily;
 mukhyavaagi
-ೇಷಾ
+ೇಷಾ
 especially; extra; particular; specifically;
 visheshhavaagi
 essay
@@ -4421,7 +4421,7 @@ nirmisalu
 establish; fix;
 drridhapadisu
 estate
-ಎೇ
+ಎೇ
 estet
 estimate
 ಅಂಾಜು
@@ -4451,7 +4451,7 @@ ivemt
 event; incident;
 ghatane
 eventually
-ೊೆಯ
+ೊೆಯ
 end; eventually; finish; stop;
 keuneyalli
 ever
@@ -4548,7 +4548,7 @@ examine
 consult; examine; matter; problem;
 question; request;
 prashne
-ೇಸು
+ೇಸು
 sheudhisu
 ಪೕಸು
 examine; explore;
@@ -4556,7 +4556,7 @@ parishilisu
 ಪಸು
 examine; question;
 prashnisu
-ಪೇಸು
+ಪೇಸು
 examine; explore; test;
 parisheudhisu
 example
@@ -4572,14 +4572,14 @@ excellent
 ಅತುತಮ
 best; better; excellent;
 athyuththama
-ೇಷ
+ೇಷ
 visheshha
 except
 ಪಬಂಸು
 prathibamdhisu
-ೊರಡು
+ೊರಡು
 heuragidu
-ೊರತುಪ
+ೊರತುಪ
 except; save;
 heurathupadisi
 exchange
@@ -4589,11 +4589,11 @@ adalubadalu
 excitement
 ಉೕಪನ
 uddipana
-ಪೋಧೆ
+ಪೋಧೆ
 excitement; suggestion;
 pracheudhane
 exciting
-ಉೇಜಕ
+ಉೇಜಕ
 uththejaka
 excuse
 ಸಾಾನ
@@ -4682,7 +4682,7 @@ vyaakhyaana
 ease; excuse; explanation; satisfaction;
 samaadhaana
 explore
-ಪೇಸು
+ಪೇಸು
 examine; explore; test;
 parisheudhisu
 ಪೕಸು
@@ -4734,7 +4734,7 @@ extent; importance; meaning; sense;
 significance;
 praamukhya
 external
-ೊರಗೆ
+ೊರಗೆ
 external; out; outside;
 heuragade
 ಾಹ
@@ -4744,7 +4744,7 @@ extra
 ೆಚುವ
 additional; extra;
 hechchuvari
-ೇಷಾ
+ೇಷಾ
 especially; extra; particular; specifically;
 visheshhavaagi
 ೆನ
@@ -4780,7 +4780,7 @@ nyaayavaada
 ಮುಾದ
 beautiful; cute; fair; fine; nice; pretty;
 muddaada
-ೇಕದ
+ೇಕದ
 appropriate; fair; reasonable; wise;
 vivekada
 ಸೂಕ
@@ -4824,11 +4824,11 @@ away; broad; course; far; large; long; off;
 path; remote; road; way; wide; widely;
 duradalli
 farm
-ೇಂದ
+ೇಂದ
 farm; middle; station; stop;
 kemdra
 farmer
-ೈತ
+ೈತ
 retha
 fast
 ಚುರುಾದ
@@ -4837,27 +4837,27 @@ churukaada
 ತತಾ
 fast; quickly;
 thvarithavaagi
-ೇಗಾ
+ೇಗಾ
 fast; quick; quickly;
 vegavaagi
-ೇಗಾದ
+ೇಗಾದ
 fast; quick; quickly;
 vegavaada
 ೕಘಾ
 early; fast; immediately; prompt; quick; soon;
 shighravaagi
 fat
-ೊದ
+ೊದ
 fat; thick;
 keubbida
-ೊಬು
+ೊಬು
 fat; oil; thick;
 keubbu
 father
 ತಂೆ
 thamde
 fault
-ೋಷ
+ೋಷ
 error; fault; mistake;
 deushha
 ನಷ
@@ -4875,7 +4875,7 @@ due; fee; tax;
 therige
 feed
 ಆಾರ
-ೊಡು
+ೊಡು
 aahaara keudu
 ೕಸು
 peushhisu
@@ -4884,7 +4884,7 @@ feel
 assumption; experience; feel; guess;
 abhipraaya
 feeling
-ಸಂೇದೆ
+ಸಂೇದೆ
 samvedane
 ಸಶನ
 sparshana
@@ -4900,7 +4900,7 @@ few
 brief; few; least; little; short; somewhat;
 svalpa
 field
-ೇತ
+ೇತ
 course; field; ground; pitch;
 kshhethra
 ೕಣ
@@ -4915,7 +4915,7 @@ charchisu
 ಯುದ
 battle; contest; fight; struggle; war;
 yuddha
-ೋಾಟ
+ೋಾಟ
 battle; contest; fight; struggle;
 heuraata
 ಕಾಟ
@@ -4955,7 +4955,7 @@ final
 ಮುಚುವ
 close; conclusion; end; final; finish; shut;
 muchchuva
-ೊೆಯ
+ೊೆಯ
 continue; final; finally; last; latter; stand;
 ultimately;
 keuneya
@@ -4963,7 +4963,7 @@ finally
 ಅಂಮಾ
 finally; ultimately;
 aamthimavaagi
-ೊೆಯ
+ೊೆಯ
 continue; final; finally; last; latter; stand;
 ultimately;
 keuneya
@@ -4971,7 +4971,7 @@ finance
 ಹಣಾಸು
 hanakaasu
 find
-ೇೆ
+ೇೆ
 discover; find;
 hege
 fine
@@ -4994,10 +4994,10 @@ finger
 ೆರಳ
 beralu
 finish
-ೊೆಾಸು
+ೊೆಾಸು
 close; end; finish; shut;
 keunegaanisu
-ೊೆಯ
+ೊೆಯ
 end; eventually; finish; stop;
 keuneyalli
 ಸು
@@ -5010,7 +5010,7 @@ fire
 ಎೆ
 fire; pitch; shoot; throw;
 ese
-ೋಥ
+ೋಥ
 keuthha
 ೆಂ
 fire; passion; shoot;
@@ -5040,7 +5040,7 @@ fishing
 ೕನುಾೆ
 minugaarike
 fit
-ಆೋಸಲು
+ಆೋಸಲು
 aareuhisalu
 ಸೂಕ
 appropriate; decent; fair; fit; proper;
@@ -5082,7 +5082,7 @@ ghana
 celebration; firm; fixed; solid; stable;
 habbada
 flat
-ೋೆ
+ೋೆ
 apartment; flat;
 keune
 ವಸಗೃಹ
@@ -5222,7 +5222,7 @@ foreign
 curious; foreign; odd; strange; unusual;
 weird;
 parakiya
-ೊಸಬ
+ೊಸಬ
 foreign; stranger;
 heusaba
 ಅನ
@@ -5288,14 +5288,14 @@ freedom
 freedom; independence;
 svaathamthrya
 frequent
-ಅೇಕೇೆ
+ಅೇಕೇೆ
 frequent; frequently; often;
 anekavele
 ಆಾೆ
 frequent; frequently; often;
 aagaagge
 frequently
-ಅೇಕೇೆ
+ಅೇಕೇೆ
 frequent; frequently; often;
 anekavele
 ಆಾೆ
@@ -5309,7 +5309,7 @@ thampaada
 cool; fresh; new; recent;
 thaajaa
 friend
-ೇತ
+ೇತ
 boyfriend; friend;
 snehitha
 ೆೆಯ
@@ -5322,10 +5322,10 @@ friendly
 ನಯೕಲ
 friendly; nice;
 vinayashila
-ೇಹ
+ೇಹ
 sneha
 friendship
-ೇಹಾ
+ೇಹಾ
 snehakkaagi
 from
 ಆ
@@ -5381,7 +5381,7 @@ fun
 entertainment; fun;
 meujina
 function
-ಕೇ
+ಕೇ
 function; job; office; task;
 kacheri
 
@@ -5465,7 +5465,7 @@ garage
 ಾಾಾರ
 garage; studio;
 kaaryaagaara
-ಾೇಜು
+ಾೇಜು
 garage; studio;
 gyaareju
 garbage
@@ -5477,7 +5477,7 @@ udyaana
 gas
 ಅಲ
 anila
-ೆೋಲು
+ೆೋಲು
 petreulu
 gate
 ಅಡತೆ
@@ -5494,9 +5494,9 @@ gear
 ಅಾತುರ
 gear; hurry; speed;
 athyaathura
-ೇರು
+ೇರು
 geru
-ೇಗ
+ೇಗ
 gear; speed;
 vega
 gene
@@ -5523,7 +5523,7 @@ expand; extend; get; hold; increase; keep;
 maintain; receive;
 padeyiri
 gift
-ೊಡುೆ
+ೊಡುೆ
 contribution; gift; present;
 keuduge
 ಪೆ
@@ -5539,32 +5539,32 @@ girlfriend
 ೆಳ
 gelathi
 give
-ೊಡು
+ೊಡು
 give; issue;
 keudu
 glad
 ತೃಪ
 content; glad; pleased;
 thrriptha
-ಸಂೋಷ
+ಸಂೋಷ
 content; glad; happy; pleased; pleasure;
 samtheushha
 glass
 ಾಜು
 gaaju
 glove
-ೈಗವಸು
+ೈಗವಸು
 kegavasu
 go
-ೋಗುವದು
+ೋಗುವದು
 go; march; run; walk;
 heuguvudu
 goal
-ಉೇಶ
+ಉೇಶ
 end; goal; intention; object; objective;
 purpose;
 uddesha
-ಉೇಸುವದು
+ಉೇಸುವದು
 end; goal; intention; object; purpose;
 uddeshisuvudu
 goal
@@ -5575,13 +5575,13 @@ guri
 door; gate; goal;
 baagilu
 god
-ೇವರು
+ೇವರು
 devaru
 gold
 ನ
 chinna
 golf
-ೊ
+ೊ
 keulli
 good
 ಾ
@@ -5607,7 +5607,7 @@ varga
 class; grade; rate;
 vargikarisalu
 grand
-ೊಡ
+ೊಡ
 big; brilliant; grand; great; high; large; tall;
 deudda
 grandfather
@@ -5622,7 +5622,7 @@ mulikegalu
 ಹುಲು
 hullu
 great
-ೊಡ
+ೊಡ
 big; brilliant; grand; great; high; large; tall;
 deudda
 greatly
@@ -5672,7 +5672,7 @@ amount; game; ground; lot; number; part;
 piece; quantity; ratio; relation; relationship;
 share;
 pramaana
-ೇಶ
+ೇಶ
 country; ground; land; region;
 desha
 ಗುಂಪ
@@ -5685,7 +5685,7 @@ graumd
 ಕುೆ
 amount; bunch; ground; quantity;
 kuppe
-ೇತ
+ೇತ
 course; field; ground; pitch;
 kshhethra
 ಬಹುಸಂೆಯ
@@ -5716,7 +5716,7 @@ guarantee
 ಆಾರ
 guarantee; security;
 aadhaara
-ೊೆಾರ
+ೊೆಾರ
 guarantee; security;
 heunegaara
 guard
@@ -5735,7 +5735,7 @@ guess
 ಅಾಯ
 assumption; experience; feel; guess;
 abhipraaya
-ಇಟುೋ
+ಇಟುೋ
 accept; assume; guess; suppose;
 ittukeu
 ಊೆ
@@ -5749,7 +5749,7 @@ guest
 ಅ
 athithhi
 guide
-ನೆೊಂಡು
+ನೆೊಂಡು
 direct; guide; lead; manage;
 nadesikeumdu
 ಾಗದಶನ
@@ -5771,7 +5771,7 @@ abhyaasa
 ಪದ
 paddhathi
 had
-ೊಂತು
+ೊಂತು
 heumdiththu
 hair
 ಕೂದಲು 
@@ -5784,7 +5784,7 @@ hall
 hall; passage;
 meugasaale
 hand
-ೈ
+ೈ
 ke
 handle
 
@@ -5801,7 +5801,7 @@ aagu
 appear; happen; occur;
 sambhavisuva
 happy
-ಸಂೋಷ
+ಸಂೋಷ
 content; glad; happy; pleased; pleasure;
 samtheushha
 hard
@@ -5814,7 +5814,7 @@ shakthishaali
 ಬಲಾದ
 hard; loud; powerful;
 balavaada
-ೋನ
+ೋನ
 neuvina
 ಾಸಾಯಕ
 thraasadaayaka
@@ -5825,25 +5825,25 @@ hardly
 ಕಷಂದ
 kashhtadimda
 harm
-ೊಂದೆ
+ೊಂದೆ
 damage; difficulty; harm; hurt; injury; trouble;
 theumdare
 ಾ
 damage; harm; hurt; injury; ruin;
 haani
 has
-ೊಂೆ
+ೊಂೆ
 heumdide
 hat
-ೋ
+ೋ
 teupi
 hate
-ೇಷ
+ೇಷ
 dveshha
 ಹೆ
 hage
 have
-ೊಂೆ
+ೊಂೆ
 have; order; own; possess;
 heumdive
 he
@@ -5865,12 +5865,12 @@ pradhaana
 boss; employer; head; leader;
 thale
 health
-ಆೋಗ
+ಆೋಗ
 aareugya
-ೈಮಲದ
+ೈಮಲದ
 nermalyada
 healthy
-ಆೋಗಕರ
+ಆೋಗಕರ
 healthy; sound; well;
 aareugyakara
 hear
@@ -5878,7 +5878,7 @@ hear
 hear; listen;
 aalisu
 hearing
-ೇಕರು
+ೇಕರು
 audience; hearing; public;
 prekshhakaru
 ಶವಣ
@@ -5888,7 +5888,7 @@ heart
 ಹೃದಯ 
 hrridaya
 heat
-ಸುೋಷೆ
+ಸುೋಷೆ
 sukheushhnathe
 ೆಚೆಯ
 heat; hot; warm;
@@ -5899,7 +5899,7 @@ ugrathaapa
 heat; warm;
 ushhna
 height
-ೊಂಟ
+ೊಂಟ
 seumta
 ಎತರ
 eththara
@@ -5985,7 +5985,7 @@ hesitate
 hesitate; wave;
 adiru
 hi
-ಹೋ
+ಹೋ
 haleu
 hide
 ಚಮ
@@ -6002,7 +6002,7 @@ high
 ಎತರದ
 high; highly; tall;
 eththarada
-ೊಡ
+ೊಡ
 big; brilliant; grand; great; high; large; tall;
 deudda
 highly
@@ -6127,10 +6127,10 @@ honest
 ಾಾಕ
 praamaanika
 honey
-ೇನು
+ೇನು
 jenu
 hook
-ೊೆ
+ೊೆ
 keukke
 hope
 ಾರುವದು
@@ -6150,10 +6150,10 @@ hospital
 ಆಸೆ
 aaspathre
 host
-ಸೊಂಸು
+ಸೊಂಸು
 adjust; host;
 sariheumdisu
-ೋ
+ೋ
 heust
 hot
 ೆಚೆಯ
@@ -6166,7 +6166,7 @@ hot
 ಮಾೆಯುಕ
 masaaleyuktha
 hotel
-ೋೆಲು
+ೋೆಲು
 heutelu
 hour
 ಗಂೆ
@@ -6217,12 +6217,12 @@ huduki
 ಗುಜ
 hunt; search;
 gujari
-ೇೆ
+ೇೆ
 bete
-ೇೆಾಡು
+ೇೆಾಡು
 hunt; pursue;
 beteyaadu
-ೇಧೆ
+ೇಧೆ
 hunt; research; search;
 sheudhane
 hurry
@@ -6230,7 +6230,7 @@ hurry
 gear; hurry; speed;
 athyaathura
 hurt
-ೊಂದೆ
+ೊಂದೆ
 damage; difficulty; harm; hurt; injury; trouble;
 theumdare
 ಶೆ
@@ -6274,14 +6274,14 @@ if
 ಾಾಗ
 if; when; whether;
 yaavaaga
-ೇೆ
+ೇೆ
 if; whether;
 vele
 ignore
 ಲಸು
 nirlakshhisu
 ill
-ಅಾೋಗ
+ಅಾೋಗ
 bad; ill; sick;
 anaareugya
 illegal
@@ -6299,11 +6299,11 @@ chithra
 image; paint; painting; picture; table;
 chithrakale
 immediate
-ೇರಾ
+ೇರಾ
 directly; immediate; immediately;
 neravaagi
 immediately
-ೇರಾ
+ೇರಾ
 directly; immediate; immediately;
 neravaagi
 ೕಘಾ
@@ -6326,7 +6326,7 @@ pradarshana
 implement; tool;
 salakarane
 imply
-ವಕೊಸು
+ವಕೊಸು
 vyakthageulisu
 importance
 ಾಮುಖ
@@ -6430,14 +6430,14 @@ arthha
 ಒಳೆ
 attach; contain; include;
 olakke
-ದುೋ
+ದುೋ
 include; realize; see; understand;
 thilidukeu
-ೇೆ
+ೇೆ
 contain; include;
 serive
 including
-ೇದಂೆ
+ೇದಂೆ
 seridamthe
 income
 ಆಾಯ
@@ -6496,7 +6496,7 @@ influence
 ಪಾವ
 prabhaava
 inform
-ೇಳ
+ೇಳ
 inform; relate;
 helu
 ಪಕಸು
@@ -6523,7 +6523,7 @@ injury
 ಾಯ
 hurt; injury;
 gaaya
-ೊಂದೆ
+ೊಂದೆ
 damage; difficulty; harm; hurt; injury; trouble;
 theumdare
 ಾ
@@ -6573,7 +6573,7 @@ aaamtharika
 inner; inside; internal;
 olagina
 insist
-ಲಂೇಳ
+ಲಂೇಳ
 lambisihelu
 inspection
 ಾರೆ
@@ -6610,7 +6610,7 @@ instead
 instead; replace; replacement;
 badalige
 instruction
-ೋಧೆ
+ೋಧೆ
 instruction; teaching;
 beudhane
 insurance
@@ -6633,11 +6633,11 @@ thirmaanisu
 decide; determine; fix; intend;
 nirdharisalu
 intention
-ಉೇಶ
+ಉೇಶ
 end; goal; intention; object; objective;
 purpose;
 uddesha
-ಉೇಸುವದು
+ಉೇಸುವದು
 end; goal; intention; object; purpose;
 uddeshisuvudu
 ಗು
@@ -6666,7 +6666,7 @@ internet
 ಇಂಟೆ
 iamtarnet
 interview
-ೇ
+ೇ
 attend; interview; see; visit;
 bheti
 into
@@ -6724,7 +6724,7 @@ involve
 ಸುತು
 suththu
 involved
-ಒಳೊಂತು
+ಒಳೊಂತು
 olageumdiththu
 iron
 ಕಣ
@@ -6739,7 +6739,7 @@ issue
 ಗಮನ
 departure; exit; issue; start;
 nirgamana
-ೊಡು
+ೊಡು
 give; issue;
 keudu
 ಆವೃ
@@ -6786,7 +6786,7 @@ item
 ಂದು
 dot; item; period; point; spot;
 bimdu
-ೇಖನ
+ೇಖನ
 article; item;
 lekhana
 its
@@ -6813,7 +6813,7 @@ avalu
 her; him; his; it; its; she; their; you; your;
 avalannu
 itself
-ತನೇ
+ತನೇ
 thannanne
 ಸತಃ
 even; itself; self;
@@ -6823,7 +6823,7 @@ jacket
 ಕವಚ 
 kavacha
 job
-ಕೇ
+ಕೇ
 function; job; office; task;
 kacheri
 ಾನ
@@ -6835,7 +6835,7 @@ job
 act; action; assignment; effect; function;
 impression; job; operate; task; work;
 kelasa
-ಉೋಗ
+ಉೋಗ
 employment; job; profession;
 udyeuga
 ಪಾಗ
@@ -6873,7 +6873,7 @@ jury
 ೕಪಾರರ
 thirpugaarara
 just
-ೇವಲ
+ೇವಲ
 just; simple; simply; unit;
 kevala
 ಾಯಾದ
@@ -6898,13 +6898,13 @@ padeyiri
 entertainment; hold; keep; maintain;
 manaramjane
 key
-ೕೈ
+ೕೈ
 kilike
 ಗುಂ
 button; key;
 gumdi
 kill
-ೊಲು
+ೊಲು
 keullu
 kind
 ೆಡ
@@ -6946,17 +6946,17 @@ known
 ಾನ
 know; knowledge; known;
 jnjaana
-ೊರುವ
+ೊರುವ
 geuththiruva
 l
 lab
 ಪೕಾಲಯ
 prayeugaalaya
 lack
-ೊರೆ
+ೊರೆ
 lack; miss; want;
 keurathe
-ೈರುಾಜ
+ೈರುಾಜ
 lack; miss; want;
 geruhaajari
 ladder
@@ -6973,10 +6973,10 @@ mahile
 lady; queen;
 raani
 lake
-ಸೋವರ
+ಸೋವರ
 sareuvara
 land
-ೇಶ
+ೇಶ
 country; ground; land; region;
 desha
 ಭೂ
@@ -7007,11 +7007,11 @@ durada
 away; broad; far; large; long; remote; wide;
 widely;
 agalavaada
-ೊಡ
+ೊಡ
 big; brilliant; grand; great; high; large; tall;
 deudda
 last
-ೊೆಯ
+ೊೆಯ
 continue; final; finally; last; latter; stand;
 ultimately;
 keuneya
@@ -7021,7 +7021,7 @@ after; at; back; behind; later; on; so; then; to;
 towards;
 namthara
 latter
-ೊೆಯ
+ೊೆಯ
 continue; final; finally; last; latter; stand;
 ultimately;
 keuneya
@@ -7048,7 +7048,7 @@ idu
 ಪ
 lay; place; put;
 put
-ೋಗು
+ೋಗು
 lay; place; put;
 seugu
 layer
@@ -7056,7 +7056,7 @@ layer
 film; fold; layer;
 padara
 lead
-ನೆೊಂಡು
+ನೆೊಂಡು
 direct; guide; lead; manage;
 nadesikeumdu
 leader
@@ -7070,13 +7070,13 @@ pradhaana
 boss; employer; head; leader;
 thale
 leadership
-ೇಶನ
+ೇಶನ
 direction; leadership; management; way;
 nirdeshana
 ಾಯಕತ
 naayakathva
 leading
-ಕೆೊಯುವ
+ಕೆೊಯುವ
 karedeuyyuva 
 league
 ಸಂಘ 
@@ -7142,14 +7142,14 @@ baadige
 admit; allow; let; permit;
 savalaththu
 ಅನುಮ
-ೊಡು
+ೊಡು
 admit; allow; let; permit;
 anumathi keudu
 letter
 ಅರ
 akshhara
 level
-ದುೊಸಲು
+ದುೊಸಲು
 level; smooth;
 medugeulisalu
 ವಸಗೃಹ
@@ -7177,7 +7177,7 @@ eththuga
 elevator; lift; raise;
 erisu
 light
-ೆರವೊ
+ೆರವೊ
 bright; clear; clearly; light; obvious;
 theravugeulisi
 ಪಾಶಾನ
@@ -7237,7 +7237,7 @@ link
 ಕಟು
 join; link; tie;
 kattu
-ೊಂ
+ೊಂ
 connection; link; tie;
 keumdi
 ಸಂಪಕ
@@ -7303,7 +7303,7 @@ jivamtha
 life; living;
 jivana
 load
-ೋ
+ೋ
 charge; load;
 leud
 ಪಾಸ
@@ -7316,7 +7316,7 @@ saala
 ೆ
 credit; loan;
 kredit
-ಕಡೊಡು
+ಕಡೊಡು
 credit; loan;
 kadakeudu
 local
@@ -7334,7 +7334,7 @@ job; location; place; position; post; seat;
 setting; site; situation; status;
 sthhaana
 location
-ೈ
+ೈ
 location; place; seat; site; spot;
 set
 lock
@@ -7355,7 +7355,7 @@ lonely
 ಒಂಾ
 alone; lonely; only; single;
 oamtiyaagi
-ಪೇಕಾದ
+ಪೇಕಾದ
 prathyekavaada
 ಾತ
 alone; lonely; merely; only; single; unique;
@@ -7379,19 +7379,19 @@ look
 ಾಣು
 appear; look; seem;
 kaanu
-ೈಗಾರ
+ೈಗಾರ
 look; see; watch;
 kegadiyaara
-ೋಟ
+ೋಟ
 consider; look; see; view; watch;
 neuta
-ೋಟವನು
+ೋಟವನು
 air; appearance; aspect; look;
 neutavannu
-ೋಡಲು
+ೋಡಲು
 consider; look; see; view; watch;
 neudalu
-ೋಡು
+ೋಡು
 look; mark; note; notice; see; watch;
 neudu
 loose
@@ -7471,7 +7471,7 @@ uta
 ನು
 dinner; eat; food; lunch; meal;
 thinnu
-ೋಜನ
+ೋಜನ
 dinner; lunch;
 bheujana
 m
@@ -7489,14 +7489,14 @@ huchchedda
 ಪಾಶನ
 crazy; mad;
 prajnjaashunya
-ೇ
+ೇ
 crazy; mad;
 kreji
 magazine
 ಯತಾಕ
 niyathakaalika
 mail
-ೊಯ
+ೊಯ
 keuriyar
 main
 ಮುಖ
@@ -7564,7 +7564,7 @@ manage
 ಆಡತ
 administration; manage; management; rule;
 aadalitha
-ನೆೊಂಡು
+ನೆೊಂಡು
 direct; guide; lead; manage;
 nadesikeumdu
 ವ
@@ -7573,11 +7573,11 @@ management
 ಆಡತ
 administration; manage; management; rule;
 aadalitha
-ೇಶನ
+ೇಶನ
 direction; leadership; management; way;
 nirdeshana
 manager
-ೇಶಕ
+ೇಶಕ
 director; manager;
 nirdeshaka
 manner
@@ -7599,7 +7599,7 @@ manufacturing
 make; manufacturing; preparation;
 maaduvudu
 many
-ಅೇಕ
+ಅೇಕ
 many; much; numerous;
 aneka
 ಹಲವ
@@ -7627,7 +7627,7 @@ march
 ಸರಹದು
 march; run; step; walk;
 sarahaddu
-ೋಗುವದು
+ೋಗುವದು
 go; march; run; walk;
 heuguvudu
 ರ
@@ -7640,7 +7640,7 @@ mark
 ೆ
 character; mark; sign; signal;
 chihne
-ೋಡು
+ೋಡು
 look; mark; note; notice; see; watch;
 neudu
 ಮೆ
@@ -7685,7 +7685,7 @@ game; lot; match; part; piece; play; share;
 sport;
 aata
 mate
-ಸಹೋ
+ಸಹೋ
 sahadyeugi
 ಒಡಾ
 buddy; mate;
@@ -7796,7 +7796,7 @@ media
 ಾಧಮ
 maadhyama
 medical
-ೈದೕಯ
+ೈದೕಯ
 vedyakiya
 medicine
 ಔಷಧ 
@@ -7849,14 +7849,14 @@ merely
 alone; lonely; merely; only; single; unique;
 maathra
 mess
-ೊಳಕು
+ೊಳಕು
 dirt; mess;
 keulaku
 message
 ಾಯಾರ
 raayabhaara
 metal
-ೋಹದ
+ೋಹದ
 leuhada
 method
 ಾನ
@@ -7874,7 +7874,7 @@ daari
 form; method; mode; mood; shape; way;
 phyaashhan
 middle
-ೇಂದ
+ೇಂದ
 farm; middle; station; stop;
 kemdra
 midnight
@@ -7928,10 +7928,10 @@ miss
 ಕೆ
 kanye
 miss
-ೊರೆ
+ೊರೆ
 lack; miss; want;
 keurathe
-ೈರುಾಜ
+ೈರುಾಜ
 lack; miss; want;
 geruhaajari
 mission
@@ -7941,7 +7941,7 @@ mistake
 ಪಾದ
 error; fault; mistake;
 pramaada
-ೋಷ
+ೋಷ
 error; fault; mistake;
 deushha
 ಕಪಟ
@@ -8086,7 +8086,7 @@ movie
 film; movie;
 chalanachithra
 much
-ಅೇಕ
+ಅೇಕ
 many; much; numerous;
 aneka
 ೆಚು
@@ -8152,14 +8152,14 @@ raashhtra
 nation; people;
 janaru
 national
-ೇೕಯ
+ೇೕಯ
 national; native;
 deshiya
 native
 ಜನದ
 native; natural;
 janmasiddha
-ೇೕಯ
+ೇೕಯ
 national; native;
 deshiya
 ಮೂಲಾ
@@ -8169,9 +8169,9 @@ natural
 native; natural;
 janmasiddha
 naturally
-ೋ
+ೋ
 keurs
-ೈಸಕಾ
+ೈಸಕಾ
 nesargikavaagi
 nature
 ನಡೆ
@@ -8212,7 +8212,7 @@ kurithu
 ಕಟಾ
 closely; nearly;
 nikatavaagi
-ಬಹುೇಕ
+ಬಹುೇಕ
 about; almost; around; nearly;
 bahutheka
 neat
@@ -8258,7 +8258,7 @@ negotiation
 samdhaana
 neither
 neither
-ಮೇನೂ
+ಮೇನೂ
 ಇಲ
 neither; nor;
 maththenu illa
@@ -8307,7 +8307,7 @@ new
 ಾಾ
 cool; fresh; new; recent;
 thaajaa
-ೊಸ
+ೊಸ
 new; recent;
 heusa
 news
@@ -8374,7 +8374,7 @@ illa
 none; nothing;
 enu illa
 nor
-ಮೇನೂ
+ಮೇನೂ
 ಇಲ
 neither; nor;
 maththenu illa
@@ -8400,7 +8400,7 @@ illa
 no; not;
 alla
 note
-ೋಡು
+ೋಡು
 look; mark; note; notice; see; watch;
 neudu
 ನಮೂಸು
@@ -8413,7 +8413,7 @@ enu illa
 ಶನ
 shunya
 notice
-ೋಡು
+ೋಡು
 look; mark; note; notice; see; watch;
 neudu
 ಪಕಟೆ
@@ -8446,7 +8446,7 @@ lekkaachaara
 figure; number;
 samkhye
 numerous
-ಅೇಕ
+ಅೇಕ
 many; much; numerous;
 aneka
 nurse
@@ -8454,7 +8454,7 @@ nurse
 daadi
 o
 object
-ಉೇಸುವದು
+ಉೇಸುವದು
 end; goal; intention; object; purpose;
 uddeshisuvudu
 ವಸು
@@ -8462,7 +8462,7 @@ affair; against; business; material; matter;
 object; opposite; stuff; subject; substance;
 theme; thing; topic; towards;
 vasthu
-ಉೇಶ
+ಉೇಶ
 end; goal; intention; object; objective;
 purpose;
 uddesha
@@ -8475,7 +8475,7 @@ vishhaya
 end; goal; intention; object; purpose; target;
 guri
 objective
-ಉೇಶ
+ಉೇಶ
 end; goal; intention; object; objective;
 purpose;
 uddesha
@@ -8490,7 +8490,7 @@ obtain
 ಗಸಲು
 galisalu
 obvious
-ೆರವೊ
+ೆರವೊ
 bright; clear; clearly; light; obvious;
 theravugeulisi
 ಪಕಟ
@@ -8594,7 +8594,7 @@ niduththave
 offer; propose;
 prasthaapisu
 office
-ಕೇ
+ಕೇ
 function; job; office; task;
 kacheri
 officer
@@ -8609,17 +8609,17 @@ official
 officer; official;
 adhikrritha
 often
-ಅೇಕೇೆ
+ಅೇಕೇೆ
 frequent; frequently; often;
 anekavele
 ಆಾೆ
 frequent; frequently; often;
 aagaagge
 oil
-ೊಬು
+ೊಬು
 fat; oil; thick;
 keubbu
-ೈಲ
+ೈಲ
 thela
 ok
 ಾ
@@ -8695,7 +8695,7 @@ opening
 break; opening; pause; rest;
 biruku
 operate
-ೇೆ
+ೇೆ
 operate; serve; service;
 seve
 ೆಲಸ
@@ -8762,13 +8762,13 @@ anukrama
 ಆೆ
 command; implement; order; perform;
 aajnje
-ೇ
+ೇ
 commission; order;
 shreni
 ಸಂಘಸು
 install; order; organize;
 samghatisu
-ೊಂೆ
+ೊಂೆ
 have; order; own; possess;
 heumdive
 ordinary
@@ -8836,7 +8836,7 @@ ourselves
 ಾವ
 ourselves; us; we;
 naavu
-ಾೇ
+ಾೇ
 ourselves; us; we;
 naave
 out
@@ -8848,10 +8848,10 @@ iamda
 ಾಹ
 external; out; outside;
 baahya
-ೊರೆ
+ೊರೆ
 out; outside;
 heurage
-ೊರಗೆ
+ೊರಗೆ
 external; out; outside;
 heuragade
 ಆ
@@ -8868,10 +8868,10 @@ outside
 at; by; for; from; in; into; of; off; out; outside;
 over; to; towards; up;
 aaph
-ೊರಗೆ
+ೊರಗೆ
 external; out; outside;
 heuragade
-ೊರೆ
+ೊರೆ
 out; outside;
 heurage
 ಇಂದ
@@ -8887,7 +8887,7 @@ oven
 ole
 ಕುಲು
 kulume
-ಮುೊೆ
+ಮುೊೆ
 muchcheule
 over
 ೕೆ
@@ -8920,7 +8920,7 @@ karthavya
 own
 ಸಂತ
 svamtha
-ೊಂೆ
+ೊಂೆ
 have; order; own; possess;
 heumdive
 owner
@@ -8934,10 +8934,10 @@ pace
 ೆೆ
 hejje
 pack
-ೊಂಚಲು
+ೊಂಚಲು
 bunch; pack;
 geumchalu
-ಾೇ
+ಾೇ
 pyaakej
 ಮೂೆ
 bunch; pack;
@@ -8957,7 +8957,7 @@ ele
 page; side;
 puta
 pain
-ೋವ
+ೋವ
 neuvu
 ಸಂಕಟ
 pain; suffer;
@@ -8979,7 +8979,7 @@ chithra
 image; paint; painting; picture; table;
 chithrakale
 pair
-ೋ
+ೋ
 couple; pair;
 jeudi
 panic
@@ -9006,7 +9006,7 @@ part
 ಾತ
 part; role; roll;
 paathra
-ೋಲ
+ೋಲ
 part; role; roll;
 reular
 ಾಗ
@@ -9033,7 +9033,7 @@ thumdu
 game; lot; match; part; piece; play; share;
 sport;
 aata
-ೇೆಾದ
+ೇೆಾದ
 part; separate;
 bereyaada
 participate
@@ -9041,7 +9041,7 @@ participate
 attend; participate;
 bhaagavahisu
 particular
-ೇಷಾ
+ೇಷಾ
 especially; extra; particular; specifically;
 visheshhavaagi
 partner
@@ -9072,7 +9072,7 @@ passion
 ೆಂ
 fire; passion; shoot;
 bemki
-ಾೕೇಕ
+ಾೕೇಕ
 bhaaveudreka
 past
 ಭೂತಾಲ
@@ -9094,7 +9094,7 @@ patience
 ಾೆ
 thaalme
 patient
-ೋ
+ೋ
 reugi
 pattern
 ಾದ
@@ -9107,7 +9107,7 @@ break; opening; pause; rest;
 biruku
 pay
 pay
-ೇತನ
+ೇತನ
 pay; salary;
 vethana
 payment
@@ -9127,7 +9127,7 @@ shrrimga
 height; peak; top; upper;
 taap
 pen
-ೇಖ
+ೇಖ
 lekhani
 penalty
 ದಂಡ 
@@ -9151,7 +9151,7 @@ janaru
 nation; people;
 raashhtra
 percentage
-ೇಕಾಾರು
+ೇಕಾಾರು
 shekadaavaaru
 perception
 ಗೆ
@@ -9204,7 +9204,7 @@ savalaththu
 leave; permission; permit;
 paravaanagi
 ಅನುಮ
-ೊಡು
+ೊಡು
 admit; allow; let; permit;
 anumathi keudu
 person
@@ -9215,7 +9215,7 @@ manushhya
 human; individual; man; person;
 vyakthi
 personal
-ೊೆ
+ೊೆ
 personal; staff;
 deunne
 personality
@@ -9258,7 +9258,7 @@ vaakya
 condition; phrase; sentence; status;
 shharaththu
 physically
-ೈಕಾ
+ೈಕಾ
 dehikavaagi
 pick
 ಆ
@@ -9306,7 +9306,7 @@ suji
 pipe
 ಉದಾೕಲ
 udda kaalchila
-ೊಳೆ
+ೊಳೆ
 keulave
 ಟೂ
 tyub
@@ -9317,7 +9317,7 @@ pitch
 ಎೆ
 fire; pitch; shoot; throw;
 ese
-ೇತ
+ೇತ
 course; field; ground; pitch;
 kshhethra
 ಮಟ
@@ -9326,7 +9326,7 @@ pizza
 ಾ
 pijjaa
 place
-ೈ
+ೈ
 location; place; seat; site; spot;
 set
 ಪ
@@ -9340,7 +9340,7 @@ sthhala
 job; location; place; position; post; seat;
 setting; site; situation; status;
 sthhaana
-ೋಗು
+ೋಗು
 lay; place; put;
 seugu
 plan
@@ -9363,7 +9363,7 @@ plane
 ವಸಗೃಹ
 flat; level; map; plane;
 vasathigrriha
-ಏೋೇ
+ಏೋೇ
 ereuplen
 ಮಟದ
 mattada
@@ -9385,7 +9385,7 @@ phalaka
 platform
 ಧೆ
 dhakke
-ೇೆ
+ೇೆ
 vedike
 play
 ಆಟ
@@ -9403,7 +9403,7 @@ pleasant
 nice; pleasant;
 aahlaadakara
 please
-ೇೆ
+ೇೆ
 appeal; ask; demand; desire; please;
 request; require;
 bedike
@@ -9414,13 +9414,13 @@ pleased
 ತೃಪ
 content; glad; pleased;
 thrriptha
-ಸಂೋಷ
+ಸಂೋಷ
 content; glad; happy; pleased; pleasure;
 samtheushha
 pleasure
-ಆನಂದೊಸು
+ಆನಂದೊಸು
 aanamdageulisu
-ಸಂೋಷ
+ಸಂೋಷ
 content; glad; happy; pleased; pleasure;
 samtheushha
 plus
@@ -9445,7 +9445,7 @@ poetry
 ಾವ
 kaavya 
 point
-ೋಸು
+ೋಸು
 display; point; show;
 theurisu
 ಂದು
@@ -9466,7 +9466,7 @@ pollution
 ಾನ
 maalinya
 pool
-ೊಳ
+ೊಳ
 keula
 poor
 ಕ
@@ -9497,7 +9497,7 @@ positive
 ಧಾತಕ
 dhanaathmaka
 possess
-ೊಂೆ
+ೊಂೆ
 have; order; own; possess;
 heumdive
 possession
@@ -9579,7 +9579,7 @@ practice
 ಅಾಸ
 exercise; habit; practice; surgery;
 abhyaasa
-ತರೇ
+ತರೇ
 background; education; practice; teaching;
 training;
 tharabethi
@@ -9592,7 +9592,7 @@ pray
 invite; pray; request;
 sthuthisu
 prefer
-ಆಯುೊ
+ಆಯುೊ
 aaydukeu
 preference
 ಒಲವ
@@ -9610,7 +9610,7 @@ presence
 haajari
 present
 present
-ೊಡುೆ
+ೊಡುೆ
 contribution; gift; present;
 keuduge
 ಪಚಸಲು
@@ -9693,7 +9693,7 @@ bele
 class; price; rate; text;
 pathya
 pride
-ೊಕು
+ೊಕು
 seukku
 pride
 ೆ
@@ -9801,7 +9801,7 @@ product
 ಉತನ
 uthpanna
 profession
-ಉೋಗ
+ಉೋಗ
 employment; job; profession;
 udyeuga
 professional
@@ -9937,7 +9937,7 @@ pride; proud;
 ahamkaara
 ಜಂಬದ 
 jambada
-ೊನ
+ೊನ
 seukkina
 ೆ
 pride; proud;
@@ -9972,13 +9972,13 @@ provided
 ಒದದ
 odagisida
 psychology
-ಮೋಾನ
+ಮೋಾನ
 maneuvijnjaana
 public
 ಾವಜಕ
 audience; public;
 saarvajanika
-ೇಕರು
+ೇಕರು
 audience; hearing; public;
 prekshhakaru
 punch
@@ -10004,21 +10004,21 @@ pure
 clean; clear; neat; pure;
 shuchiyaada
 purple
-ೇ
+ೇ
 kennili
 purpose
-ಉೇಶ
+ಉೇಶ
 end; goal; intention; object; objective;
 purpose;
 uddesha
-ಉೇಸುವದು
+ಉೇಸುವದು
 end; goal; intention; object; purpose;
 uddeshisuvudu
 ಗು
 end; goal; intention; object; purpose; target;
 guri
 pursue
-ೇೆಾಡು
+ೇೆಾಡು
 hunt; pursue;
 beteyaadu
 ಂಾಸು
@@ -10035,7 +10035,7 @@ press; push;
 adumu
 put
 put
-ೋಗು
+ೋಗು
 lay; place; put;
 seugu
 ಪ
@@ -10079,7 +10079,7 @@ kaalu bhaaga
 ೆ
 district; quarter;
 jille
-ೆೆೊೆ
+ೆೆೊೆ
 district; environment; quarter;
 nereheure
 ಾಲೆಯ
@@ -10107,10 +10107,10 @@ quick
 ಚುರುಾದ
 fast; quick; quickly;
 churukaada
-ೇಗಾ
+ೇಗಾ
 fast; quick; quickly;
 vegavaagi
-ೇಗಾದ
+ೇಗಾದ
 fast; quick; quickly;
 vegavaada
 ೕಘಾ
@@ -10121,13 +10121,13 @@ quickly
 ಚುರುಾದ
 fast; quick; quickly;
 churukaada
-ೇಗಾದ
+ೇಗಾದ
 fast; quick; quickly;
 vegavaada
 ತತಾ
 fast; quickly;
 thvarithavaagi
-ೇಗಾ
+ೇಗಾ
 fast; quick; quickly;
 vegavaagi
 quiet
@@ -10170,7 +10170,7 @@ sampurnavaagi
 enough; pretty; quite; sufficient;
 saakashhtu
 quote
-ಎೇಳ
+ಎೇಳ
 eththihelu
 ೆಕ
 calculate; count; figure; quote;
@@ -10181,10 +10181,10 @@ race
 bet; race;
 juju
 radio
-ೇೕ
+ೇೕ
 ೆ
 rediyeu set
-ೇೕ
+ೇೕ
 rediyeu
 rain
 ೆೆ
@@ -10296,7 +10296,7 @@ importance; include; meaning; mind;
 realize; see; sense; significance;
 understand; understanding;
 arthha
-ದುೋ
+ದುೋ
 include; realize; see; understand;
 thilidukeu
 really
@@ -10313,7 +10313,7 @@ reason
 ಾರಣ
 cause; challenge; occasion; reason;
 kaarana
-ೇರಕ
+ೇರಕ
 preraka
 ಸಂದಭ
 cause; chance; context; occasion;
@@ -10333,7 +10333,7 @@ svikaaraarha
 ದ
 intelligent; reasonable; wise;
 dakshha
-ೇಕದ
+ೇಕದ
 appropriate; fair; reasonable; wise;
 vivekada
 receive
@@ -10355,7 +10355,7 @@ recent
 ಾಾ
 cool; fresh; new; recent;
 thaajaa
-ೊಸ
+ೊಸ
 new; recent;
 heusa
 recently
@@ -10404,7 +10404,7 @@ reduce
 limited; little; low; lower; poor; reduce; small;
 kadime
 reference
-ಉೇಖ
+ಉೇಖ
 ullekha
 reflection
 ಪಫಲನ
@@ -10420,16 +10420,16 @@ thiraskrritha
 ಾಕಸು
 niraakarisu
 region
-ೇಶ
+ೇಶ
 country; ground; land; region;
 desha
-ಪೇಶ
+ಪೇಶ
 pradesha
 ೕಣ
 area; country; field; region; zone;
 visthirna
 register
-ೋಂಾಸು
+ೋಂಾಸು
 neumdaayisu
 ೕಜು
 chart; register; schedule; table;
@@ -10456,7 +10456,7 @@ relate
 account; relate; report; tell;
 varadi 
 relate
-ೇಳ
+ೇಳ
 inform; relate;
 helu
 
@@ -10585,7 +10585,7 @@ reply
 ಉತರ
 answer; north; reply; respond; response;
 uththara
-ಉತರೊಡು
+ಉತರೊಡು
 answer; reply;
 uththarakeudu
 ಪ
@@ -10606,7 +10606,7 @@ reputation
 appeal; call; cry; reputation;
 prasiddhi
 request
-ೇಳ
+ೇಳ
 ask; request;
 kelu
 ಸುಸು
@@ -10616,7 +10616,7 @@ sthuthisu
 appeal; ask; call; demand; request;
 requirement;
 manavi
-ೇೆ
+ೇೆ
 appeal; ask; demand; desire; please;
 request; require;
 bedike
@@ -10629,7 +10629,7 @@ request
 ದಯಟು
 appeal; please; request;
 dayavittu
-ೋರು
+ೋರು
 ask; request;
 keuru
 ಪೆ
@@ -10648,7 +10648,7 @@ bayake
 ಅಗತ
 important; necessary; need; require; want;
 agathya
-ೇೆ
+ೇೆ
 appeal; ask; demand; desire; please;
 request; require;
 bedike
@@ -10671,7 +10671,7 @@ research
 ಪೕಸು
 investigate; research;
 parikshhisu
-ೇಧೆ
+ೇಧೆ
 hunt; research; search;
 sheudhane
 ತೆ
@@ -10688,13 +10688,13 @@ resident
 ಾಸ
 nivaasa
 resist
-ೋಸು
+ೋಸು
 vireudhisu
 resolution
 ಾರ
 decision; resolution; resolve;
 nirdhaara
-ೇಷಣ
+ೇಷಣ
 analysis; resolution; test;
 vishleshhana
 ಸಜೆ
@@ -10751,10 +10751,10 @@ ulidive
 ರುಕು
 break; opening; pause; rest;
 biruku
-ಅಾವೇಷ
+ಅಾವೇಷ
 alpaavasheshha
 restaurant
-ೆೋೆಂ
+ೆೋೆಂ
 resteuremt
 result
 ಫಾಂಶ
@@ -10810,7 +10810,7 @@ akki
 rich
 ಾಾಜ
 saamraajya
-ೇರಳಾ
+ೇರಳಾ
 heralavaagi
 ದಂ
 damdi
@@ -10841,7 +10841,7 @@ uamgura
 ring; sound; tone;
 svasthha
 rip
-ಾಕೇೆಂದು
+ಾಕೇೆಂದು
 rip; tear;
 haakabekemdu
 ನಕಲು ಾಡ
@@ -10879,7 +10879,7 @@ daari
 rock
 ಾ
 raak
-ೊಡಬಂೆ
+ೊಡಬಂೆ
 deudda bamde
 role
 
@@ -10892,7 +10892,7 @@ paathra
 bit; concern; game; lot; part; piece; role;
 roll; room; share; slice;
 bhaaga
-ೋಲ
+ೋಲ
 part; role; roll;
 reular
 roll
@@ -10903,9 +10903,9 @@ paathra
 bit; concern; game; lot; part; piece; role;
 roll; room; share; slice;
 bhaaga
-ೋ
+ೋ
 reul
-ೋಲ
+ೋಲ
 part; role; roll;
 reular
 roof
@@ -10924,7 +10924,7 @@ bhaaga
 ತುಂಡು
 bit; game; part; piece; room; share; slice;
 thumdu
-ೊಠ
+ೊಠ
 keuthadi
 ತುಣುಕು
 bit; game; part; piece; room; share;
@@ -11038,7 +11038,7 @@ sarahaddu
 ಹವ
 current; flow; river; run;
 harivu
-ೋಗುವದು
+ೋಗುವದು
 go; march; run; walk;
 heuguvudu
 ರ
@@ -11048,7 +11048,7 @@ rush
 ದೂಡು
 press; push; rush;
 dudu
-ೊರದಬುವದು
+ೊರದಬುವದು
 heuradabbuvudu
 s
 sad
@@ -11066,10 +11066,10 @@ sail
 ಾ
 haayi
 salad
-ೋಸಂಬ
+ೋಸಂಬ
 keusambari
 salary
-ೇತನ
+ೇತನ
 pay; salary;
 vethana
 ಸಂಬಳ 
@@ -11097,7 +11097,7 @@ sadrrisha
 ಉಾಹರೆೆ
 same; similar; so; such;
 udaaharanege
-ಾೇ
+ಾೇ
 haageye
 sample
 ಪವಾಸ
@@ -11120,7 +11120,7 @@ satisfaction
 ease; excuse; explanation; satisfaction;
 samaadhaana
 save
-ೊರತುಪ
+ೊರತುಪ
 except; save;
 heurathupadisi
 ಉ
@@ -11129,7 +11129,7 @@ ulisi
 ಕಾವಸು
 kachchaavasthu
 say
-ೇ
+ೇ
 say; tell;
 se
 scale
@@ -11195,7 +11195,7 @@ there
 hide; screen;
 bachchidu
 screw
-ೈೆ
+ೈೆ
 berige
 script
 ತಕೆ
@@ -11207,7 +11207,7 @@ search
 ಹುಡು
 explore; hunt; search; seek;
 huduki
-ೇಧೆ
+ೇಧೆ
 hunt; research; search;
 sheudhane
 ಗುಜ
@@ -11230,7 +11230,7 @@ sthhala
 job; location; place; position; post; seat;
 setting; site; situation; status;
 sthhaana
-ೈ
+ೈ
 location; place; seat; site; spot;
 set
 second
@@ -11274,7 +11274,7 @@ security
 ಭದೆ
 safety; security;
 bhadrathe
-ೊೆಾರ
+ೊೆಾರ
 guarantee; security;
 heunegaara
 ಆಾರ
@@ -11283,22 +11283,22 @@ aadhaara
 ಅಡವ
 adavu
 see
-ೇ
+ೇ
 attend; interview; see; visit;
 bheti
-ೈಗಾರ
+ೈಗಾರ
 look; see; watch;
 kegadiyaara
-ದುೋ
+ದುೋ
 include; realize; see; understand;
 thilidukeu
-ೋಟ
+ೋಟ
 consider; look; see; view; watch;
 neuta
-ೋಡಲು
+ೋಡಲು
 consider; look; see; view; watch;
 neudalu
-ೋಡು
+ೋಡು
 look; mark; note; notice; see; watch;
 neudu
 ಪಗ
@@ -11390,7 +11390,7 @@ separate
 divide; game; lot; part; piece; separate;
 share;
 paalu
-ೇೆಾದ
+ೇೆಾದ
 part; separate;
 bereyaada
 ಾಸು
@@ -11414,20 +11414,20 @@ serve
 ಾಡು
 act; do; make; operate; serve;
 maadu
-ೇೆ
+ೇೆ
 operate; serve; service;
 seve
 service
 ಪೆ
 puje
-ೇೆ
+ೇೆ
 operate; serve; service;
 seve
 session
 ಸೆ
 meeting; session;
 sabhe
-ಅೇಶನ
+ಅೇಶನ
 adhiveshana
 set
 ಸರ
@@ -11470,7 +11470,7 @@ sex
 limga
 sexual
 sexual
-ೈಂಕ
+ೈಂಕ
 lemgika
 shake
 ಕುಲುಕು
@@ -11580,7 +11580,7 @@ vargaayisu
 shine
 ಹರಡು 
 haradu
-ೊಸು
+ೊಸು
 heuththisu
 ship
 ಹಡಗು 
@@ -11640,7 +11640,7 @@ chemdu
 ball; shot;
 bulet
 should
-ಾಡೇಾದುದು
+ಾಡೇಾದುದು
 maadabekaadudu
 shoulder
 shoulder
@@ -11650,10 +11650,10 @@ show
 ಪಾೕಕಸು
 establish; prove; show;
 pramaanikarisu
-ೋಸು
+ೋಸು
 display; point; show;
 theurisu
-ೋಾಟು
+ೋಾಟು
 display; show;
 theurpaatu
 shower
@@ -11666,7 +11666,7 @@ vrrishhti
 mix; rain; shower; touch;
 beresi
 shut
-ೊೆಾಸು
+ೊೆಾಸು
 close; end; finish; shut;
 keunegaanisu
 ಮು
@@ -11679,7 +11679,7 @@ muchchalaagide
 close; conclusion; end; final; finish; shut;
 muchchuva
 sick
-ಅಾೋಗ
+ಅಾೋಗ
 bad; ill; sick;
 anaareugya
 side
@@ -11703,7 +11703,7 @@ signal
 ೆ
 character; mark; sign; signal;
 chihne
-ಸಂೇತ
+ಸಂೇತ
 samketha
 signature
 ಸ
@@ -11750,7 +11750,7 @@ similarly
 like; same; similar; similarly;
 sadrrisha
 simple
-ೇವಲ
+ೇವಲ
 just; simple; simply; unit;
 kevala
 ಸರಳ
@@ -11760,7 +11760,7 @@ sarala
 simple; simply; unit;
 saralavaagi
 simply
-ೇವಲ
+ೇವಲ
 just; simple; simply; unit;
 kevala
 ಸರಳ
@@ -11787,7 +11787,7 @@ singer
 ಾಯಕ
 gaayaka
 single
-ಏೈಕ
+ಏೈಕ
 ekeka
 ಒಂಾ
 alone; lonely; only; single;
@@ -11802,12 +11802,12 @@ sir
 ೕ
 shri
 sister
-ೋದ
+ೋದ
 seudari
 ಬಹಚ
 brahmacharye
 sit
-ಕುತುೋ
+ಕುತುೋ
 kulithukeu
 site
 site
@@ -11819,7 +11819,7 @@ sthhala
 job; location; place; position; post; seat;
 setting; site; situation; status;
 sthhaana
-ೈ
+ೈ
 location; place; seat; site; spot;
 set
 situation
@@ -11845,13 +11845,13 @@ skill
 accident; chance; fortune; lot; occasion;
 opportunity; skill;
 adrrishhta
-ೈಪಣ
+ೈಪಣ
 nepunya
 skin
 ಚಮ
 coat; hide; leather; skin;
 charma
-ೊಗೆ
+ೊಗೆ
 theugate
 ಫ
 coat; hide; skin;
@@ -11890,7 +11890,7 @@ durbala
 fine; sensitive; slight; thin;
 theluvaada
 slightly
-ೊಂಚ
+ೊಂಚ
 keumcha
 slip
 ಇಯಡು
@@ -11912,7 +11912,7 @@ smart
 ೕಸದ
 cute; smart;
 meusada
-ೊಗಸುಾರ
+ೊಗಸುಾರ
 seugasugaara
 ಾಣ
 cute; intelligent; reasonable; smart; wise;
@@ -11934,7 +11934,7 @@ smoke
 ಧೂಮಾನ
 dhumapaana
 smooth
-ದುೊಸಲು
+ದುೊಸಲು
 level; smooth;
 medugeulisalu
 ಾದ
@@ -12048,14 +12048,14 @@ somebody
 anybody; anyone; somebody; someone;
 yaaraadaru
 somehow
-ೇೋ
+ೇೋ
 hegeu
 someone
 ಾಾದರೂ
 anybody; anyone; somebody; someone;
 yaaraadaru
 something
-ಏೋ
+ಏೋ
 ಒಂದು
 anything; something; somewhat;
 eneu oamdu
@@ -12074,7 +12074,7 @@ somewhat
 anything; do; make; some; something;
 somewhat; what; which;
 enu
-ಏೋ
+ಏೋ
 ಒಂದು
 anything; something; somewhat;
 eneu oamdu
@@ -12082,7 +12082,7 @@ eneu oamdu
 brief; few; least; little; short; somewhat;
 svalpa
 somewhere
-ಎೋ
+ಎೋ
 anywhere; somewhere;
 elleu
 son
@@ -12101,7 +12101,7 @@ mumchina
 early; fast; immediately; prompt; quick; soon;
 shighravaagi
 sound
-ಆೋಗಕರ
+ಆೋಗಕರ
 healthy; sound; well;
 aareugyakara
 ಉಚ
@@ -12162,7 +12162,7 @@ speaker
 ಸಾಪ
 sabhaapathi
 specifically
-ೇಷಾ
+ೇಷಾ
 especially; extra; particular; specifically;
 visheshhavaagi
 specify
@@ -12182,7 +12182,7 @@ speed
 ನೆ
 course; march; speed; step; walk;
 nade
-ೇಗ
+ೇಗ
 gear; speed;
 vega
 ಅಾತುರ
@@ -12198,7 +12198,7 @@ significance; spirit; understanding;
 arthhadalli
 ಆತ
 aathma
-ೇತನ
+ೇತನ
 alcohol; spirit;
 chethana
 ಮನೆ
@@ -12215,7 +12215,7 @@ spite
 asamaadhaana
 ಕಡುಹೆ
 kaduhage
-ೇಡು
+ೇಡು
 sedu
 split
 ಾಸು
@@ -12233,14 +12233,14 @@ spot
 location; place; position; seat; setting; site;
 situation; spot;
 sthhala
-ೊೆ
+ೊೆ
 cover; discover; spot;
 heudike
 spot
-ೈ
+ೈ
 location; place; seat; site; spot;
 set
-ಅೇಸಲು
+ಅೇಸಲು
 discover; spot;
 anveshhisalu
 ಕೆ
@@ -12276,7 +12276,7 @@ habbada
 celebration; firm; fixed; secure; solid; stable;
 ghana
 staff
-ೊೆ
+ೊೆ
 personal; staff;
 deunne
 stage
@@ -12287,7 +12287,7 @@ drrishya
 cut; phase; scene; stage;
 hamtha
 stand
-ೊೆಯ
+ೊೆಯ
 continue; final; finally; last; latter; stand;
 ultimately;
 keuneya
@@ -12314,10 +12314,10 @@ state
 condition; state; status;
 raajya
 statement
-ೇೆ
+ೇೆ
 helike
 station
-ೇಂದ
+ೇಂದ
 farm; middle; station; stop;
 kemdra
 station
@@ -12382,18 +12382,18 @@ aadaagyu
 again; but; however; still; yet;
 aadare
 stomach
-ೊೆ
+ೊೆ
 heutte
-ೊೆ
+ೊೆ
 kibbeutte
 stop
 ಸು
 end; finish; stop;
 nillisu
-ೊೆಯ
+ೊೆಯ
 end; eventually; finish; stop;
 keuneyalli
-ೇಂದ
+ೇಂದ
 farm; middle; station; stop;
 kemdra
 ತಂಗುವದು
@@ -12410,9 +12410,9 @@ store
 ಾಂ
 shop; store;
 shaapimg
-ೇಖಡಲು
+ೇಖಡಲು
 shekharisidalu
-ೇರು
+ೇರು
 store; supply;
 shheru
 storm
@@ -12434,7 +12434,7 @@ aakhyaana
 ಪಹಸನ
 prahasana
 straight
-ೇರಾದ
+ೇರಾದ
 neravaada
 strain
 ಾಚು
@@ -12453,7 +12453,7 @@ vichithra
 stranger
 ಅಾತ
 ajnjaatha
-ೊಸಬ
+ೊಸಬ
 foreign; stranger;
 heusaba
 ಅನ
@@ -12498,7 +12498,7 @@ strike
 
 hit; strike;
 hit
-ೊೆ
+ೊೆ
 heude
 string
 ಾರ
@@ -12522,13 +12522,13 @@ etu
 ಾಸು
 bar; beat; blow; hit; stroke;
 baarisu
-ೊೆತ
+ೊೆತ
 heudetha
 structure
 ರಚೆ
 rachane
 struggle
-ೋಾಟ
+ೋಾಟ
 battle; contest; fight; struggle;
 heuraata
 ಒಾಡು
@@ -12540,7 +12540,7 @@ student
 ಾ
 vidyaarthhi
 studio
-ಾೇಜು
+ಾೇಜು
 garage; studio;
 gyaareju
 ಸುೕ
@@ -12578,7 +12578,7 @@ stupid
 silly; stupid;
 stupid
 style
-ೈ
+ೈ
 sheli
 subject
 ಗಸು
@@ -12658,7 +12658,7 @@ thaalu
 ಸಂಕಟ
 pain; suffer;
 samkata
-ಸೊಳವ
+ಸೊಳವ
 sahisikeulluva
 sufficient
 sufficient
@@ -12673,7 +12673,7 @@ suggest
 advice; board; suggest; suggestion;
 salahe
 suggestion
-ಪೋಧೆ
+ಪೋಧೆ
 excitement; suggestion;
 pracheudhane
 ಸಲೆ
@@ -12706,7 +12706,7 @@ supply
 ೕಡುತೆ
 bid; offer; proposal; propose; supply;
 niduththave
-ೇರು
+ೇರು
 store; supply;
 shheru
 ಒದಸು
@@ -12722,14 +12722,14 @@ aasare
 ೆಂಬಲ
 bembala
 suppose
-ಇಟುೋ
+ಇಟುೋ
 accept; assume; guess; suppose;
 ittukeu
 ೕಕ
 accept; adopt; assume; receive; suppose;
 take;
 svikarisi
-ೊಂದು
+ೊಂದು
 assume; suppose;
 heumdu
 surgery
@@ -12740,7 +12740,7 @@ surprised
 ಆಶಯ
 aashcharya
 surround
-ಸುತುವಯೇ
+ಸುತುವಯೇ
 suththuvariyade
 ಆವಸು
 aavarisu
@@ -12838,7 +12838,7 @@ tall
 ಎತರದ
 high; highly; tall;
 eththarada
-ೊಡ
+ೊಡ
 big; brilliant; grand; great; high; large; tall;
 deudda
 tap
@@ -12858,7 +12858,7 @@ parithyaaga
 act; action; affair; business; case; deal;
 matter; operate; task;
 kaarya
-ಕೇ
+ಕೇ
 function; job; office; task;
 kacheri
 ೆಲಸ
@@ -12889,7 +12889,7 @@ teach
 ಾಠ
 learn; lesson; teach;
 paatha
-ೋಸು
+ೋಸು
 beudhisu
 teacher
 ಾಾಪಕ
@@ -12898,13 +12898,13 @@ praadhyaapaka
 ಕ
 shikshhaka
 teaching
-ೋಧೆ
+ೋಧೆ
 instruction; teaching;
 beudhane
 ಇತರ
 another; other; teaching;
 ithara
-ತರೇ
+ತರೇ
 background; education; practice; teaching;
 training;
 tharabethi
@@ -12920,7 +12920,7 @@ tear
 ನಕಲು ಾಡ
 rip; tear;
 nakalu maada
-ಾಕೇೆಂದು
+ಾಕೇೆಂದು
 rip; tear;
 haakabekemdu
 technical
@@ -12937,7 +12937,7 @@ television
 ದೂರದಶನ
 duradarshana
 tell
-ೇ
+ೇ
 say; tell;
 se
 
@@ -12974,7 +12974,7 @@ test
 ಪವಾಸ
 proof; sample; test;
 purvabhyaasa
-ೇಷಣ
+ೇಷಣ
 analysis; resolution; test;
 vishleshhana
 ಾರೆ
@@ -12985,7 +12985,7 @@ vichaarane
 agent; design; example; instance; model;
 pattern; proof; sample; test;
 maadari
-ಪೇಸು
+ಪೇಸು
 examine; explore; test;
 parisheudhisu
 ಪೕಗ
@@ -13173,10 +13173,10 @@ thick
 ಮು
 close; closely; shut; solid; thick;
 muchchi
-ೊದ
+ೊದ
 fat; thick;
 keubbida
-ೊಬು
+ೊಬು
 fat; oil; thick;
 keubbu
 ದಪ
@@ -13241,7 +13241,7 @@ kaththu
 ಕುೆಯ
 collar; neck; throat;
 kuththigeya
-ೋಣು
+ೋಣು
 geunu
 through
 ಮೂಲಕ
@@ -13283,7 +13283,7 @@ tie
 gennu
 ಗಂಟು 
 gamtu
-ೊಂ
+ೊಂ
 connection; link; tie;
 keumdi
 ಕಟು
@@ -13305,7 +13305,7 @@ krrishhi
 by; till; until;
 thanaka
 time
-ೈ
+ೈ
 age; time; weather;
 tem
 ಯುಗ
@@ -13326,7 +13326,7 @@ thudi
 tired
 ದದ
 danida
-ೇಸರಪಡುವ
+ೇಸರಪಡುವ
 besarapaduva
 title
 ೕೆ
@@ -13370,7 +13370,7 @@ toe
 ಾಾಂಗು
 paadaamguli
 together
-ಅೇ
+ಅೇ
 ಸಮಯದ
 ade samayadalli
 ಒೆ
@@ -13404,7 +13404,7 @@ bhaashhe
 ಾೆ
 naalige
 too
-ಅಂೇ
+ಅಂೇ
 also; equally; too;
 aamtheye
 ೕಾ
@@ -13551,9 +13551,9 @@ towel
 ೌಕ
 chauka
 tower
-ೋೆ
+ೋೆ
 keute
-ೋಪರ
+ೋಪರ
 geupura
 town
 ನಗರ
@@ -13592,15 +13592,15 @@ samchaara
 tour; traffic;
 prasarana
 train
-ೈಲು
+ೈಲು
 relu
 trainer
 trainer
-ಾೋಟು
+ಾೋಟು
 coach; trainer;
 saareutu
 training
-ತರೇ
+ತರೇ
 background; education; practice; teaching;
 training;
 tharabethi
@@ -13658,7 +13658,7 @@ asvasthhathe
 ಕಲಕು
 bother; trouble;
 kalaku
-ೊಂದೆ
+ೊಂದೆ
 damage; difficulty; harm; hurt; injury; trouble;
 theumdare
 truck
@@ -13745,7 +13745,7 @@ ultimately
 ಅಂಮಾ
 finally; ultimately;
 aamthimavaagi
-ೊೆಯ
+ೊೆಯ
 continue; final; finally; last; latter; stand;
 ultimately;
 keuneya
@@ -13775,7 +13775,7 @@ importance; include; meaning; mind;
 realize; see; sense; significance;
 understand; understanding;
 arthha
-ದುೋ
+ದುೋ
 include; realize; see; understand;
 thilidukeu
 understanding
@@ -13810,7 +13810,7 @@ unique
 alone; lonely; merely; only; single; unique;
 maathra
 unit
-ೇವಲ
+ೇವಲ
 just; simple; simply; unit;
 kevala
 ಸರಳಾ
@@ -13822,10 +13822,10 @@ ghataka
 simple; simply; unit;
 sarala
 united
-ಯುೈೆ
+ಯುೈೆ
 yuneted
 unless
-ೊರತು
+ೊರತು
 heurathu
 unlikely
 ಅಸಂಭವ 
@@ -13906,7 +13906,7 @@ us
 ಾವ
 ourselves; us; we;
 naavu
-ಾೇ
+ಾೇ
 ourselves; us; we;
 naave
 use
@@ -13992,7 +13992,7 @@ variation
 ಬದಾವೆ
 badalaavane
 variety
-ೈಧ
+ೈಧ
 vevidhya
 various
 ಧ
@@ -14031,13 +14031,13 @@ view
 ಪಗ
 consider; see; view; watch;
 pariganisi
-ೋಡಲು
+ೋಡಲು
 consider; look; see; view; watch;
 neudalu
 ದೃ
 aspect; perspective; view;
 drrishhti
-ೋಟ
+ೋಟ
 consider; look; see; view; watch;
 neuta
 village
@@ -14047,13 +14047,13 @@ virtually
 ವಸುತಃ
 vasthuthh
 virus
-ೈರ
+ೈರ
 veras
 visible
 ಪತ
 prathyakshha
 visit
-ೇ
+ೇ
 attend; interview; see; visit;
 bheti
 voice
@@ -14080,7 +14080,7 @@ ebbisu
 walk
 ನೆಾಡು
 nadedaadu
-ೋಗುವದು
+ೋಗುವದು
 go; march; run; walk;
 heuguvudu
 ರ
@@ -14093,7 +14093,7 @@ nade
 march; run; step; walk;
 sarahaddu
 wall
-ೋೆ
+ೋೆ
 geude
 want
 ಬಯಸು
@@ -14106,10 +14106,10 @@ agathya
 ask; demand; desire; need; require;
 requirement; want; wish;
 avashyakathe
-ೊರೆ
+ೊರೆ
 lack; miss; want;
 keurathe
-ೈರುಾಜ
+ೈರುಾಜ
 lack; miss; want;
 geruhaajari
 war
@@ -14141,7 +14141,7 @@ was
 be; been; being; that; was; were;
 eamdu
 wash
-ೊೆ
+ೊೆ
 theule
 waste
 ಹಂೆ
@@ -14154,23 +14154,23 @@ consider; see; view; watch;
 pariganisi
 ಲಸು
 lakshhisu
-ೋಡು
+ೋಡು
 look; mark; note; notice; see; watch;
 neudu
-ೋಟ
+ೋಟ
 consider; look; see; view; watch;
 neuta
 ಗಾರ
 clock; watch;
 gadiyaara
-ೈಗಾರ
+ೈಗಾರ
 look; see; watch;
 kegadiyaara
-ೋಡಲು
+ೋಡಲು
 consider; look; see; view; watch;
 neudalu
 water
-ೕೊದಸು
+ೕೊದಸು
 nireudagisu
 ೕರು
 niru
@@ -14183,7 +14183,7 @@ hesitate; wave;
 adiru
 ಅೆ
 ale
-ೊಡಅೆ
+ೊಡಅೆ
 deudda ale
 way
 ಾಗ
@@ -14193,7 +14193,7 @@ maarga
 ಾಷ
 form; method; mode; mood; shape; way;
 phyaashhan
-ೇಶನ
+ೇಶನ
 direction; leadership; management; way;
 nirdeshana
 ಾ
@@ -14211,7 +14211,7 @@ oamdu
 ಾವ
 ourselves; us; we;
 naavu
-ಾೇ
+ಾೇ
 ourselves; us; we;
 naave
 ೕವ
@@ -14235,7 +14235,7 @@ wear
 bear; carry; wear;
 udu
 weather
-ೈ
+ೈ
 age; time; weather;
 tem
 web
@@ -14288,7 +14288,7 @@ absolutely; all; complete; completely; entire;
 every; everything; full; fully; perfectly; quite;
 total; totally; well; whole;
 sampurnavaagi
-ಆೋಗಕರ
+ಆೋಗಕರ
 healthy; sound; well;
 aareugyakara
 were
@@ -14324,7 +14324,7 @@ anything; do; make; some; something;
 somewhat; what; which;
 enu
 whatever
-ಾವೇ
+ಾವೇ
 any; whatever;
 yaavude
 wheel
@@ -14346,7 +14346,7 @@ where
 elli
 whereas
 whereas
-ಆೋ
+ಆೋ
 aaleuchisi
 ಾಲದ
 at; during; for; in; into; near; on; whereas;
@@ -14356,7 +14356,7 @@ kaaladalli
 during; when; whereas; while;
 samaya
 whether
-ೇೆ
+ೇೆ
 if; whether;
 vele
 ಅಥಾ
@@ -14405,7 +14405,7 @@ di
 her; him; it; that; the; what; which; who;
 yaaru
 whoever
-ಾೇ
+ಾೇ
 anybody; whoever;
 yaare
 whole
@@ -14472,7 +14472,7 @@ wild
 ಾಡು
 concern; wild; worry;
 kaadu
-ೋಪದ
+ೋಪದ
 angry; wild;
 keupada
 ರುನ
@@ -14516,7 +14516,7 @@ wing
 ೆೆ
 rekke 
 winner
-ೇತ
+ೇತ
 vijetha
 winter
 ಚಾಲ
@@ -14530,14 +14530,14 @@ jaana
 ದ
 intelligent; reasonable; wise;
 dakshha
-ೇಕದ
+ೇಕದ
 appropriate; fair; reasonable; wise;
 vivekada
 wish
-ೋೆ
+ೋೆ
 desire; wish;
 keurike
-ೋಾೇೆ
+ೋಾೇೆ
 desire; wish;
 bheugaapekshhe
 ಬಯೆ
@@ -14681,7 +14681,7 @@ write
 ಬೆ
 bare
 writer
-ೇಖಕ
+ೇಖಕ
 author; writer;
 lekhaka
 ಬರಹಾರ
@@ -14690,7 +14690,7 @@ writing
 ಬೆಯುವ
 bareyuva
 wrong
-ೋಷರುವ
+ೋಷರುವ
 deushhaviruva
 ತಾದ
 false; wrong;
@@ -14732,7 +14732,7 @@ aadaagyu
 again; already; but; calm; despite; however;
 quiet; still; yet;
 innu
-ಆಗೇ
+ಆಗೇ
 already; yet;
 aagale
 you
@@ -14820,9 +14820,9 @@ aamga
 medium
 ಅಂ
 aamgi shirt
-ಅಂಗೇದನ
+ಅಂಗೇದನ
 aamgachchedana
-ಅಂಗೇದನ;
+ಅಂಗೇದನ;
 ದೂರ; ಾಗ;
 distance
 ಅಂಗಣದ
@@ -14856,7 +14856,7 @@ web
 aamgikarisu
 ಅಂೕಕಸು;
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಅೆ;
 ಸವಲತು;
 admit
@@ -14874,27 +14874,27 @@ stick
 ಅಂಮಾ
 aamthimavaagi
 ಅಂಮಾ;
-ೊೆಯ;
+ೊೆಯ;
 finally
 aamthimavaagi
 ಅಂಮಾ;
-ೊೆಯ;
+ೊೆಯ;
 ultimately
 ಅಂತ
 aamthyakriye
 ಅಂತ;
 ಶವಸಂಾರ;
 funeral
-ಅಂೇ
+ಅಂೇ
 aamtheye
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ಮತಷು;
 ೕಾ;
 ಸಹ;
 also
 aamtheye
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ೕಾ;
 ಸಹ;
@@ -15029,8 +15029,8 @@ aggada cheap
 agathya
 ಅಗತ;
 ಅವಶಕೆ;
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 ಬಯಸು;
 want
 agathya
@@ -15043,7 +15043,7 @@ agathya
 ಅಗತೆ;
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 require
 ಅಗತ
 agathya
@@ -15060,7 +15060,7 @@ agathyavide
 ಅಗತೆ;
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 require
 ಅಗತಾ
 agathyavaagi necessarily
@@ -15093,7 +15093,7 @@ agalavaada
 long
 agalavaada
 ಅಗಲಾದ;
-ೊಡ;
+ೊಡ;
 ದೂರದ; ದೂರದ;
 large
 agalavaada
@@ -15150,7 +15150,7 @@ ajji grandmother
 ajnjaatha
 ಅಾತ;
 ಅನ;
-ೊಸಬ;
+ೊಸಬ;
 stranger
 ಅ
 adi
@@ -15183,7 +15183,7 @@ adige mane kitchen
 ಅೆೆಾಕು
 adigerehaaku
 ಅೆೆಾಕು;
-ಒೇಳ;
+ಒೇಳ;
 emphasize
 ಅಡಾ
 addalaagi
@@ -15256,7 +15256,7 @@ adavu
 ಅಡವ;
 ಆಾರ;
 ಭದೆ;
-ೊೆಾರ;
+ೊೆಾರ;
 security
 ಅಡುೆ
 ಾಡು
@@ -15308,7 +15308,7 @@ quite
 athyamtha most
 athyamtha
 ಅತಂತ;
-ಅೇಕ;
+ಅೇಕ;
 ೆಚು;
 much
 athyamtha very
@@ -15317,14 +15317,14 @@ athyadhika maximum
 ಅಾತುರ
 athyaathura
 ಅಾತುರ;
-ೇರು;
-ೇಗ;
+ೇರು;
+ೇಗ;
 gear
 athyaathura hurry
 athyaathura
 ಅಾತುರ;
 ನೆ;
-ೇಗ;
+ೇಗ;
 speed
 ಅತುತಮ
 athyuththama
@@ -15337,13 +15337,13 @@ athyuththama
 better
 athyuththama
 ಅತುತಮ;
-ೇಷ;
+ೇಷ;
 excellent
 ಅಥಾ
 athhavaa
 ಅಥಾ;
 ಾಾಗ;
-ೇೆ;
+ೇೆ;
 whether
 athhavaa or
 ಅದುತಾ
@@ -15380,7 +15380,7 @@ adiru hesitate
 adiru
 ಅರು;
 ಅೆ;
-ೊಡಅೆ;
+ೊಡಅೆ;
 ೕಸು;
 wave
 ಅದಲುಬದಲು
@@ -15429,7 +15429,7 @@ adrrishhta
 chance
 adrrishhta
 ಅದೃಷ;
-ೈಪಣ;
+ೈಪಣ;
 skill
 adrrishhta
 ಅದೃಷ;
@@ -15441,10 +15441,10 @@ adrrishhta
 ಅದೃಷ;
 ಅಪತ;
 accident
-ಅೇ
+ಅೇ
 ಸಮಯದ
 ade samayadalli
-ಅೇ
+ಅೇ
 ಸಮಯದ;
 ಒೆ;
 ಾಾನ;
@@ -15457,7 +15457,7 @@ adhhpathana
 ruin
 adhhpathana
 ಅಧಃಪತನ; ೆಸು;
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 damage
 ಅಕಬಲ
@@ -15511,21 +15511,21 @@ chair
 adhyaaya chapter
 ಅಾನಗಳ
 adhvaanagalu failure
-ಅೇಶನ
+ಅೇಶನ
 adhiveshana
-ಅೇಶನ;
+ಅೇಶನ;
 ಸೆ;
 session
 ಅನ
 anya
 ಅನ;
 ಪರೕಯ;
-ೊಸಬ;
+ೊಸಬ;
 foreign
 anya
 ಅಾತ;
 ಅನ;
-ೊಸಬ;
+ೊಸಬ;
 stranger
 anya
 ಅನ;
@@ -15538,7 +15538,7 @@ anyaayada unfair
 ಅಲ
 anila
 ಅಲ;
-ೆೋಲು;
+ೆೋಲು;
 gas
 ಅನಸುೆ
 anvayisuvike application
@@ -15548,33 +15548,33 @@ anivaarya
 ಅಗತಾದ;
 ಅಾಯ;
 necessary
-ಅೇಸಲು
+ಅೇಸಲು
 anveshhisalu
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಕೆ;
 ಾಣ;
 ಂದು;
 ಸಳ;
-ೈ;
-ೊೆ;
+ೈ;
+ೊೆ;
 spot
 anveshhisalu
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಬರಂಗ;
-ೊೆ;
-ೇೆ;
+ೊೆ;
+ೇೆ;
 discover
-ಅಾೋಗ
+ಅಾೋಗ
 anaareugya
-ಅಾೋಗ;
+ಅಾೋಗ;
 ೆಟ;
 ತುಂಟತನದ;
 bad
 anaareugya sick
 anaareugya ill
-ಅಾೋಗದ
+ಅಾೋಗದ
 anaareugyada
-ಅಾೋಗದ;
+ಅಾೋಗದ;
 ಾೆ;
 disease
 ಅನುಕರಣದ
@@ -15587,9 +15587,9 @@ copy
 anukrama
 ಅನುಕಮ;
 ಆೆ;
-ೇ;
+ೇ;
 ಸಂಘಸು;
-ೊಂೆ;
+ೊಂೆ;
 order
 ಅನುಕಸು
 anukarisu
@@ -15626,7 +15626,7 @@ experience
 anumathi
 ಅನುಮ;
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಪರಾನ;
 ಸವಲತು;
 permit
@@ -15641,30 +15641,30 @@ anumathi
 ಮಂಜೂಾ;
 permission
 ಅನುಮ
-ೊಡು
+ೊಡು
 anumathi keudu
 ಅನುಮ;
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಪರಾನ;
 ಸವಲತು;
 permit
 anumathi keudu
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಾೆ;
 ಸವಲತು;
 let
 anumathi keudu
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ೕ;
 ಸವಲತು;
 allow
 anumathi keudu
 ಅಂೕಕಸು;
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಅೆ;
 ಸವಲತು;
 admit
@@ -15684,7 +15684,7 @@ anumeudisalu
 receive
 anumeudisalu
 ಅನುೕಸಲು;
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
 accept
 anumeudisalu
@@ -15702,9 +15702,9 @@ succeed
 anusarisu borrow
 anusarisu
 ಅನುಸಸು;
-ೆರೇಸು;
+ೆರೇಸು;
 ಪದಶನ;
-ಪೈಸುವ;
+ಪೈಸುವ;
 achieve
 ಅನುಸಸುವ
 anusarisuva
@@ -15726,28 +15726,28 @@ anusarisuva
 following
 ಅೌಪಾಕ
 anaupachaarika informal
-ಅೇಕ
+ಅೇಕ
 aneka
-ಅೇಕ;
+ಅೇಕ;
 ಹಲವ;
 many
 aneka numerous
 aneka
 ಅತಂತ;
-ಅೇಕ;
+ಅೇಕ;
 ೆಚು;
 much
-ಅೇಕೇೆ
+ಅೇಕೇೆ
 anekavele
-ಅೇಕೇೆ;
+ಅೇಕೇೆ;
 ಆಾೆ;
 often
 anekavele
-ಅೇಕೇೆ;
+ಅೇಕೇೆ;
 ಆಾೆ;
 frequent
 anekavele
-ಅೇಕೇೆ;
+ಅೇಕೇೆ;
 ಆಾೆ;
 frequently
 ಅಪತ
@@ -15827,7 +15827,7 @@ experience
 abhipraaya feel
 abhipraaya
 ಅಾಯ;
-ಇಟುೋ;
+ಇಟುೋ;
 ಊೆ;
 ಕಲೆ;
 guess
@@ -15850,7 +15850,7 @@ abhyaasa
 exercise
 abhyaasa
 ಅಾಸ;
-ತರೇ;
+ತರೇ;
 ಪೕಗ;
 practice
 abhyaasa surgery
@@ -15870,7 +15870,7 @@ growth
 arike
 ಅಂೕಕಸು;
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಅೆ;
 ಸವಲತು;
 admit
@@ -15898,17 +15898,17 @@ arthha
 sense
 arthha
 ಅಥ;
-ದುೋ;
+ದುೋ;
 understand
 arthha
 ಅಥ;
-ೈಗಾರ;
-ದುೋ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ದುೋ;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 ಪಗ;
-ೇ;
+ೇ;
 see
 arthha
 ಅಥ;
@@ -15932,7 +15932,7 @@ arthha
 importance
 arthha
 ಅಥ;
-ದುೋ;
+ದುೋ;
 realize
 arthha
 ಅಥ;
@@ -15942,8 +15942,8 @@ significance
 arthha
 ಅಥ;
 ಒಳೆ;
-ದುೋ;
-ೇೆ;
+ದುೋ;
+ೇೆ;
 include
 ಅಥದ
 arthhadalli
@@ -15979,7 +15979,7 @@ mind
 arthhadalli
 ಅಥದ;
 ಆತ;
-ೇತನ;
+ೇತನ;
 ಮನೆ;
 spirit
 ಅಥಪಣ
@@ -16015,7 +16015,7 @@ arha
 ಅಹ;
 ಆಕಮಣ;
 ಆಕಮಣಾಡು;
-ಆೋಸಲು;
+ಆೋಸಲು;
 
 ಪದಾಗ;
 ೕಗ;
@@ -16060,12 +16060,12 @@ win
 ale
 ಅರು;
 ಅೆ;
-ೊಡಅೆ;
+ೊಡಅೆ;
 ೕಸು;
 wave
-ಅಾವೇಷ
+ಅಾವೇಷ
 alpaavasheshha
-ಅಾವೇಷ;
+ಅಾವೇಷ;
 ಆಸೆ;
 ಉದ;
 ಉೆ;
@@ -16146,12 +16146,12 @@ avadhi
 period
 avadhi
 ಅವ;
-ೈ;
+ೈ;
 ಯುಗ; ವಯಸು;
 age
 avadhi
 ಅವ;
-ೈ;
+ೈ;
 ಯುಗ; ವಯಸು;
 time
 ಅವನ
@@ -16454,7 +16454,7 @@ avashyakathe
 ಅಗತೆ;
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 require
 avashyakathe
 ಅವಶಕೆ;
@@ -16463,23 +16463,23 @@ avashyakathe
 requirement
 avashyakathe
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೋಾೇೆ;
+ಬಯಸು; ೋಾೇೆ;
 wish
 avashyakathe
 ಅಗತ;
 ಅವಶಕೆ;
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 ಬಯಸು;
 want
 avashyakathe
 ಅವಶಕೆ;
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ask
 avashyakathe
@@ -16489,17 +16489,17 @@ need
 avashyakathe
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
-ಹಕುೇೆ;
+ಹಕುೇೆ;
 demand
 avashyakathe
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೇೆ;
+ಬಯಸು; ೇೆ;
 
-ೋಾೇೆ;
+ೋಾೇೆ;
 desire
 ಅವಗಳನು
 avugalannu
@@ -16592,12 +16592,12 @@ asamarthha unable
 asamaadhaana
 ಅಸಾಾನ;
 ಕಡುಹೆ;
-ೇಡು;
+ೇಡು;
 spite
 ಅಸಸೆ
 asvasthhathe
 ಅಸಸೆ;
-ಕಲಕು; ೊಂದೆ;
+ಕಲಕು; ೊಂದೆ;
 ಸಮೆ;
 trouble
 ಅಸಹಕರ
@@ -16633,13 +16633,13 @@ asaamaanya greatly
 ಅಹಂಾರ
 ahamkaara
 ಅಹಂಾರ;
-ೊಕು;
+ೊಕು;
 ೆ;
 pride
 ಅಹಂಾರ
 ahamkaara
 ಅಹಂಾರ;
-ಜಂಬದ; ೊನ;
+ಜಂಬದ; ೊನ;
 ೆ;
 proud
 ಆ
@@ -16694,7 +16694,7 @@ aakramana
 ಅಹ;
 ಆಕಮಣ;
 ಆಕಮಣಾಡು;
-ಆೋಸಲು;
+ಆೋಸಲು;
 
 ಪದಾಗ;
 ೕಗ;
@@ -16711,7 +16711,7 @@ aakramanamaadu
 ಅಹ;
 ಆಕಮಣ;
 ಆಕಮಣಾಡು;
-ಆೋಸಲು;
+ಆೋಸಲು;
 
 ಪದಾಗ;
 ೕಗ;
@@ -16764,28 +16764,28 @@ aagide is
 aagamana
 ಆಗಮನ; ಮುಂಬರುವ;
 arrival
-ಆಗೇ
+ಆಗೇ
 aagale
-ಆಗೇ;
+ಆಗೇ;
 ಇನೂ;
 already
 aagale
-ಆಗೇ;
+ಆಗೇ;
 ಆದೆ;
 ಆಾಗೂ;
 ಇನೂ;
 yet
 ಆಾೆ
 aagaagge
-ಅೇಕೇೆ;
+ಅೇಕೇೆ;
 ಆಾೆ;
 frequent
 aagaagge
-ಅೇಕೇೆ;
+ಅೇಕೇೆ;
 ಆಾೆ;
 often
 aagaagge
-ಅೇಕೇೆ;
+ಅೇಕೇೆ;
 ಆಾೆ;
 frequently
 ಆಗು
@@ -16807,7 +16807,7 @@ shock
 aaghaatha
 ಆತ;
 ಏಟು; ಾಸು;
-ೊೆತ;
+ೊೆತ;
 stroke
 ಆಚರೆ
 aacharane
@@ -16828,9 +16828,9 @@ implement
 aajnje
 ಅನುಕಮ;
 ಆೆ;
-ೇ;
+ೇ;
 ಸಂಘಸು;
-ೊಂೆ;
+ೊಂೆ;
 order
 ಆಟ
 aata
@@ -16847,9 +16847,9 @@ aata
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 aata
 ಆಟ; ತುಂಡು; ತುಣುಕು; ಪಾಣ;
@@ -16879,12 +16879,12 @@ aatagaara player
 aadalitha administration
 aadalitha
 ಆಡತ;
-ೇಶನ;
+ೇಶನ;
 management
 ಆಡತ
 aadalitha
 ಆಡತ;
-ನೆೊಂಡು;
+ನೆೊಂಡು;
 ವ;
 manage
 aadalitha
@@ -16912,7 +16912,7 @@ aathamka anxiety
 aathma
 ಅಥದ;
 ಆತ;
-ೇತನ;
+ೇತನ;
 ಮನೆ;
 spirit
 ಆದಂದ
@@ -16959,7 +16959,7 @@ aadare
 ಇನೂ;
 ಮೆ;
 ಂೆ;
-ೊಸಾ;
+ೊಸಾ;
 again
 aadare
 ಆದೆ;
@@ -16969,7 +16969,7 @@ aadare
 ಸಹ;
 still
 aadare
-ಆಗೇ;
+ಆಗೇ;
 ಆದೆ;
 ಆಾಗೂ;
 ಇನೂ;
@@ -17007,7 +17007,7 @@ aadaagyu
 ಇನೂ;
 however
 aadaagyu
-ಆಗೇ;
+ಆಗೇ;
 ಆದೆ;
 ಆಾಗೂ;
 ಇನೂ;
@@ -17025,7 +17025,7 @@ aadaagyu
 ಇನೂ;
 ಮೆ;
 ಂೆ;
-ೊಸಾ;
+ೊಸಾ;
 again
 ಆಾಯ
 aadaaya revenue
@@ -17038,18 +17038,18 @@ spiritual
 ಆಾರ
 aadhaara
 ಆಾರ;
-ೊೆಾರ;
+ೊೆಾರ;
 guarantee
 aadhaara
 ಅಡವ;
 ಆಾರ;
 ಭದೆ;
-ೊೆಾರ;
+ೊೆಾರ;
 security
-ಆನಂದೊಸು
+ಆನಂದೊಸು
 aanamdageulisu
-ಆನಂದೊಸು;
-ಸಂೋಷ;
+ಆನಂದೊಸು;
+ಸಂೋಷ;
 pleasure
 ಆನಂ
 aanamdisi enjoy
@@ -17107,8 +17107,8 @@ over
 aaph
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 out
 aaph
 ಆಂತಕ;
@@ -17133,8 +17133,8 @@ of
 aaph
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 outside
 aaph
 ಆ;
@@ -17204,14 +17204,14 @@ aayda
 ಆ;
 ಆಯ;
 pick
-ಆಯುೊ
+ಆಯುೊ
 aaydukeu prefer
 ಆಾಮ
 aayaama dimension
 ಆೕಗ
 aayeuga
 ಆೕಗ;
-ೇ;
+ೇ;
 commission
 ಆರಂಭ
 aarambha
@@ -17295,14 +17295,14 @@ aaraamadaayaka
 ಮುಾದ;
 ನಯೕಲ;
 nice
-ಆೋಗ
+ಆೋಗ
 aareugya
-ಆೋಗ;
-ೈಮಲದ;
+ಆೋಗ;
+ೈಮಲದ;
 health
-ಆೋಗಕರ
+ಆೋಗಕರ
 aareugyakara
-ಆೋಗಕರ;
+ಆೋಗಕರ;
 ಉಚ
 ಸರದ;
 ಧ;
@@ -17310,38 +17310,38 @@ aareugyakara
 ಸಸ;
 sound
 aareugyakara
-ಆೋಗಕರ;
+ಆೋಗಕರ;
 ಾ;
 ಸಂಪಣಾ;
 well
 aareugyakara healthy
-ಆೋಪವನು
+ಆೋಪವನು
 aareupavannu
-ಆೋಪವನು;
+ಆೋಪವನು;
 ಪಾಸ;
 ೆೆ;
 ಬಹುಾನ;
-ೋ;
+ೋ;
 
 ಶುಲ;
 charge
-ಆೋಸು
+ಆೋಸು
 aareupisu
-ಆೋಸು;
+ಆೋಸು;
 ದೂಸಲು;
 ಬಯು;
 ಾಲ;
 blame
 aareupisu
-ಆೋಸು;
+ಆೋಸು;
 ದೂಸಲು;
 accuse
-ಆೋಸಲು
+ಆೋಸಲು
 aareuhisalu
 ಅಹ;
 ಆಕಮಣ;
 ಆಕಮಣಾಡು;
-ಆೋಸಲು;
+ಆೋಸಲು;
 
 ಪದಾಗ;
 ೕಗ;
@@ -17352,9 +17352,9 @@ aalisu hear
 aalisu listen
 ಆಲೂಗೆ
 aalugadde potato
-ಆೋ
+ಆೋ
 aaleuchisi
-ಆೋ;
+ಆೋ;
 ಾಲದ;
 ಸಮಯ;
 whereas
@@ -17386,12 +17386,12 @@ rule
 ಆವಸು
 aavarisu
 ಆವಸು;
-ಸುತುವಯೇ;
+ಸುತುವಯೇ;
 surround
 ಆವೃ
 aavrriththi
 ಆವೃ;
-ೊಡು;
+ೊಡು;
 ಗಮನ;
 ೕೆ;
 issue
@@ -17427,13 +17427,13 @@ quality
 aasana
 ಆಸನ; ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 seat
 ಆಸೆ
 aaspathre hospital
 ಆಸೆ
 aasare
-ಅಾವೇಷ;
+ಅಾವೇಷ;
 ಆಸೆ;
 ಉದ;
 ಉೆ;
@@ -17464,12 +17464,12 @@ aahaara
 ಆಾರ;
 ಊಟ; ನ;
 ನು;
-ೋಜನ;
+ೋಜನ;
 dinner
 aahaara
 ಆಾರ;
 ಊಟ; ನು;
-ೋಜನ;
+ೋಜನ;
 lunch
 aahaara
 ಆಾರ;
@@ -17481,10 +17481,10 @@ aahaara
 ಟು;
 meal
 ಆಾರ
-ೊಡು
+ೊಡು
 aahaara keudu
 ಆಾರ
-ೊಡು;
+ೊಡು;
 ೕಸು;
 feed
 ಇ
@@ -17505,8 +17505,8 @@ for
 iamda
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 outside
 iamda
 ಆ;
@@ -17528,8 +17528,8 @@ on
 iamda
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 out
 iamda
 ಆ;
@@ -17552,7 +17552,7 @@ off
 iamda
 ಇಂದ; ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ರುದಾ;
 
@@ -17658,46 +17658,46 @@ ichchhisu
 intend
 ಇೆ
 ittige brick
-ಇಟುೋ
+ಇಟುೋ
 ittukeu
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
-ೊಂದು;
+ೊಂದು;
 suppose
 ittukeu
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
-ೊಂದು;
+ೊಂದು;
 assume
 ittukeu
 ಅಾಯ;
-ಇಟುೋ;
+ಇಟುೋ;
 ಊೆ;
 ಕಲೆ;
 guess
-ಇಟುೋ
+ಇಟುೋ
 ittukeu
 ಅನುೕಸಲು;
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
 accept
 ಇಡು
 idu
 ಇಡು; ಪ;
-ೋಗು;
+ೋಗು;
 lay
 ಇೕೆೆ
 iththichege recently
 ಇತರ
 ithara
-ಇತರ; ತರೇ;
-ೋಧೆ;
+ಇತರ; ತರೇ;
+ೋಧೆ;
 teaching
 ithara
 ಇತರ; ಇಲಾದೆ;
 other
 ithara
-ಇತರ; ಮೊಂದು;
+ಇತರ; ಮೊಂದು;
 another
 ಇಾಸ
 ithihaasa
@@ -17829,7 +17829,7 @@ innu
 ಇನೂ;
 but
 innu
-ಆಗೇ;
+ಆಗೇ;
 ಇನೂ;
 already
 innu
@@ -17845,7 +17845,7 @@ innu
 ಇನೂ;
 ಮೆ;
 ಂೆ;
-ೊಸಾ;
+ೊಸಾ;
 again
 innu
 ಇನೂ;
@@ -17864,7 +17864,7 @@ innu
 ಇನೂ;
 however
 innu
-ಆಗೇ;
+ಆಗೇ;
 ಆದೆ;
 ಆಾಗೂ;
 ಇನೂ;
@@ -17876,14 +17876,14 @@ innu
 ೌನ;
 ಾಂತ;
 
-ೊಗಳ;
+ೊಗಳ;
 calm
 ಇಾಮು
 inaamu bonus
 ಇಬ
 ibbani
 ಇಬ;
-ೇಬಲು;
+ೇಬಲು;
 ಹಗ;
 cable
 ibbani
@@ -17917,7 +17917,7 @@ illa
 as
 illa
 ಇಲ;
-ಮೇನೂ
+ಮೇನೂ
 ಇಲ;
 ಾವದೂ
 ಅಲ;
@@ -18009,12 +18009,12 @@ ugrathaapa
 ಉಗಾಪ;
 ಉಷ;
 ೆಚೆಯ;
-ಸುೋಷೆ;
+ಸುೋಷೆ;
 heat
 ಉಚ
 ಸರದ
 uchcha svarada
-ಆೋಗಕರ;
+ಆೋಗಕರ;
 ಉಚ
 ಸರದ;
 ಧ;
@@ -18077,29 +18077,29 @@ uththara
 response
 uththara
 ಉತರ;
-ಉತರೊಡು;
+ಉತರೊಡು;
 ಪ;
 ಪಾರ;
 answer
 uththara
 ಉತರ;
-ಉತರೊಡು;
+ಉತರೊಡು;
 ಪ;
 reply
 uththara north
-ಉತರೊಡು
+ಉತರೊಡು
 uththarakeudu
 ಉತರ;
-ಉತರೊಡು;
+ಉತರೊಡು;
 ಪ;
 reply
 uththarakeudu
 ಉತರ;
-ಉತರೊಡು;
+ಉತರೊಡು;
 ಪ;
 ಪಾರ;
 answer
-ಉೇಜಕ
+ಉೇಜಕ
 uththejaka exciting
 ಉತ
 uthpaththi
@@ -18133,7 +18133,7 @@ length
 ಉದಾೕಲ
 udda kaalchila
 ಉದಾೕಲ;
-ೊಳೆ;
+ೊಳೆ;
 ಟೂ;
 ೕ
 ಊದು;
@@ -18144,76 +18144,76 @@ uddakku along
 ಉೕಪನ
 uddipana
 ಉೕಪನ;
-ಪೋಧೆ;
+ಪೋಧೆ;
 excitement
-ಉೇಶ
+ಉೇಶ
 uddesha
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಾಲು;
 goal
 uddesha
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 purpose
 uddesha objective
 uddesha
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 intention
 uddesha
-ಉೇಶ;
-ಉೇಸುವದು;
-ೊೆಾಸು;
+ಉೇಶ;
+ಉೇಸುವದು;
+ೊೆಾಸು;
 
-ೊೆೊಳವ;
-ೊೆಯ;
+ೊೆೊಳವ;
+ೊೆಯ;
 ಗು;
 ಸು;
 ಮುಚುವ;
 end
 uddesha
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಷಯ;
 ವಸು;
 object
-ಉೇಸುವದು
-ಉೇಸುವದು
+ಉೇಸುವದು
+ಉೇಸುವದು
 uddeshisuvudu
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಷಯ;
 ವಸು;
 object
 uddeshisuvudu
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 purpose
 uddeshisuvudu
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 intention
 uddeshisuvudu
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಾಲು;
 goal
 uddeshisuvudu
-ಉೇಶ;
-ಉೇಸುವದು;
-ೊೆಾಸು;
+ಉೇಶ;
+ಉೇಸುವದು;
+ೊೆಾಸು;
 
-ೊೆೊಳವ;
-ೊೆಯ;
+ೊೆೊಳವ;
+ೊೆಯ;
 ಗು;
 ಸು;
 ಮುಚುವ;
@@ -18234,22 +18234,22 @@ udyaana
 ಾಂ;
 parking
 udyaana park
-ಉೋಗ
+ಉೋಗ
 udyeuga
-ಉೋಗ;
-ಕೇ;
+ಉೋಗ;
+ಕೇ;
 ೆಲಸ;
 ಪಾಗ;
 ಾನ;
 job
 udyeuga profession
 udyeuga
-ಉೋಗ;
+ಉೋಗ;
 ಬಳಸುವದು;
 employment
-ಉೋಗೕಲ
+ಉೋಗೕಲ
 udyeugashila
-ಉೋಗೕಲ;
+ಉೋಗೕಲ;
 ಾಯರತ;
 busy
 ಉಾಹರೆ
@@ -18274,7 +18274,7 @@ udaaharanege
 so
 udaaharanege
 ಉಾಹರೆೆ;
-ಸದೃಶ; ಸಮ; ಾೇ;
+ಸದೃಶ; ಸಮ; ಾೇ;
 same
 udaaharanege
 ಉಾಹರೆೆ;
@@ -18318,11 +18318,11 @@ urulisu
 ಾಶ;
 ಾಶಾಡು;
 destroy
-ಉೇಖ
+ಉೇಖ
 ullekha reference
 ಉದ
 ulida
-ಅಾವೇಷ;
+ಅಾವೇಷ;
 ಆಸೆ;
 ಉದ;
 ಉೆ;
@@ -18339,7 +18339,7 @@ ulidiruva
 remaining
 ಉೆ
 ulidive
-ಅಾವೇಷ;
+ಅಾವೇಷ;
 ಆಸೆ;
 ಉದ;
 ಉೆ;
@@ -18355,7 +18355,7 @@ ulisi spare
 ulisi
 ಉ;
 ಕಾವಸು;
-ೊರತುಪ;
+ೊರತುಪ;
 save
 ಉಳ
 ulume
@@ -18368,7 +18368,7 @@ ushhna
 ಉಗಾಪ;
 ಉಷ;
 ೆಚೆಯ;
-ಸುೋಷೆ;
+ಸುೋಷೆ;
 heat
 ushhna
 ಉಷ;
@@ -18391,7 +18391,7 @@ uta
 ಆಾರ;
 ಊಟ; ನ;
 ನು;
-ೋಜನ;
+ೋಜನ;
 dinner
 uta
 ಆಾರ;
@@ -18405,7 +18405,7 @@ food
 uta
 ಆಾರ;
 ಊಟ; ನು;
-ೋಜನ;
+ೋಜನ;
 lunch
 uta
 ಆಾರ;
@@ -18415,7 +18415,7 @@ meal
 ಊೆ
 uhe
 ಅಾಯ;
-ಇಟುೋ;
+ಇಟುೋ;
 ಊೆ;
 ಕಲೆ;
 guess
@@ -18462,8 +18462,8 @@ eamdu were
 ಎಚೆ
 echcharike
 ಎಚೆ;
-ಾಬೊಸು;
-ರಣೇ;
+ಾಬೊಸು;
+ರಣೇ;
 alarm
 echcharike warning
 ಎಚಸು
@@ -18494,22 +18494,22 @@ eththara
 ಎತರ;
 ಾ;
 ತುತತು;
-ಶೃಂಗ; ೊಂಟ;
+ಶೃಂಗ; ೊಂಟ;
 height
 ಎತರದ
 ಎತರದ
 eththarada
 ಎತರದ;
-ೊಡ;
+ೊಡ;
 tall
 eththarada highly
 eththarada
 ಎತರದ;
-ೊಡ;
+ೊಡ;
 high
-ಎೇಳ
+ಎೇಳ
 eththihelu
-ಎೇಳ;
+ಎೇಳ;
 ೆಕ;
 quote
 ಎತು
@@ -18537,11 +18537,11 @@ elevator
 edegaarike courage
 ಎದುಸಲು
 edurisalu counter
-ಎೋ
+ಎೋ
 enkeud
-ಎೋ;
-ೋ;
-ೊೆ;
+ಎೋ;
+ೋ;
+ೊೆ;
 code
 ಎಸು
 ebbisu
@@ -18605,13 +18605,13 @@ quite
 ಎಾದರೂ
 ellaadaru
 ಎಾದರೂ;
-ಎೋ;
+ಎೋ;
 anywhere
-ಎೋ
+ಎೋ
 elleu somewhere
 elleu
 ಎಾದರೂ;
-ಎೋ;
+ಎೋ;
 anywhere
 ಎೆ
 ele stretch
@@ -18647,15 +18647,15 @@ ese
 throw
 ese
 ಎೆ;
-ೇತ;
+ೇತ;
 ಮಟ;
 pitch
 ese
 ಎೆ;
-ೋಥ;
+ೋಥ;
 ೆಂ;
 fire
-ಎೇ
+ಎೇ
 estet estate
 ಏ
 ಏಕ
@@ -18690,9 +18690,9 @@ ekemdare
 ತರುಾಯ;
 since
 ekemdare because
-ಏೈಕ
+ಏೈಕ
 ekeka
-ಏೈಕ;
+ಏೈಕ;
 ಒಂಾ;
 ಾತ;
 single
@@ -18710,7 +18710,7 @@ blow
 etu
 ಆತ;
 ಏಟು; ಾಸು;
-ೊೆತ;
+ೊೆತ;
 stroke
 etu
 ಏಟು; ಕಚು;
@@ -18720,7 +18720,7 @@ etu
 ಹಂತ;
 cut
 etu
-ಏಟು; ಛಂೋಗ;
+ಏಟು; ಛಂೋಗ;
 ಾಸು;
 ಾಪನ;
 beat
@@ -18739,18 +18739,18 @@ enu
 ಏನು; ಾಡು;
 do
 enu
-ಏನು; ಏೋ
+ಏನು; ಏೋ
 ಒಂದು;
 something
 enu
-ಏನು; ಏೋ
+ಏನು; ಏೋ
 ಒಂದು; ಸಲ;
 somewhat
 enu
 ಏನು; ೆಲವ;
 some
 enu
-ಏನು; ಏೋ
+ಏನು; ಏೋ
 ಒಂದು;
 anything
 enu
@@ -18780,18 +18780,18 @@ enu illa
 ಏನೂ ಇಲ;
 ಶನ;
 nothing
-ಏೋ
+ಏೋ
 ಒಂದು
 eneu oamdu
-ಏನು; ಏೋ
+ಏನು; ಏೋ
 ಒಂದು; ಸಲ;
 somewhat
 eneu oamdu
-ಏನು; ಏೋ
+ಏನು; ಏೋ
 ಒಂದು;
 something
 eneu oamdu
-ಏನು; ಏೋ
+ಏನು; ಏೋ
 ಒಂದು;
 anything
 ಏೆ
@@ -18819,9 +18819,9 @@ eru
 ಏೆ;
 ಏರು;
 rise
-ಏೋೇ
+ಏೋೇ
 ereuplen
-ಏೋೇ;
+ಏೋೇ;
 ಮಟದ;
 ೕಜೆ;
 ಾನ;
@@ -18835,12 +18835,12 @@ aishvaryavulla
 ೕಮಂತ;
 ಾಾಜ;
 
-ೇರಳಾ;
+ೇರಳಾ;
 rich
 ಒ
 ಒಂಾ
 oamtiyaagi
-ಏೈಕ;
+ಏೈಕ;
 ಒಂಾ;
 ಾತ;
 single
@@ -18850,12 +18850,12 @@ oamtiyaagi
 only
 oamtiyaagi
 ಒಂಾ;
-ಪೇಕಾದ;
+ಪೇಕಾದ;
 ಾತ;
 lonely
 oamtiyaagi
 ಒಂಾ;
-ಒಬೇ;
+ಒಬೇ;
 ಾತ;
 alone
 ಒಂೆ
@@ -18880,11 +18880,11 @@ you
 oamdu an
 oamdu
 ಒಂದು; ೆಲವ;
-ಾವೇ;
+ಾವೇ;
 any
 oamdu
 ಒಂದು; ಾವ;
-ಾೇ;
+ಾೇ;
 ೕವ;
 we
 ಒಕೂಟ
@@ -18900,7 +18900,7 @@ ottige
 common
 ottige altogether
 ottige
-ಅೇ
+ಅೇ
 ಸಮಯದ;
 ಒೆ;
 ಾಾನ;
@@ -18927,7 +18927,7 @@ ottugudisu collect
 ಒಡು
 oddu
 ಒಡು;
-ೋಟವನು;
+ೋಟವನು;
 air
 ಒಡುಾಕುವದು
 oddu haakuvudu
@@ -18941,7 +18941,7 @@ odanaadi buddy
 ಒಡಾ
 odanaadi
 ಒಡಾ;
-ಸಹೋ;
+ಸಹೋ;
 mate
 ಒೆಯ
 odeya
@@ -18952,10 +18952,10 @@ owner
 ona
 ಒಣ; ಬದ;
 dry
-ಒೇಳ
+ಒೇಳ
 oththi helu
 ಅೆೆಾಕು;
-ಒೇಳ;
+ಒೇಳ;
 emphasize
 ಒತಡ
 oththada
@@ -19004,24 +19004,24 @@ provide
 odagisu
 ಒದಸು;
 ೕಡುತೆ;
-ೇರು;
+ೇರು;
 ಹೆ;
 supply
 ಒಾಡು
 oddaadu
 ಒಾಡು;
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 struggle
 ಒಪಂದ
 oppamda agreement
 oppamda contract
-ಒಪೇೆ
+ಒಪೇೆ
 oppuththene agree
-ಒಬೇ
+ಒಬೇ
 obbane
 ಒಂಾ;
-ಒಬೇ;
+ಒಬೇ;
 ಾತ;
 alone
 ಒ
@@ -19030,20 +19030,20 @@ omme once
 ole
 ಒೆ;
 ಕುಲು;
-ಮುೊೆ;
+ಮುೊೆ;
 oven
 ಒಲವ
 olavu preference
 ಒಳೆ
 olakke
 ಒಳೆ;
-ೇೆ;
+ೇೆ;
 contain
 olakke
 ಅಥ;
 ಒಳೆ;
-ದುೋ;
-ೇೆ;
+ದುೋ;
+ೇೆ;
 include
 olakke
 ಒಳೆ;
@@ -19110,7 +19110,7 @@ olagina
 
 ೕೆ;
 inside
-ಒಳೊಂತು
+ಒಳೊಂತು
 olageumdiththu involved
 ಒಳಾರ
 olathaarasi
@@ -19185,15 +19185,15 @@ kamthe
 ಕಂೆ;
 ಕುೆ;
 ಗುಂಪ;
-ೊಂಚಲು;
+ೊಂಚಲು;
 ಮೂೆ;
 ಾ;
 bunch
 kamthe package
 kamthe
 ಕಂೆ;
-ೊಂಚಲು;
-ಾೇ;
+ೊಂಚಲು;
+ಾೇ;
 ಮೂೆ;
 pack
 ಕಂದು ಬಣ
@@ -19216,8 +19216,8 @@ kambali
 ಕಂಬ;
 ಮುಖಪಟ;
 ರೆ;
-ೇಪನ;
-ೊೆ;
+ೇಪನ;
+ೊೆ;
 cover
 ಂತ
 kkimtha
@@ -19268,13 +19268,13 @@ kachchaata
 ಗದಲ;
 ಚಸು;
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 fight
 ಕಾವಸು
 kachchaavasthu
 ಉ;
 ಕಾವಸು;
-ೊರತುಪ;
+ೊರತುಪ;
 save
 ಕಚು
 kachchu
@@ -19286,24 +19286,24 @@ kachchu
 cut
 ಕಚುೆ
 kachchuvike bite
-ಕೇ
+ಕೇ
 kacheri
-ಕೇ;
+ಕೇ;
 ೆಲಸ;
 ಾಯ;
 ಪಾಗ;
 task
 kacheri office
 kacheri
-ಉೋಗ;
-ಕೇ;
+ಉೋಗ;
+ಕೇ;
 ೆಲಸ;
 ಪಾಗ;
 ಾನ;
 job
-ಕೇ
+ಕೇ
 kacheri
-ಕೇ;
+ಕೇ;
 ;
 ೆಲಸ;
 function
@@ -19311,7 +19311,7 @@ function
 kitaki window
 ೆಟ
 ketta
-ಅಾೋಗ;
+ಅಾೋಗ;
 ೆಟ;
 ತುಂಟತನದ;
 bad
@@ -19328,7 +19328,7 @@ kattalu wrap
 ಕಟು
 kattu
 ಕಟು;
-ೊಂ;
+ೊಂ;
 ಗಂಟು; ೆಣು;
 tie
 kattu
@@ -19337,7 +19337,7 @@ kattu
 join
 kattu
 ಕಟು;
-ೊಂ;
+ೊಂ;
 ಸಂಪಕ;
 link
 ಕಟುಾಡು
@@ -19356,14 +19356,14 @@ kathina
 ಕಣ;
 ದೃಢಾದ;
 tough
-ಕಡೊಡು
+ಕಡೊಡು
 kadakeudu
-ಕಡೊಡು;
+ಕಡೊಡು;
 ೆ;
 ಾಲ;
 loan
 kadakeudu
-ಕಡೊಡು;
+ಕಡೊಡು;
 ೆ;
 ಾಲ;
 credit
@@ -19400,7 +19400,7 @@ kedisu
 ruin
 kedisu
 ಅಧಃಪತನ; ೆಸು;
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 damage
 ಕಡುಚಯನು
@@ -19423,7 +19423,7 @@ cool
 kaduhage
 ಅಸಾಾನ;
 ಕಡುಹೆ;
-ೇಡು;
+ೇಡು;
 spite
 ಕಣು
 kannu eye
@@ -19480,7 +19480,7 @@ kiththale orange
 kaththu
 ಕತು;
 ಕುೆಯ;
-ೋಣು;
+ೋಣು;
 throat
 kaththu
 ಕಂಠಾರ;
@@ -19513,19 +19513,19 @@ kannadi
 ಕನ;
 ಪಫಸು;
 mirror
-ೇ
+ೇ
 kennili purple
 ಕೆ
 kanye
 ಕೆ;
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 miss
 ಕಷ
 kanishhtha minimum
 ಕನಸು
 kanasu
-ಕನಸು; ೇೕ;
+ಕನಸು; ೇೕ;
 dream
 ಕ
 kap
@@ -19535,12 +19535,12 @@ kap
 cup
 ಕಪಟ
 kapata
-ಕಪಟ; ೋಷ;
+ಕಪಟ; ೋಷ;
 ಪಾದ;
 ಭ;
 mistake
 kapata
-ಕಪಟ; ೋಷ;
+ಕಪಟ; ೋಷ;
 ಪಾದ;
 ಭ;
 error
@@ -19548,10 +19548,10 @@ error
 kappu black
 ಕಣ
 kabbina iron
-ೊೆ
+ೊೆ
 kibbeutte
-ೊೆ;
-ೊೆ;
+ೊೆ;
+ೊೆ;
 stomach
 ಾ
 kyaan
@@ -19562,7 +19562,7 @@ can
 ಾನ
 kyaansar
 ಾನ;
-ೇ;
+ೇ;
 cancer
 ಾ
 kyaap
@@ -19598,7 +19598,7 @@ kare
 ಕೆ;
 ದಯಟು;
 ಪ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 appeal
 kare
@@ -19625,12 +19625,12 @@ karadi
 bear
 ೆ
 kredit
-ಕಡೊಡು;
+ಕಡೊಡು;
 ೆ;
 ಾಲ;
 loan
 kredit
-ಕಡೊಡು;
+ಕಡೊಡು;
 ೆ;
 ಾಲ;
 credit
@@ -19690,7 +19690,7 @@ kiridaagu
 ಾದ;
 tight
 kiridaagu narrow
-ಕೆೊಯುವ
+ಕೆೊಯುವ
 karedeuyyuva leading
 ಕೆ
 karensi
@@ -19708,7 +19708,7 @@ kriye
 ಾಡು;
 act
 kriye
-ಕೇ;
+ಕೇ;
 ;
 ೆಲಸ;
 function
@@ -19716,7 +19716,7 @@ kriye
 ;
 ಾತ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 role
 kriye
 ;
@@ -19748,7 +19748,7 @@ turn
 ಕಾವ
 karaavali
 ಕಾವ;
-ೋ;
+ೋ;
 coast
 ರುಚು
 kiruchu
@@ -19773,15 +19773,15 @@ karune
 regret
 ರುನೆ
 kirunage smile
-ೇ
+ೇ
 kreji
-ೇ;
+ೇ;
 ಪಾಶನ;
 ಹುೆದ;
 ಹುಚುದ;
 mad
 kreji
-ೇ;
+ೇ;
 ಪಾಶನ;
 ಹುೆದ;
 ಹುಚುದ;
@@ -19790,10 +19790,10 @@ crazy
 kride
 ಆಟ; ೕೆ;
 sport
-ೇ
+ೇ
 krephishh
 ಾನ;
-ೇ;
+ೇ;
 cancer
 ಕ
 kali
@@ -19819,13 +19819,13 @@ kale
 ಾನ;
 position
 kale
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಕೆ;
 ಾಣ;
 ಂದು;
 ಸಳ;
-ೈ;
-ೊೆ;
+ೈ;
+ೊೆ;
 spot
 kale art
 
@@ -19837,7 +19837,7 @@ kalaku
 bother
 kalaku
 ಅಸಸೆ;
-ಕಲಕು; ೊಂದೆ;
+ಕಲಕು; ೊಂದೆ;
 ಸಮೆ;
 trouble
 ಂ
@@ -19856,7 +19856,7 @@ assumption
 kalpane concept
 kalpane
 ಅಾಯ;
-ಇಟುೋ;
+ಇಟುೋ;
 ಊೆ;
 ಕಲೆ;
 guess
@@ -19899,7 +19899,7 @@ kelavu
 some
 kelavu
 ಒಂದು; ೆಲವ;
-ಾವೇ;
+ಾವೇ;
 any
 kelavu
 ೆಲವ;
@@ -19931,13 +19931,13 @@ kelasa
 ಪಾಗ;
 assignment
 kelasa
-ಕೇ;
+ಕೇ;
 ೆಲಸ;
 ಾಯ;
 ಪಾಗ;
 task
 kelasa
-ಕೇ;
+ಕೇ;
 ;
 ೆಲಸ;
 function
@@ -19950,8 +19950,8 @@ kelasa
 ಗುರುತು; ಪಾಮ;
 effect
 kelasa
-ಉೋಗ;
-ಕೇ;
+ಉೋಗ;
+ಕೇ;
 ೆಲಸ;
 ಪಾಗ;
 ಾನ;
@@ -19961,7 +19961,7 @@ kelasa
 ಾಯ;
 ಾಡು;
 ನಾದ;
-ೇೆ;
+ೇೆ;
 operate
 ೆಲಸಾರ
 kelasagaara worker
@@ -20070,7 +20070,7 @@ kashhta difficult
 kashhta
 ಕಷ;
 ಾಸಾಯಕ;
-ದೃಢ; ೋನ;
+ದೃಢ; ೋನ;
 ಬಲಾದ;
 ಶಾ;
 hard
@@ -20084,13 +20084,13 @@ kshhamisu
 ಸಾಾನ;
 excuse
 kshhamisu apologize
-ೇತ
+ೇತ
 kshhethra
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -20103,16 +20103,16 @@ kshhethra
 ಾಮೂಕ;
 ground
 kshhethra
-ೇತ;
+ೇತ;
 ೕಣ;
 field
 kshhethra
 ಎೆ;
-ೇತ;
+ೇತ;
 ಮಟ;
 pitch
 kshhethra
-ೇತ;
+ೇತ;
 ಾ;
 ದೂರದ;
 ನೆ;
@@ -20146,18 +20146,18 @@ kaadu
 concern
 kaadu
 ಾಡು;
-ೋಪದ;
+ೋಪದ;
 ರುನ;
 wild
 kaadu worry
 ಾಣು
 kaanu
 ಾಣು;
-ೈಗಾರ;
-ೋಟ;
-ೋಟವನು;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ೋಟ;
+ೋಟವನು;
+ೋಡಲು;
+ೋಡು;
 look
 kaanu seem
 kaanu
@@ -20184,7 +20184,7 @@ law
 kaaphi coffee
 ಾೆ
 kaayile
-ಅಾೋಗದ;
+ಅಾೋಗದ;
 ಾೆ;
 disease
 ಾ
@@ -20202,12 +20202,12 @@ kaarana
 occasion
 kaarana
 ಾರಣ;
-ಪೋದೆ;
+ಪೋದೆ;
 ಸಾಲು;
 challenge
 kaarana
 ಾರಣ;
-ೇರಕ;
+ೇರಕ;
 ಸಂದಭ;
 reason
 kaarana
@@ -20231,7 +20231,7 @@ kaarya
 ಾಯ;
 ಾಡು;
 ನಾದ;
-ೇೆ;
+ೇೆ;
 operate
 kaarya
 ಾಯ;
@@ -20273,7 +20273,7 @@ kaarya
 ಾಡು;
 act
 kaarya
-ಕೇ;
+ಕೇ;
 ೆಲಸ;
 ಾಯ;
 ಪಾಗ;
@@ -20299,7 +20299,7 @@ kaaryaniratha
 ೕವನ;
 living
 kaaryaniratha
-ಉೋಗೕಲ;
+ಉೋಗೕಲ;
 ಾಯರತ;
 busy
 kaaryaniratha
@@ -20311,11 +20311,11 @@ kaaryavidhaana procedure
 ಾಾಾರ
 kaaryaagaara
 ಾಾಾರ;
-ಾೇಜು;
+ಾೇಜು;
 garage
 kaaryaagaara
 ಾಾಾರ;
-ಾೇಜು;
+ಾೇಜು;
 ಸುೕ;
 studio
 ಾಾಚರೆ
@@ -20327,13 +20327,13 @@ operation
 kaaru
 ಾರು;
 ಾರುಗಳ;
-ೊೆಾ;
+ೊೆಾ;
 car
 ಾರುಗಳ
 kaarugalu
 ಾರು;
 ಾರುಗಳ;
-ೊೆಾ;
+ೊೆಾ;
 car
 ಾರುಾಲಕ
 kaaruchaalaka
@@ -20406,7 +20406,7 @@ kaaladalli
 ೕೆ;
 within
 kaaladalli
-ಆೋ;
+ಆೋ;
 ಾಲದ;
 ಸಮಯ;
 whereas
@@ -20442,14 +20442,14 @@ kaalu bhaaga
 ಾಲು
 ಾಗ;
 ೆ;
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಾಲೆಯ;
 quarter
 kaalu bhaaga
 ಾಲು
 ಾಗ;
 ೆ;
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಾಲೆಯ;
 district
 kaalu bhaaga
@@ -20491,7 +20491,7 @@ neck
 kuththigeya
 ಕತು;
 ಕುೆಯ;
-ೋಣು;
+ೋಣು;
 throat
 kuththigeya
 ಕಂಠಾರ;
@@ -20517,7 +20517,7 @@ housing
 ಕುತ
 kupitha
 ಕುತ;
-ೋಪದ;
+ೋಪದ;
 angry
 ಕುೆ
 kuppe
@@ -20529,11 +20529,11 @@ kuppe
 quantity
 ಕುೆ
 kuppe
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -20558,7 +20558,7 @@ kuppe
 ಕಂೆ;
 ಕುೆ;
 ಗುಂಪ;
-ೊಂಚಲು;
+ೊಂಚಲು;
 ಮೂೆ;
 ಾ;
 bunch
@@ -20571,7 +20571,7 @@ chair
 kurithu
 ಇಂದ; ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ರುದಾ;
 
@@ -20580,7 +20580,7 @@ about
 kurithu
 ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ಸುಾರು;
 around
@@ -20610,7 +20610,7 @@ round
 kurithu
 ಕುತು;
 ಕಟಾ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 nearly
 kurithu
 ಆ;
@@ -20637,7 +20637,7 @@ kurithu
 on
 kurithu
 ಕುತು;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 almost
 ಕುರುಡ
 kuruda blind
@@ -20656,7 +20656,7 @@ kuluku shake
 kulume
 ಒೆ;
 ಕುಲು;
-ಮುೊೆ;
+ಮುೊೆ;
 oven
 ಕು
 kuli
@@ -20668,35 +20668,35 @@ kuli
 ಕು;
 ನೆ;
 depression
-ಕುತುೋ
+ಕುತುೋ
 kulithukeu sit
 ಕುಶಲ
 kushala
 ಕುಶಲ; ಪಣ;
 expert
-ೊಂಚ
-ೊಂಚ
+ೊಂಚ
+ೊಂಚ
 keumcha slightly
-ೊಂ
+ೊಂ
 keumdi
 ಕಟು;
-ೊಂ;
+ೊಂ;
 ಗಂಟು; ೆಣು;
 tie
 keumdi
 ಕಟು;
-ೊಂ;
+ೊಂ;
 ಸಂಪಕ;
 link
 keumdi
-ೊಂ;
+ೊಂ;
 ಸಂಪಕ;
 connection
-ೊೆ
+ೊೆ
 keukke hook
-ೊಠ
+ೊಠ
 keuthadi
-ೊಠ;
+ೊಠ;
 ತುಂಡು; ತುಣುಕು; ಾಾಾಶ;
 ಾಗ;
 room
@@ -20728,309 +20728,309 @@ kudisu
 ಒಳೆ;
 ಕೂಸು;
 attach
-ೊಡು
+ೊಡು
 keudu give
 keudu
 ಆವೃ;
-ೊಡು;
+ೊಡು;
 ಗಮನ;
 ೕೆ;
 issue
-ೊಡುೆ
+ೊಡುೆ
 keuduge contribution
 keuduge
-ೊಡುೆ;
+ೊಡುೆ;
 ಪಚಸಲು;
 ಪಸುತ;
 present
 keuduge
-ೊಡುೆ;
+ೊಡುೆ;
 ಾೆಂ;
 ಪೆ;
 gift
 ಕೂದಲು
 kudalu hair
-ೊೆಾಸು
+ೊೆಾಸು
 keunegaanisu
-ಉೇಶ;
-ಉೇಸುವದು;
-ೊೆಾಸು;
+ಉೇಶ;
+ಉೇಸುವದು;
+ೊೆಾಸು;
 
-ೊೆೊಳವ;
-ೊೆಯ;
+ೊೆೊಳವ;
+ೊೆಯ;
 ಗು;
 ಸು;
 ಮುಚುವ;
 end
 keunegaanisu
-ೊೆಾಸು;
-ೊೆಯ;
+ೊೆಾಸು;
+ೊೆಯ;
 ಸು;
 ಮುಚುವ;
 finish
 keunegaanisu
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚುವ;
 ಸುೆಯ;
 ಹರದ;
 close
 keunegaanisu
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚಾೆ;
 ಮುಚುವ;
 shut
-ೊೆೊಳವ
+ೊೆೊಳವ
 keunegeulluva
-ಉೇಶ;
-ಉೇಸುವದು;
-ೊೆಾಸು;
+ಉೇಶ;
+ಉೇಸುವದು;
+ೊೆಾಸು;
 
-ೊೆೊಳವ;
-ೊೆಯ;
+ೊೆೊಳವ;
+ೊೆಯ;
 ಗು;
 ಸು;
 ಮುಚುವ;
 end
-ೊೆಯ
+ೊೆಯ
 keuneya last
 keuneya
-ೊೆಯ;
+ೊೆಯ;
 ಮುಂದುವಸು;
 continue
 keuneya
-ೊೆಯ;
+ೊೆಯ;
 ಮುಚುವ;
 final
 keuneya
-ೊೆಯ;
+ೊೆಯ;
 ಾಂ;
 stand
-ೊೆಯ
+ೊೆಯ
 keuneya
 ಅಂಮಾ;
-ೊೆಯ;
+ೊೆಯ;
 ultimately
 keuneya
-ೊೆಯ;
+ೊೆಯ;
 ೕಯ;
 latter
 keuneya
 ಅಂಮಾ;
-ೊೆಯ;
+ೊೆಯ;
 finally
-ೊೆಯ
+ೊೆಯ
 keuneyalli
-ಉೇಶ;
-ಉೇಸುವದು;
-ೊೆಾಸು;
+ಉೇಶ;
+ಉೇಸುವದು;
+ೊೆಾಸು;
 
-ೊೆೊಳವ;
-ೊೆಯ;
+ೊೆೊಳವ;
+ೊೆಯ;
 ಗು;
 ಸು;
 ಮುಚುವ;
 end
 keuneyalli eventually
 keuneyalli
-ೊೆಯ;
-ೇಂದ;
+ೊೆಯ;
+ೇಂದ;
 ತಂಗುವದು;
 ಸಲು;
 ಸು;
 stop
 keuneyalli
-ೊೆಾಸು;
-ೊೆಯ;
+ೊೆಾಸು;
+ೊೆಯ;
 ಸು;
 ಮುಚುವ;
 finish
-ೊದ
+ೊದ
 keubbida
-ೊದ;
-ೊಬು;
+ೊದ;
+ೊಬು;
 fat
 keubbida
-ೊದ;
-ೊಬು;
+ೊದ;
+ೊಬು;
 ದಪ;
 ಮು;
 thick
-ೊಬು
+ೊಬು
 keubbu
-ೊದ;
-ೊಬು;
+ೊದ;
+ೊಬು;
 fat
 keubbu
-ೊದ;
-ೊಬು;
+ೊದ;
+ೊಬು;
 ದಪ;
 ಮು;
 thick
 keubbu
-ೊಬು;
-ೈಲ;
+ೊಬು;
+ೈಲ;
 oil
-ೊರೆ
+ೊರೆ
 keurathe
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 lack
 keurathe
 ಅಗತ;
 ಅವಶಕೆ;
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 ಬಯಸು;
 want
 keurathe
 ಕೆ;
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 miss
-ೊಯ
+ೊಯ
 keuriyar mail
 ಕೂಾಳ
 kuliyaalu employee
-ೊ
+ೊ
 keulli golf
-ೊಲು
+ೊಲು
 keullu kill
-ೊಳ
+ೊಳ
 keula pool
-ೊಳಕು
+ೊಳಕು
 keulaku
-ೊಳಕು;
+ೊಳಕು;
 ೌಂ;
 ಭೂ;
 ಮಣು;
-ೊಲಸು;
+ೊಲಸು;
 dirt
 keulaku mess
-ೊಳೆ
+ೊಳೆ
 keulave
 ಉದಾೕಲ;
-ೊಳೆ;
+ೊಳೆ;
 ಟೂ;
 ೕ
 ಊದು;
 pipe
-ೋೆ
+ೋೆ
 keute
-ೋೆ;
-ೋಪರ;
+ೋೆ;
+ೋಪರ;
 tower
-ೋಟು
+ೋಟು
 keutu
-ೋಟು;
+ೋಟು;
 ಚಮ;
 ಫ;
 ೕಲಂ;
 coat
-ೋ
-ೋ
+ೋ
+ೋ
 keud
-ಎೋ;
-ೋ;
-ೊೆ;
+ಎೋ;
+ೋ;
+ೊೆ;
 code
-ೋೆ
+ೋೆ
 keune
-ೋೆ;
+ೋೆ;
 ವಸಗೃಹ;
 flat
 keune apartment
-ೋಥ
+ೋಥ
 keuthha
 ಎೆ;
-ೋಥ;
+ೋಥ;
 ೆಂ;
 fire
-ೋನ
+ೋನ
 keuna
-ೋನ;
+ೋನ;
 ಮೂೆ;
 angle
 keuna
-ೋನ;
+ೋನ;
 ೆೆ;
 ಮೂೆ;
 corner
-ೋಪ
+ೋಪ
 keupa
-ೋಪ;
+ೋಪ;
 ಹುಚು;
 anger
-ೋಪದ
+ೋಪದ
 keupada
 ಾಡು;
-ೋಪದ;
+ೋಪದ;
 ರುನ;
 wild
 keupada
 ಕುತ;
-ೋಪದ;
+ೋಪದ;
 angry
-ೋೆ
+ೋೆ
 keurike
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೇೆ;
+ಬಯಸು; ೇೆ;
 
-ೋಾೇೆ;
+ೋಾೇೆ;
 desire
 keurike
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೋಾೇೆ;
+ಬಯಸು; ೋಾೇೆ;
 wish
-ೋ
+ೋ
 keurs
-ೋ;
-ೈಸಕಾ;
+ೋ;
+ೈಸಕಾ;
 naturally
-ೋರು
+ೋರು
 keuru
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
 keuru
 ಅವಶಕೆ;
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ask
-ೋ
+ೋ
 keuli
-ೋ;
-ೋಮ;
+ೋ;
+ೋಮ;
 chicken
-ೋಮ
+ೋಮ
 keulimari
-ೋ;
-ೋಮ;
+ೋ;
+ೋಮ;
 chicken
-ೋಶ
+ೋಶ
 keusha cell
-ೋಸಂಬ
+ೋಸಂಬ
 keusambari salad
-ೋ
+ೋ
 keust
 ಕಾವ;
-ೋ;
+ೋ;
 coast
 ಕೃ
 krrishhi
@@ -21048,117 +21048,117 @@ kaumti county
 ೌಟುಂಕೆ
 ೌಟುಂಕೆ
 kautumbikathe type
-ೇಂದ
+ೇಂದ
 kemdra
-ೇಂದ;
+ೇಂದ;
 ಸಲು;
 station
 kemdra
-ೊೆಯ;
-ೇಂದ;
+ೊೆಯ;
+ೇಂದ;
 ತಂಗುವದು;
 ಸಲು;
 ಸು;
 stop
 kemdra middle
 kemdra farm
-ೇಕು
+ೇಕು
 keku cake
 ೕಟ
 kita insect
 kita bug
-ೇಬಲು
+ೇಬಲು
 keballu
 ಇಬ;
-ೇಬಲು;
+ೇಬಲು;
 ಹಗ;
 cable
-ೇ
+ೇ
 ker
-ೇ;
+ೇ;
 ೆ;
 care
-ೕೈ
+ೕೈ
 kilike
-ೕೈ;
+ೕೈ;
 ಗುಂ;
 key
-ೇಳ
+ೇಳ
 kelu
 ಅವಶಕೆ;
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ask
 kelu
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
-ೇವಲ
+ೇವಲ
 kevala
-ೇವಲ;
+ೇವಲ;
 ಾಯಾದ;
 just
 kevala
-ೇವಲ;
+ೇವಲ;
 ಘಟಕ; ಸರಳ; ಸರಳಾ;
 unit
 kevala
-ೇವಲ;
+ೇವಲ;
 ಸರಳ; ಸರಳಾ;
 simple
 kevala
-ೇವಲ;
+ೇವಲ;
 ಸರಳ; ಸರಳಾ;
 simply
-ೈ
+ೈ
 ke hand
-ೈಗಾರ
+ೈಗಾರ
 kegadiyaara
 ಾಣು;
-ೈಗಾರ;
-ೋಟ;
-ೋಟವನು;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ೋಟ;
+ೋಟವನು;
+ೋಡಲು;
+ೋಡು;
 look
 kegadiyaara
 ಅಥ;
-ೈಗಾರ;
-ದುೋ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ದುೋ;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 ಪಗ;
-ೇ;
+ೇ;
 see
 kegadiyaara
-ೈಗಾರ;
+ೈಗಾರ;
 ಗಾರ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 
 ಪಗ;
 ಲಸು;
 watch
-ೈಗವಸು
+ೈಗವಸು
 kegavasu glove
-ೈೕಲ
+ೈೕಲ
 kechila
-ೈೕಲ;
+ೈೕಲ;
 ೕಲ;
-ೇಬು;
+ೇಬು;
 bag
 ಖ
 ಖತಾದ
@@ -21290,14 +21290,14 @@ khaasagi private
 ge
 ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ಸುಾರು;
 around
 ge
 ಇಂದ; ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ರುದಾ;
 
@@ -21425,7 +21425,7 @@ gamgala
 dish
 gamgala
 ಗಂಗಳ; ಬಟಲು;
-ೋಗು;
+ೋಗು;
 bowl
 ಗಂೆ
 gamte hour
@@ -21433,7 +21433,7 @@ gamte bell
 ಗಂಟು
 gamtu
 ಕಟು;
-ೊಂ;
+ೊಂ;
 ಗಂಟು; ೆಣು;
 tie
 ಗಂಡು
@@ -21464,11 +21464,11 @@ limit
 gida plant
 ಗಾರ
 gadiyaara
-ೈಗಾರ;
+ೈಗಾರ;
 ಗಾರ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 
 ಪಗ;
 ಲಸು;
@@ -21488,7 +21488,7 @@ ganakayamthra computer
 ೆಣು
 gennu
 ಕಟು;
-ೊಂ;
+ೊಂ;
 ಗಂಟು; ೆಣು;
 tie
 ಗಣೕಯ
@@ -21503,14 +21503,14 @@ gaddala
 ಗದಲ;
 ಚಸು;
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 fight
 ಗಮನ
 gamana
 ಗಮನ; ಪಕಟೆ;
 ಮೕಯ
 ಸೆ;
-ೇಚೆ;
+ೇಚೆ;
 ಸಲೆ;
 advice
 gamana attention
@@ -21520,14 +21520,14 @@ concentrate
 gamana
 ಗಮನ; ಸಂಬಂಧ;
 respect
-ಾೇಜು
+ಾೇಜು
 gyaareju
 ಾಾಾರ;
-ಾೇಜು;
+ಾೇಜು;
 garage
 gyaareju
 ಾಾಾರ;
-ಾೇಜು;
+ಾೇಜು;
 ಸುೕ;
 studio
 ೆೆ
@@ -21556,11 +21556,11 @@ customer
 graama village
 ೌಂ
 graumd
-ೊಳಕು;
+ೊಳಕು;
 ೌಂ;
 ಭೂ;
 ಮಣು;
-ೊಲಸು;
+ೊಲಸು;
 dirt
 graumd
 ೌಂ;
@@ -21582,11 +21582,11 @@ graumd
 ಶ;
 soil
 graumd
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -21619,12 +21619,12 @@ gelathi girlfriend
 ೆೆಯ
 geleya
 ೆೆಯ;
-ೇತ;
+ೇತ;
 boyfriend
 geleya
 ೆೆಯ;
 ಪಚಯ;
-ೇತ;
+ೇತ;
 friend
 ಗಸಲು
 galisalu obtain
@@ -21697,21 +21697,21 @@ gaathra
 size
 ಾನಾಡು
 gaanamaadu sing
-ಾಬೊಸು
+ಾಬೊಸು
 gaabarigeulisu
 ಎಚೆ;
-ಾಬೊಸು;
-ರಣೇ;
+ಾಬೊಸು;
+ರಣೇ;
 alarm
 ಾಯ
 gaaya
 ಾಯ;
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 injury
 gaaya
 ಾಯ;
-ೊಂದೆ;
+ೊಂದೆ;
 ಶೆ;
 ಾ;
 hurt
@@ -21730,7 +21730,7 @@ wind
 ಗುಂ
 gumdi button
 gumdi
-ೕೈ;
+ೕೈ;
 ಗುಂ;
 key
 ಗುಂಡು
@@ -21750,7 +21750,7 @@ gumpu
 ಕಂೆ;
 ಕುೆ;
 ಗುಂಪ;
-ೊಂಚಲು;
+ೊಂಚಲು;
 ಮೂೆ;
 ಾ;
 bunch
@@ -21768,11 +21768,11 @@ gumpu
 ಾಗ;
 lot
 gumpu
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -21797,14 +21797,14 @@ gumpu group
 ಗುಜ
 gujari
 ಗುಜ;
-ೇಧೆ;
+ೇಧೆ;
 ಹುಡು;
 search
 gujari
 ಗುಜ;
-ೇೆ;
-ೇೆಾಡು;
-ೇಧೆ;
+ೇೆ;
+ೇೆಾಡು;
+ೇಧೆ;
 ಹುಡು;
 hunt
 ಗುಣಮಟ
@@ -21839,37 +21839,37 @@ guptha
 secret
 ಗು
 guri
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಾಲು;
 goal
 guri
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 purpose
 guri
-ಉೇಶ;
-ಉೇಸುವದು;
-ೊೆಾಸು;
+ಉೇಶ;
+ಉೇಸುವದು;
+ೊೆಾಸು;
 
-ೊೆೊಳವ;
-ೊೆಯ;
+ೊೆೊಳವ;
+ೊೆಯ;
 ಗು;
 ಸು;
 ಮುಚುವ;
 end
 guri
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಷಯ;
 ವಸು;
 object
 guri
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 intention
 guri target
@@ -21882,7 +21882,7 @@ guruthu
 effect
 guruthu
 ಗುರುತು; ೆ;
-ೋಡು;
+ೋಡು;
 ಮೆ;
 ಮುೆ;
 ೆಾ;
@@ -21913,73 +21913,73 @@ guhe
 ಗುೆ;
 ರಂಧ;
 hole
-ೊಂಚಲು
+ೊಂಚಲು
 geumchalu
 ಕಂೆ;
-ೊಂಚಲು;
-ಾೇ;
+ೊಂಚಲು;
+ಾೇ;
 ಮೂೆ;
 pack
 geumchalu
 ಕಂೆ;
 ಕುೆ;
 ಗುಂಪ;
-ೊಂಚಲು;
+ೊಂಚಲು;
 ಮೂೆ;
 ಾ;
 bunch
-ೊಂದಲ
+ೊಂದಲ
 geumdala confusion
-ೊರುವ
+ೊರುವ
 geuththiruva
-ೊರುವ;
+ೊರುವ;
 ಾನ;
 known
-ೋೆ
+ೋೆ
 geude wall
-ೋಣು
+ೋಣು
 geunu
 ಕತು;
 ಕುೆಯ;
-ೋಣು;
+ೋಣು;
 throat
-ೋಪರ
+ೋಪರ
 geupura
-ೋೆ;
-ೋಪರ;
+ೋೆ;
+ೋಪರ;
 tower
 ೕೆ
 githe
 ಾಯನ;
 ೕೆ;
 song
-ೇರು
+ೇರು
 geru
 ಅಾತುರ;
-ೇರು;
-ೇಗ;
+ೇರು;
+ೇಗ;
 gear
-ೈರುಾಜ
+ೈರುಾಜ
 geruhaajari
 ಕೆ;
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 miss
 geruhaajari
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 lack
 geruhaajari
 ಅಗತ;
 ಅವಶಕೆ;
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 ಬಯಸು;
 want
 ಘ
 ಘಟಕ
 ghataka
-ೇವಲ;
+ೇವಲ;
 ಘಟಕ; ಸರಳ; ಸರಳಾ;
 unit
 ಘಟೆ
@@ -22066,19 +22066,19 @@ chikithse
 ಪ;
 process
 chikithse
-ೇ;
+ೇ;
 ೆ;
 care
 chikithse treat
 ಚಕ
 chakra
 ಚಕ;
-ೈಕ;
+ೈಕ;
 bicycle
 chakra cycle
 chakra
 ಚಕ;
-ೈಕ;
+ೈಕ;
 bike
 chakra wheel
 ಚಚು
@@ -22176,7 +22176,7 @@ charche
 ಚೆ;
 ಯುದ;
 ಸೆ;
-ೋಾಟ;
+ೋಾಟ;
 contest
 charche
 ಚೆ;
@@ -22195,7 +22195,7 @@ charchisu
 ಗದಲ;
 ಚಸು;
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 fight
 charchisu
 ಕಾಟ;
@@ -22206,14 +22206,14 @@ row
 charchu church
 ಚಮ
 charma
-ೋಟು;
+ೋಟು;
 ಚಮ;
 ಫ;
 ೕಲಂ;
 coat
 charma
 ಚಮ;
-ೊಗೆ;
+ೊಗೆ;
 ಫ;
 skin
 charma
@@ -22252,14 +22252,14 @@ chaluvali campaign
 chihne sign
 chihne
 ಗುರುತು; ೆ;
-ೋಡು;
+ೋಡು;
 ಮೆ;
 ಮುೆ;
 ೆಾ;
 mark
 chihne
 ೆ;
-ಸಂೇತ;
+ಸಂೇತ;
 signal
 chihne
 ೆ;
@@ -22278,7 +22278,7 @@ chaampiyan champion
 chaampiyanship championship
 ಾಕು
 chaaku knife
-ಾೊೇ
+ಾೊೇ
 chaakeulet chocolate
 ಾಚು
 chaachu strain
@@ -22326,37 +22326,37 @@ choice
 ಚುರುಾದ
 churukaada
 ಚುರುಾದ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 ೕಘಾ;
 quick
 churukaada
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 
 ೕಘಾ;
 fast
 churukaada
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 quickly
 ೌಕ
 chauka towel
 ೌಕಟು
 chaukattu frame
-ೇತನ
+ೇತನ
 chethana
 ಅಥದ;
 ಆತ;
-ೇತನ;
+ೇತನ;
 ಮನೆ;
 spirit
 chethana
-ೇತನ;
+ೇತನ;
 ಮದಾರ;
 alcohol
 ೕರು
@@ -22368,21 +22368,21 @@ chiru
 cry
 ೕಲ
 chila
-ೈೕಲ;
+ೈೕಲ;
 ೕಲ;
-ೇಬು;
+ೇಬು;
 bag
 ಛ
-ಛಂೋಗ
+ಛಂೋಗ
 chhamdeugathi
-ಛಂೋಗ;
+ಛಂೋಗ;
 ಾ;
 ಾಸು;
 ಾಪನ;
 ಾ;
 bar
 chhamdeugathi
-ಏಟು; ಛಂೋಗ;
+ಏಟು; ಛಂೋಗ;
 ಾಸು;
 ಾಪನ;
 beat
@@ -22395,7 +22395,7 @@ roof
 ಜಂಬದ
 jambada
 ಅಹಂಾರ;
-ಜಂಬದ; ೊನ;
+ಜಂಬದ; ೊನ;
 ೆ;
 proud
 ಾನ
@@ -22409,7 +22409,7 @@ jnjaana
 ಾನ;
 knowledge
 jnjaana
-ೊರುವ;
+ೊರುವ;
 ಾನ;
 known
 ಾಾದ
@@ -22417,7 +22417,7 @@ jnjaaniyaada
 ಾಾದ;
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 wise
 ಜೆಾರ
 jathegaara partner
@@ -22441,7 +22441,7 @@ janmadina birthday
 janmasiddha natural
 janmasiddha
 ಜನದ;
-ೇೕಯ;
+ೇೕಯ;
 ಮೂಲಾ;
 native
 ಜನರು
@@ -22484,14 +22484,14 @@ jille
 ಾಲು
 ಾಗ;
 ೆ;
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಾಲೆಯ;
 quarter
 jille
 ಾಲು
 ಾಗ;
 ೆ;
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಾಲೆಯ;
 district
 ಜಾಾ
@@ -22507,12 +22507,12 @@ jaana
 ಾಾದ;
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 wise
 jaana
 ಾಣ;
 ೕಸದ;
-ೊಗಸುಾರ;
+ೊಗಸುಾರ;
 smart
 jaana
 ಾಣ;
@@ -22521,7 +22521,7 @@ intelligent
 jaana
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 ೕಾಾಹ;
 ಸೂಕ;
 reasonable
@@ -22535,7 +22535,7 @@ jaathre
 ಾೆ;
 ಾಯಾದ;
 ಮುಾದ;
-ೇಕದ;
+ೇಕದ;
 ಸೂಕ;
 fair
 ಾಲಬಂಧ
@@ -22579,20 +22579,20 @@ fine
 ಜೂಜು
 juju race
 juju bet
-ೊೆೆ
+ೊೆೆ
 jeuthege addition
-ೋ
+ೋ
 jeudi pair
 jeudi couple
 ೕನು
 jinu gene
-ೇನು
+ೇನು
 jenu honey
-ೇಬು
+ೇಬು
 jebu
-ೈೕಲ;
+ೈೕಲ;
 ೕಲ;
-ೇಬು;
+ೇಬು;
 bag
 ೕ
 jivi
@@ -22651,14 +22651,14 @@ tyaalemt
 ಾಮಥ;
 ability
 tyaalemt
-ೊಡುೆ;
+ೊಡುೆ;
 ಾೆಂ;
 ಪೆ;
 gift
 ಟೂ
 tyub
 ಉದಾೕಲ;
-ೊಳೆ;
+ೊಳೆ;
 ಟೂ;
 ೕ
 ಊದು;
@@ -22679,7 +22679,7 @@ tryaamkvaaliti
 ೌನ;
 ಾಂತ;
 
-ೊಗಳ;
+ೊಗಳ;
 calm
 ಾ
 tryaash trash
@@ -22721,12 +22721,12 @@ test
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 test
 ೆ;
@@ -22756,30 +22756,30 @@ taap
 ಎತರ;
 ಾ;
 ತುತತು;
-ಶೃಂಗ; ೊಂಟ;
+ಶೃಂಗ; ೊಂಟ;
 height
 taap
 ಉನತ;
 ಾ;
 upper
-ೋ
+ೋ
 teupi hat
-ೈ
+ೈ
 tem weather
 tem
 ಅವ;
-ೈ;
+ೈ;
 ಯುಗ; ವಯಸು;
 age
 tem
 ಅವ;
-ೈ;
+ೈ;
 ಯುಗ; ವಯಸು;
 time
 ಠ
 ಠೆ
 thasse impress
-ೇವ
+ೇವ
 thevani deposit
 ಡ
 ನ
@@ -22787,7 +22787,7 @@ dinnar
 ಆಾರ;
 ಊಟ; ನ;
 ನು;
-ೋಜನ;
+ೋಜನ;
 dinner
 ಡಬ
 dabal double
@@ -22824,11 +22824,11 @@ daun
 ೌ;
 ನಯಾಡು;
 down
-ೇಾೇ
+ೇಾೇ
 detaabes database
-ೇೕ
+ೇೕ
 dedrim
-ಕನಸು; ೇೕ;
+ಕನಸು; ೇೕ;
 dream
 ತ
 ಂಗಳ
@@ -22840,8 +22840,8 @@ thamguvudu
 ರುಕು;
 break
 thamguvudu
-ೊೆಯ;
-ೇಂದ;
+ೊೆಯ;
+ೇಂದ;
 ತಂಗುವದು;
 ಸಲು;
 ಸು;
@@ -22951,17 +22951,17 @@ thanikhe
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 thanikhe
 ತೆ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 analysis
 thanikhe
 ತೆ;
@@ -22976,11 +22976,11 @@ examination
 thanikhe
 ತೆ;
 ಪೕಸು;
-ೇಧೆ;
+ೇಧೆ;
 research
-ತನೇ
+ತನೇ
 thannanne
-ತನೇ;
+ತನೇ;
 ಸತಃ;
 itself
 ನು
@@ -22988,7 +22988,7 @@ thinnu
 ಆಾರ;
 ಊಟ; ನ;
 ನು;
-ೋಜನ;
+ೋಜನ;
 dinner
 thinnu
 ಆಾರ;
@@ -23002,7 +23002,7 @@ meal
 thinnu
 ಆಾರ;
 ಊಟ; ನು;
-ೋಜನ;
+ೋಜನ;
 lunch
 thinnu
 ಆಾರ;
@@ -23017,16 +23017,16 @@ thappaada
 false
 thappaada
 ತಾದ;
-ೋಷರುವ;
+ೋಷರುವ;
 wrong
 ತಪತೆ
 thappuththave skirt
 ತಪದು
 thapputhiddu
 ತಪದು;
-ೊಸು;
+ೊಸು;
 ಸಪ;
-ಸೊಂಸು;
+ಸೊಂಸು;
 adjust
 ತಪದು
 thapputhiddu
@@ -23094,61 +23094,61 @@ open
 ೆೆಡು
 theredidu
 ೆೆಡು;
-ೋಾಟು;
-ೋಸು;
+ೋಾಟು;
+ೋಸು;
 display
 theredidu expose
-ತರೇ
+ತರೇ
 tharabethi
-ತರೇ;
+ತರೇ;
 ಾಾಸ;
 education
 tharabethi
 ಅಾಸ;
-ತರೇ;
+ತರೇ;
 ಪೕಗ;
 practice
 tharabethi
-ತರೇ;
+ತರೇ;
 ೆೆ;
 background
 tharabethi
-ಇತರ; ತರೇ;
-ೋಧೆ;
+ಇತರ; ತರೇ;
+ೋಧೆ;
 teaching
 tharabethi
-ತರೇ;
+ತರೇ;
 ಾಾಸ;
 training
-ೆರವೊ
+ೆರವೊ
 theravugeulisi
-ೆರವೊ;
+ೆರವೊ;
 ಸಷಾ;
 clearly
 theravugeulisi
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
 ೕಾ;
 ಸಷಾ;
 bright
 theravugeulisi
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
 ೆಳಗು;
 ಸಷಾ;
 light
-ೆರವೊ
+ೆರವೊ
 theravugeulisi
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
-ಾವನೊಸು;
+ಾವನೊಸು;
 
 ಶುಾದ;
 ಸಷಾ;
 ಸೕಕಸು;
 clear
 theravugeulisi
-ೆರವೊ;
+ೆರವೊ;
 ಪಕಟ;
 obvious
 ರಸತ
@@ -23160,7 +23160,7 @@ refuse
 thraasadaayaka
 ಕಷ;
 ಾಸಾಯಕ;
-ದೃಢ; ೋನ;
+ದೃಢ; ೋನ;
 ಬಲಾದ;
 ಶಾ;
 hard
@@ -23249,41 +23249,41 @@ thilidiruva
 ರುವ;
 ಾನ;
 knowledge
-ದುೋ
+ದುೋ
 thilidukeu
 ಅಥ;
-ದುೋ;
+ದುೋ;
 understand
 thilidukeu
 ಅಥ;
 ಒಳೆ;
-ದುೋ;
-ೇೆ;
+ದುೋ;
+ೇೆ;
 include
 thilidukeu
 ಅಥ;
-ೈಗಾರ;
-ದುೋ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ದುೋ;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 ಪಗ;
-ೇ;
+ೇ;
 see
 thilidukeu
 ಅಥ;
-ದುೋ;
+ದುೋ;
 realize
 
 thilisi
 ;
 ವರ;
-ೇ;
+ೇ;
 tell
 thilisi
 ;
 ವರ;
-ೇಳ;
+ೇಳ;
 relate
 ತಳಹ
 thalahadi
@@ -23334,14 +23334,14 @@ fine
 thvarithavaagi
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 quickly
 thvarithavaagi
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 
 ೕಘಾ;
 fast
@@ -23352,7 +23352,7 @@ thaamthrika technical
 ಾಾ
 thaajaa
 ಾಾ;
-ೊಸ;
+ೊಸ;
 recent
 thaajaa
 ಕಡುಚಯನು;
@@ -23365,7 +23365,7 @@ thaajaa
 cool
 thaajaa
 ಾಾ;
-ೊಸ;
+ೊಸ;
 new
 thaajaa
 ತಂಾದ;
@@ -23373,13 +23373,13 @@ thaajaa
 fresh
 ಾಣ
 thaana
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಕೆ;
 ಾಣ;
 ಂದು;
 ಸಳ;
-ೈ;
-ೊೆ;
+ೈ;
+ೊೆ;
 spot
 ಾಾಕ
 thaathkaalika temporary
@@ -23420,11 +23420,11 @@ thaalme patience
 thaalu wait
 thaalu
 ಾಳ;
-ಸಂಕಟ; ಸೊಳವ;
+ಸಂಕಟ; ಸೊಳವ;
 suffer
 ತುಂಟತನದ
 thumtathanada
-ಅಾೋಗ;
+ಅಾೋಗ;
 ೆಟ;
 ತುಂಟತನದ;
 bad
@@ -23445,7 +23445,7 @@ thumdu
 ತುಂಡು; ತುಣುಕು; ಾಗ;
 bit
 thumdu
-ೊಠ;
+ೊಠ;
 ತುಂಡು; ತುಣುಕು; ಾಾಾಶ;
 ಾಗ;
 room
@@ -23459,9 +23459,9 @@ thumdu
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 thumdu
 ಆಟ; ತುಂಡು; ತುಣುಕು; ಪಾಣ;
@@ -23510,7 +23510,7 @@ thunuku
 ಾಗ;
 game
 thunuku
-ೊಠ;
+ೊಠ;
 ತುಂಡು; ತುಣುಕು; ಾಾಾಶ;
 ಾಗ;
 room
@@ -23524,9 +23524,9 @@ thunuku
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 ತುಣುಕು
 thunuku
@@ -23537,7 +23537,7 @@ thuththathudi
 ಎತರ;
 ಾ;
 ತುತತು;
-ಶೃಂಗ; ೊಂಟ;
+ಶೃಂಗ; ೊಂಟ;
 height
 thuththathudi
 ಾ;
@@ -23555,39 +23555,39 @@ thudi tip
 thurthu emergency
 ತುಸುದೂರದ
 thusuduradalli apart
-ೊಂದೆ
+ೊಂದೆ
 theumdare
 ಅಸಸೆ;
-ಕಲಕು; ೊಂದೆ;
+ಕಲಕು; ೊಂದೆ;
 ಸಮೆ;
 trouble
 theumdare
 ಾಯ;
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 injury
 theumdare
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 harm
 theumdare difficulty
 theumdare
 ಾಯ;
-ೊಂದೆ;
+ೊಂದೆ;
 ಶೆ;
 ಾ;
 hurt
 theumdare
 ಅಧಃಪತನ; ೆಸು;
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 damage
 ತೂಕ
 thuka weight
-ೊಗೆ
+ೊಗೆ
 theugate
 ಚಮ;
-ೊಗೆ;
+ೊಗೆ;
 ಫ;
 skin
 ತೂಗಾಕು
@@ -23596,37 +23596,37 @@ thugahaaku hang
 thugu weigh
 ತೂಬು
 thubu lock
-ೊೆ
+ೊೆ
 theule wash
-ೋಾಟು
+ೋಾಟು
 theurpaatu
-ೋಾಟು;
-ೋಸು;
+ೋಾಟು;
+ೋಸು;
 ಪಾೕಕಸು;
 show
 theurpaatu
 ೆೆಡು;
-ೋಾಟು;
-ೋಸು;
+ೋಾಟು;
+ೋಸು;
 display
-ೋಸು
+ೋಸು
 theurisu
 ೆೆಡು;
-ೋಾಟು;
-ೋಸು;
+ೋಾಟು;
+ೋಸು;
 display
 theurisu
-ೋಾಟು;
-ೋಸು;
+ೋಾಟು;
+ೋಸು;
 ಪಾೕಕಸು;
 show
 theurisu
-ೋಸು;
+ೋಸು;
 ಂದು;
 point
-ೋಳಗಳ
+ೋಳಗಳ
 theulugalu
-ೋಳಗಳ;
+ೋಳಗಳ;
 ಬಡವ; ಶಸ;
 arm
 ತೃಪ
@@ -23634,15 +23634,15 @@ arm
 thrriptha
 ತೃಪ;
 ಷಯ;
-ಸಂೋಷ;
+ಸಂೋಷ;
 content
 thrriptha
 ತೃಪ;
-ಸಂೋಷ;
+ಸಂೋಷ;
 pleased
 thrriptha
 ತೃಪ;
-ಸಂೋಷ;
+ಸಂೋಷ;
 glad
 ೕ
 thikshhna
@@ -23677,22 +23677,22 @@ thirmaanisu
 fix
 ೕಾ
 thiraa
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ಮತಷು;
 ೕಾ;
 ಸಹ;
 also
 thiraa
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ೕಾ;
 ಸಹ;
 too
-ೈಲ
+ೈಲ
 thela
-ೊಬು;
-ೈಲ;
+ೊಬು;
+ೈಲ;
 oil
 ಥ
 ಥಟೆ
@@ -23776,19 +23776,19 @@ damdi
 ೕಮಂತ;
 ಾಾಜ;
 
-ೇರಳಾ;
+ೇರಳಾ;
 rich
 ದ
 dakshha
 ಾಾದ;
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 wise
 dakshha
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 ೕಾಾಹ;
 ಸೂಕ;
 reasonable
@@ -23834,7 +23834,7 @@ edge
 ದದ
 danida
 ದದ;
-ೇಸರಪಡುವ;
+ೇಸರಪಡುವ;
 tired
 ನ
 dina day
@@ -23849,8 +23849,8 @@ dappa
 ಹುಲುಾ;
 gross
 dappa
-ೊದ;
-ೊಬು;
+ೊದ;
+ೊಬು;
 ದಪ;
 ಮು;
 thick
@@ -23859,17 +23859,17 @@ daye charity
 ದಯಟು
 dayavittu
 ದಯಟು;
-ೇೆ;
+ೇೆ;
 please
 dayavittu
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
@@ -23877,7 +23877,7 @@ dayavittu
 ಕೆ;
 ದಯಟು;
 ಪ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 appeal
 ದವ
@@ -23899,21 +23899,21 @@ dravya
 material
 ೕಯ
 dvithiya
-ೊೆಯ;
+ೊೆಯ;
 ೕಯ;
 latter
 ೕಪ
 dvipa island
-ೇಷ
+ೇಷ
 dveshha
-ೇಷ;
+ೇಷ;
 ಹೆ;
 hate
 ಾಖೆ
 daakhale log
 daakhale
 ಾಖೆ;
-ೋಂಾಸು;
+ೋಂಾಸು;
 ೕಜು;
 ೆಾ;
 register
@@ -23955,7 +23955,7 @@ mood
 daari
 ಾ;
 ದೂರದ;
-ೇಶನ;
+ೇಶನ;
 ಾಷ;
 ಾಗ;
 way
@@ -23993,7 +23993,7 @@ daari
 ೕ;
 mode
 daari
-ೇತ;
+ೇತ;
 ಾ;
 ದೂರದ;
 ನೆ;
@@ -24046,42 +24046,42 @@ slight
 durbala weak
 ದುಬಲೆ
 durbalathe weakness
-ೊಡ
+ೊಡ
 deudda grand
 deudda
 ಅಗಲಾದ;
-ೊಡ;
+ೊಡ;
 ದೂರದ; ದೂರದ;
 large
 deudda big
 deudda
 ಎತರದ;
-ೊಡ;
+ೊಡ;
 high
 deudda
 ಎತರದ;
-ೊಡ;
+ೊಡ;
 tall
 deudda
-ೊಡ;
+ೊಡ;
 ೕಾ;
 brilliant
 deudda great
-ೊಡಅೆ
+ೊಡಅೆ
 deudda ale
 ಅರು;
 ಅೆ;
-ೊಡಅೆ;
+ೊಡಅೆ;
 ೕಸು;
 wave
-ೊಡಬಂೆ
+ೊಡಬಂೆ
 deudda bamde
-ೊಡಬಂೆ;
+ೊಡಬಂೆ;
 ಾ;
 rock
 ದೂಡು
 dudu
-ದೂಡು; ೊರದಬುವದು;
+ದೂಡು; ೊರದಬುವದು;
 rush
 dudu
 ಅದುಮು; ದೂಡು;
@@ -24089,7 +24089,7 @@ press
 dudu
 ಅದುಮು; ದೂಡು; ನೂಕು;
 push
-ೊೆ
+ೊೆ
 deunne personal
 deunne staff
 ದೂರ
@@ -24097,7 +24097,7 @@ dura
 ದೂರ; ಾಾಾಶ;
 space
 dura
-ಅಂಗೇದನ;
+ಅಂಗೇದನ;
 ದೂರ; ಾಗ;
 distance
 ದೂರದ
@@ -24114,7 +24114,7 @@ durada
 away
 durada
 ಅಗಲಾದ;
-ೊಡ;
+ೊಡ;
 ದೂರದ; ದೂರದ;
 large
 ದೂರದ
@@ -24164,7 +24164,7 @@ duradalli
 ಾಪಕಾ;
 widely
 duradalli
-ೇತ;
+ೇತ;
 ಾ;
 ದೂರದ;
 ನೆ;
@@ -24208,13 +24208,13 @@ away
 duradalli
 ಾ;
 ದೂರದ;
-ೇಶನ;
+ೇಶನ;
 ಾಷ;
 ಾಗ;
 way
 duradalli
 ಅಗಲಾದ;
-ೊಡ;
+ೊಡ;
 ದೂರದ; ದೂರದ;
 large
 ದೂರಾ
@@ -24230,48 +24230,48 @@ phone
 duru complain
 ದೂಸಲು
 dushhisalu
-ಆೋಸು;
+ಆೋಸು;
 ದೂಸಲು;
 ಬಯು;
 ಾಲ;
 blame
 dushhisalu
-ಆೋಸು;
+ಆೋಸು;
 ದೂಸಲು;
 accuse
 dushhisalu
 ದೂಸಲು;
 ಾಲ;
 debt
-ೋ
+ೋ
 deuni boat
-ೋಷ
-ೋಷ
+ೋಷ
+ೋಷ
 deushha
-ಕಪಟ; ೋಷ;
+ಕಪಟ; ೋಷ;
 ಪಾದ;
 ಭ;
 mistake
 deushha
-ೋಷ;
+ೋಷ;
 ನಷ;
 ಪಾದ;
 fault
 deushha
-ಕಪಟ; ೋಷ;
+ಕಪಟ; ೋಷ;
 ಪಾದ;
 ಭ;
 error
-ೋಷರುವ
+ೋಷರುವ
 deushhaviruva
 ತಾದ;
-ೋಷರುವ;
+ೋಷರುವ;
 wrong
 ದೃಢ
 drridha
 ಕಷ;
 ಾಸಾಯಕ;
-ದೃಢ; ೋನ;
+ದೃಢ; ೋನ;
 ಬಲಾದ;
 ಶಾ;
 hard
@@ -24315,12 +24315,12 @@ scene
 drrishhti perspective
 drrishhti
 ದೃ;
-ೋಟವನು;
+ೋಟವನು;
 aspect
 drrishhti
 ದೃ;
-ೋಟ;
-ೋಡಲು;
+ೋಟ;
+ೋಡಲು;
 ಪಗ;
 view
 ೕನ
@@ -24334,30 +24334,30 @@ dirgha
 ದೂರದ; ದೂರದ;
 ೕಘ;
 long
-ೇವಾೆ
+ೇವಾೆ
 devaraane dad
-ೇವರು
+ೇವರು
 devaru god
-ೇಶ
+ೇಶ
 desha
-ೇಶ;
+ೇಶ;
 ಭೂ;
 land
 desha
-ೇಶ;
-ಪೇಶ;
+ೇಶ;
+ಪೇಶ;
 ೕಣ;
 region
 desha
-ೇಶ;
+ೇಶ;
 ೕಣ;
 country
 desha
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -24369,26 +24369,26 @@ desha
 
 ಾಮೂಕ;
 ground
-ೇೕಯ
-ೇೕಯ
+ೇೕಯ
+ೇೕಯ
 deshiya national
 deshiya
 ಜನದ;
-ೇೕಯ;
+ೇೕಯ;
 ಮೂಲಾ;
 native
-ೇಹ
+ೇಹ
 deha
-ೇಹ;
+ೇಹ;
 ಶವದ;
 body
-ೈಕಾ
+ೈಕಾ
 dehikavaagi physically
 ಧ
 ಧೆ
 dhakke
 ಧೆ;
-ೇೆ;
+ೇೆ;
 platform
 ಧಾತಕ
 dhanaathmaka positive
@@ -24400,7 +24400,7 @@ dhvani
 tone
 dhvani voice
 dhvani
-ಆೋಗಕರ;
+ಆೋಗಕರ;
 ಉಚ
 ಸರದ;
 ಧ;
@@ -24424,12 +24424,12 @@ dust
 ೕರ
 dhira
 ೕರ;
-ೈಯಾ;
+ೈಯಾ;
 brave
-ೈಯಾ
+ೈಯಾ
 dheryashaali
 ೕರ;
-ೈಯಾ;
+ೈಯಾ;
 brave
 ನ
 ನಂತರ
@@ -24508,7 +24508,7 @@ nambike think
 nikatavaagi
 ಕುತು;
 ಕಟಾ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 nearly
 nikatavaagi
 ಕಟಾ;
@@ -24523,11 +24523,11 @@ copy
 ನಕಲು ಾಡ
 nakalu maada
 ನಕಲು ಾಡ;
-ಾಕೇೆಂದು;
+ಾಕೇೆಂದು;
 tear
 nakalu maada
 ನಕಲು ಾಡ;
-ಾಕೇೆಂದು;
+ಾಕೇೆಂದು;
 rip
 ನತ
 nakshhathra star
@@ -24652,7 +24652,7 @@ natisu
 pretend
 ನೆ
 nade
-ೇತ;
+ೇತ;
 ಾ;
 ದೂರದ;
 ನೆ;
@@ -24667,18 +24667,18 @@ nade
 ನೆಾಡು;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 walk
 nade
 ಅಾತುರ;
 ನೆ;
-ೇಗ;
+ೇಗ;
 speed
 nade
 ನೆ;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 march
 ನಡೆ
 nadathe
@@ -24696,22 +24696,22 @@ nadedaadu
 ನೆಾಡು;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 walk
-ನೆದುೊ
+ನೆದುೊ
 nadedukeu
-ನೆದುೊ;
+ನೆದುೊ;
 ವತೆ;
 behave
-ನೆೊಂಡು
+ನೆೊಂಡು
 nadesikeumdu
 ಆಡತ;
-ನೆೊಂಡು;
+ನೆೊಂಡು;
 ವ;
 manage
 nadesikeumdu direct
 nadesikeumdu
-ನೆೊಂಡು;
+ನೆೊಂಡು;
 ಾಗದಶನ;
 guide
 nadesikeumdu lead
@@ -24883,7 +24883,7 @@ namudisi enter
 ನಮೂಸು
 namudisu
 ನಮೂಸು;
-ೋಡು;
+ೋಡು;
 note
 namudisu mention
 ಯಂತಕ
@@ -24916,14 +24916,14 @@ nayamaadu
 down
 ಾಯಾದ
 nyaayavaada
-ೇವಲ;
+ೇವಲ;
 ಾಯಾದ;
 just
 nyaayavaada
 ಾೆ;
 ಾಯಾದ;
 ಮುಾದ;
-ೇಕದ;
+ೇಕದ;
 ಸೂಕ;
 fair
 nyaayavaada
@@ -24963,7 +24963,7 @@ nirgamana
 start
 nirgamana
 ಆವೃ;
-ೊಡು;
+ೊಡು;
 ಗಮನ;
 ೕೆ;
 issue
@@ -24971,7 +24971,7 @@ nirgamana exit
 ಗಸು
 nirgamisu
 ಗಸು;
-ೕೇಳ;
+ೕೇಳ;
 arise
 ಣಯ
 nirnaya
@@ -24989,25 +24989,25 @@ nirnaayaka
 ಚು;
 ಮೆ;
 review
-ೇಶಕ
+ೇಶಕ
 nirdeshaka director
 nirdeshaka manager
-ೇಶನ
+ೇಶನ
 nirdeshana
 ಾ;
 ದೂರದ;
-ೇಶನ;
+ೇಶನ;
 ಾಷ;
 ಾಗ;
 way
 nirdeshana
-ೇಶನ;
+ೇಶನ;
 ಾಯಕತ;
 leadership
 nirdeshana direction
 nirdeshana
 ಆಡತ;
-ೇಶನ;
+ೇಶನ;
 management
 ಧಸಲು
 nirdharisalu
@@ -25074,7 +25074,7 @@ nirdhaara
 resolve
 nirdhaara
 ಾರ;
-ೇಷಣ;
+ೇಷಣ;
 ಸಜೆ;
 resolution
 ಬಂ
@@ -25113,7 +25113,7 @@ cloud
 ವ
 nirvahisi
 ಆಡತ;
-ನೆೊಂಡು;
+ನೆೊಂಡು;
 ವ;
 manage
 ವಸಲು
@@ -25138,30 +25138,30 @@ neravaagu
 ೆರಾಗು;
 ಸಾಯ;
 help
-ೆರೇಸು
+ೆರೇಸು
 neraverisu
 ಅನುಸಸು;
-ೆರೇಸು;
+ೆರೇಸು;
 ಪದಶನ;
-ಪೈಸುವ;
+ಪೈಸುವ;
 achieve
-ೆೆೊೆ
+ೆೆೊೆ
 nereheure
 ಾಲು
 ಾಗ;
 ೆ;
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಾಲೆಯ;
 district
 nereheure
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಪಸರ;
 environment
 nereheure
 ಾಲು
 ಾಗ;
 ೆ;
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಾಲೆಯ;
 quarter
 ಾಕಸು
@@ -25169,8 +25169,8 @@ niraakarisu
 ರಸತ;
 ಾಕಸು;
 refuse
-ಾೆೊಂಡು
-ಾೆೊಂಡು
+ಾೆೊಂಡು
+ಾೆೊಂಡು
 niraashegeumdu disappointed
 ರೂಪಕ
 nirupaka
@@ -25188,38 +25188,38 @@ nillisalu
 ರುಕು;
 break
 nillisalu
-ೊೆಯ;
-ೇಂದ;
+ೊೆಯ;
+ೇಂದ;
 ತಂಗುವದು;
 ಸಲು;
 ಸು;
 stop
 nillisalu
-ೇಂದ;
+ೇಂದ;
 ಸಲು;
 station
 ಸು
 nillisu
-ಉೇಶ;
-ಉೇಸುವದು;
-ೊೆಾಸು;
+ಉೇಶ;
+ಉೇಸುವದು;
+ೊೆಾಸು;
 
-ೊೆೊಳವ;
-ೊೆಯ;
+ೊೆೊಳವ;
+ೊೆಯ;
 ಗು;
 ಸು;
 ಮುಚುವ;
 end
 nillisu
-ೊೆಯ;
-ೇಂದ;
+ೊೆಯ;
+ೇಂದ;
 ತಂಗುವದು;
 ಸಲು;
 ಸು;
 stop
 nillisu
-ೊೆಾಸು;
-ೊೆಯ;
+ೊೆಾಸು;
+ೊೆಯ;
 ಸು;
 ಮುಚುವ;
 finish
@@ -25233,11 +25233,11 @@ nelahaasu
 ಶ;
 soil
 nelahaasu
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -25279,7 +25279,7 @@ horror
 nivaasa resident
 ನಷ
 nashhta
-ೋಷ;
+ೋಷ;
 ನಷ;
 ಪಾದ;
 fault
@@ -25343,7 +25343,7 @@ naayaka
 head
 ಾಯಕತ
 naayakathva
-ೇಶನ;
+ೇಶನ;
 ಾಯಕತ;
 leadership
 ಾಲೆಯ
@@ -25351,14 +25351,14 @@ naalkaneya
 ಾಲು
 ಾಗ;
 ೆ;
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಾಲೆಯ;
 district
 naalkaneya
 ಾಲು
 ಾಗ;
 ೆ;
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಾಲೆಯ;
 quarter
 ಾೆ
@@ -25376,30 +25376,30 @@ ship
 ಾವ
 naavu
 ಾವ;
-ಾೇ;
+ಾೇ;
 us
 naavu
 ಾವ;
-ಾೇ;
+ಾೇ;
 ourselves
 naavu
 ಒಂದು; ಾವ;
-ಾೇ;
+ಾೇ;
 ೕವ;
 we
-ಾೇ
+ಾೇ
 naave
 ಾವ;
-ಾೇ;
+ಾೇ;
 us
 naave
 ಒಂದು; ಾವ;
-ಾೇ;
+ಾೇ;
 ೕವ;
 we
 naave
 ಾವ;
-ಾೇ;
+ಾೇ;
 ourselves
 ಾಶ
 naasha
@@ -25428,167 +25428,167 @@ nuluhuri
 ವಳ;
 ನೂಲುಹು;
 net
-ೋಂಾಸು
+ೋಂಾಸು
 neumdaayisu
 ಾಖೆ;
-ೋಂಾಸು;
+ೋಂಾಸು;
 ೕಜು;
 ೆಾ;
 register
-ೋಟ
+ೋಟ
 neuta
 ಾಣು;
-ೈಗಾರ;
-ೋಟ;
-ೋಟವನು;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ೋಟ;
+ೋಟವನು;
+ೋಡಲು;
+ೋಡು;
 look
 neuta
 ದೃ;
-ೋಟ;
-ೋಡಲು;
+ೋಟ;
+ೋಡಲು;
 ಪಗ;
 view
 neuta
-ೈಗಾರ;
+ೈಗಾರ;
 ಗಾರ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 
 ಪಗ;
 ಲಸು;
 watch
 neuta
-ೋಟ;
-ೋಡಲು;
+ೋಟ;
+ೋಡಲು;
 ಪಗ;
 consider
 neuta
 ಅಥ;
-ೈಗಾರ;
-ದುೋ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ದುೋ;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 ಪಗ;
-ೇ;
+ೇ;
 see
-ೋಟವನು
+ೋಟವನು
 neutavannu
 ದೃ;
-ೋಟವನು;
+ೋಟವನು;
 aspect
 neutavannu
 ಾಣು;
-ೈಗಾರ;
-ೋಟ;
-ೋಟವನು;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ೋಟ;
+ೋಟವನು;
+ೋಡಲು;
+ೋಡು;
 look
 neutavannu appearance
 neutavannu
 ಒಡು;
-ೋಟವನು;
+ೋಟವನು;
 air
-ೋಡಲು
+ೋಡಲು
 neudalu
-ೋಟ;
-ೋಡಲು;
+ೋಟ;
+ೋಡಲು;
 ಪಗ;
 consider
 neudalu
 ಅಥ;
-ೈಗಾರ;
-ದುೋ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ದುೋ;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 ಪಗ;
-ೇ;
+ೇ;
 see
 neudalu
 ದೃ;
-ೋಟ;
-ೋಡಲು;
+ೋಟ;
+ೋಡಲು;
 ಪಗ;
 view
 neudalu
 ಾಣು;
-ೈಗಾರ;
-ೋಟ;
-ೋಟವನು;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ೋಟ;
+ೋಟವನು;
+ೋಡಲು;
+ೋಡು;
 look
 neudalu
-ೈಗಾರ;
+ೈಗಾರ;
 ಗಾರ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 
 ಪಗ;
 ಲಸು;
 watch
-ೋಡು
+ೋಡು
 neudu
 ನಮೂಸು;
-ೋಡು;
+ೋಡು;
 note
 neudu
 ಗುರುತು; ೆ;
-ೋಡು;
+ೋಡು;
 ಮೆ;
 ಮುೆ;
 ೆಾ;
 mark
 neudu
 ಾಣು;
-ೈಗಾರ;
-ೋಟ;
-ೋಟವನು;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ೋಟ;
+ೋಟವನು;
+ೋಡಲು;
+ೋಡು;
 look
 neudu
-ೋಡು;
+ೋಡು;
 ಪಕಟೆ;
 notice
 neudu
-ೈಗಾರ;
+ೈಗಾರ;
 ಗಾರ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 
 ಪಗ;
 ಲಸು;
 watch
 neudu
 ಅಥ;
-ೈಗಾರ;
-ದುೋ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ದುೋ;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 ಪಗ;
-ೇ;
+ೇ;
 see
-ೋನ
-ೋನ
+ೋನ
+ೋನ
 neuvina
 ಕಷ;
 ಾಸಾಯಕ;
-ದೃಢ; ೋನ;
+ದೃಢ; ೋನ;
 ಬಲಾದ;
 ಶಾ;
 hard
-ೋವ
+ೋವ
 neuvu
-ೋವ;
+ೋವ;
 ಸಂಕಟ;
 pain
 ನೃತ
@@ -25610,14 +25610,14 @@ employ
 ೕ
 nidi
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ೕ;
 ಸವಲತು;
 allow
 ೕೆ
 nidike
 ಆವೃ;
-ೊಡು;
+ೊಡು;
 ಗಮನ;
 ೕೆ;
 issue
@@ -25637,7 +25637,7 @@ bid
 niduththave
 ಒದಸು;
 ೕಡುತೆ;
-ೇರು;
+ೇರು;
 ಹೆ;
 supply
 niduththave
@@ -25652,26 +25652,26 @@ propose
 ೕ
 nithi policy
 nithi politics
-ೇಮಾ
+ೇಮಾ
 nemakaathi appointment
-ೇರಾ
+ೇರಾ
 neravaagi immediate
 neravaagi directly
 neravaagi
-ೇರಾ;
+ೇರಾ;
 ೕಘಾ;
 immediately
-ೇರಾದ
+ೇರಾದ
 neravaada straight
 ೕರು
 niru
 ೕರು;
-ೕೊದಸು;
+ೕೊದಸು;
 water
-ೕೊದಸು
+ೕೊದಸು
 nireudagisu
 ೕರು;
-ೕೊದಸು;
+ೕೊದಸು;
 water
 ೕವ
 nivu
@@ -25706,7 +25706,7 @@ nivu
 one
 nivu
 ಒಂದು; ಾವ;
-ಾೇ;
+ಾೇ;
 ೕವ;
 we
 nivu
@@ -25762,20 +25762,20 @@ nivu
 ಮ;
 ೕವ;
 she
-ೈಪಣ
+ೈಪಣ
 nepunya
 ಅದೃಷ;
-ೈಪಣ;
+ೈಪಣ;
 skill
-ೈಮಲದ
+ೈಮಲದ
 nermalyada
-ಆೋಗ;
-ೈಮಲದ;
+ಆೋಗ;
+ೈಮಲದ;
 health
-ೈಸಕಾ
+ೈಸಕಾ
 nesargikavaagi
-ೋ;
-ೈಸಕಾ;
+ೋ;
+ೈಸಕಾ;
 naturally
 ಪ
 ಂಚ
@@ -25813,10 +25813,10 @@ case
 pattana
 ನಗರ; ಪಟಣ;
 town
-ೆೋಲು
+ೆೋಲು
 petreulu
 ಅಲ;
-ೆೋಲು;
+ೆೋಲು;
 gas
 ಪಠ
 pathya
@@ -25934,7 +25934,7 @@ padyabhaaga
 ಅಹ;
 ಆಕಮಣ;
 ಆಕಮಣಾಡು;
-ಆೋಸಲು;
+ಆೋಸಲು;
 
 ಪದಾಗ;
 ೕಗ;
@@ -25958,16 +25958,16 @@ padavi
 ವಗ;
 ವೕಕಸಲು;
 grade
-ಾೇ
+ಾೇ
 pyaakej
 ಕಂೆ;
-ೊಂಚಲು;
-ಾೇ;
+ೊಂಚಲು;
+ಾೇ;
 ಮೂೆ;
 pack
 ಪಕಟ
 prakata
-ೆರವೊ;
+ೆರವೊ;
 ಪಕಟ;
 obvious
 prakata
@@ -25980,14 +25980,14 @@ prakatane
 ಪಕಟೆ;
 ad
 prakatane
-ೋಡು;
+ೋಡು;
 ಪಕಟೆ;
 notice
 prakatane
 ಗಮನ; ಪಕಟೆ;
 ಮೕಯ
 ಸೆ;
-ೇಚೆ;
+ೇಚೆ;
 ಸಲೆ;
 advice
 ಪಕಟಾ
@@ -26008,7 +26008,7 @@ prakatisu
 announce
 prakatisu
 ಪಕಸು;
-ೇಳ;
+ೇಳ;
 inform
 ಪಕರಣ
 prakarana
@@ -26037,21 +26037,21 @@ prakaashaka
 editor
 ಪಾಶಾನ
 prakaashamaana
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
 ೆಳಗು;
 ಸಷಾ;
 light
 prakaashamaana
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
 ೕಾ;
 ಸಷಾ;
 bright
 prakaashamaana
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
-ಾವನೊಸು;
+ಾವನೊಸು;
 
 ಶುಾದ;
 ಸಷಾ;
@@ -26088,7 +26088,7 @@ odd
 parakiya
 ಅನ;
 ಪರೕಯ;
-ೊಸಬ;
+ೊಸಬ;
 foreign
 ಪಗಣೆ
 pariganane
@@ -26097,34 +26097,34 @@ pariganane
 consideration
 ಪಗ
 pariganisi
-ೈಗಾರ;
+ೈಗಾರ;
 ಗಾರ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 
 ಪಗ;
 ಲಸು;
 watch
 pariganisi
 ದೃ;
-ೋಟ;
-ೋಡಲು;
+ೋಟ;
+ೋಡಲು;
 ಪಗ;
 view
 pariganisi
 ಅಥ;
-ೈಗಾರ;
-ದುೋ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ದುೋ;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 ಪಗ;
-ೇ;
+ೇ;
 see
 pariganisi
-ೋಟ;
-ೋಡಲು;
+ೋಟ;
+ೋಡಲು;
 ಪಗ;
 consider
 ಪಗ
@@ -26143,11 +26143,11 @@ parichaya introduction
 parichaya
 ೆೆಯ;
 ಪಚಯ;
-ೇತ;
+ೇತ;
 friend
 ಪಚಸಲು
 parichayisalu
-ೊಡುೆ;
+ೊಡುೆ;
 ಪಚಸಲು;
 ಪಸುತ;
 present
@@ -26165,30 +26165,30 @@ prachaara
 ಪಾರ;
 ಸಾಯ;
 assist
-ಪೋದೆ
+ಪೋದೆ
 pracheudane
 ಾರಣ;
-ಪೋದೆ;
+ಪೋದೆ;
 ಸಾಲು;
 challenge
-ಪೋಧೆ
+ಪೋಧೆ
 pracheudhane
 ಉೕಪನ;
-ಪೋಧೆ;
+ಪೋಧೆ;
 excitement
 pracheudhane
-ಪೋಧೆ;
+ಪೋಧೆ;
 ಸಲೆ;
 suggestion
 ಪಾಶನ
 prajnjaashunya
-ೇ;
+ೇ;
 ಪಾಶನ;
 ಹುೆದ;
 ಹುಚುದ;
 crazy
 prajnjaashunya
-ೇ;
+ೇ;
 ಪಾಶನ;
 ಹುೆದ;
 ಹುಚುದ;
@@ -26256,7 +26256,7 @@ every
 prathikriye reaction
 prathikriye
 ಉತರ;
-ಉತರೊಡು;
+ಉತರೊಡು;
 ಪ;
 ಪಾರ;
 answer
@@ -26270,7 +26270,7 @@ prathikriye
 respond
 prathikriye
 ಉತರ;
-ಉತರೊಡು;
+ಉತರೊಡು;
 ಪ;
 reply
 ಪಸು
@@ -26317,7 +26317,7 @@ prathiphala
 prize
 prathiphala
 ಪಫಲ;
-ೇತನ;
+ೇತನ;
 ಸಂಬಳ;
 salary
 ಪಫಲನ
@@ -26330,12 +26330,12 @@ mirror
 ಪಬಂಸು
 prathibamdhisu
 ಪಬಂಸು;
-ೊರಡು;
-ೊರತುಪ;
+ೊರಡು;
+ೊರತುಪ;
 except
 ಪೆ
 prathibhe
-ೊಡುೆ;
+ೊಡುೆ;
 ಾೆಂ;
 ಪೆ;
 gift
@@ -26359,14 +26359,14 @@ parithyajisu
 loose
 ಪಾಗ
 parithyaaga
-ಕೇ;
+ಕೇ;
 ೆಲಸ;
 ಾಯ;
 ಪಾಗ;
 task
 parithyaaga
-ಉೋಗ;
-ಕೇ;
+ಉೋಗ;
+ಕೇ;
 ೆಲಸ;
 ಪಾಗ;
 ಾನ;
@@ -26383,10 +26383,10 @@ prathiyeumdu
 everyone
 ಪಂದೂ
 prathiyeumdu either
-ಪೇಕಾದ
+ಪೇಕಾದ
 prathyekavaada
 ಒಂಾ;
-ಪೇಕಾದ;
+ಪೇಕಾದ;
 ಾತ;
 lonely
 ಪಥಮ
@@ -26412,14 +26412,14 @@ pradarshana
 perform
 pradarshana
 ಅನುಸಸು;
-ೆರೇಸು;
+ೆರೇಸು;
 ಪದಶನ;
-ಪೈಸುವ;
+ಪೈಸುವ;
 achieve
-ಪೇಶ
+ಪೇಶ
 pradesha
-ೇಶ;
-ಪೇಶ;
+ೇಶ;
+ಪೇಶ;
 ೕಣ;
 region
 ಪಾನ
@@ -26504,11 +26504,11 @@ pramaana
 ಾಗ;
 game
 pramaana
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -26544,9 +26544,9 @@ pramaana
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 pramaana
 ಅದೃಷ;
@@ -26581,8 +26581,8 @@ pramaanikarisu
 ಾೕತುಪಸು;
 prove
 pramaanikarisu
-ೋಾಟು;
-ೋಸು;
+ೋಾಟು;
+ೋಸು;
 ಪಾೕಕಸು;
 show
 pramaanikarisu
@@ -26594,17 +26594,17 @@ pramaanikarisu
 establish
 ಪಾದ
 pramaada
-ಕಪಟ; ೋಷ;
+ಕಪಟ; ೋಷ;
 ಪಾದ;
 ಭ;
 mistake
 pramaada
-ೋಷ;
+ೋಷ;
 ನಷ;
 ಪಾದ;
 fault
 pramaada
-ಕಪಟ; ೋಷ;
+ಕಪಟ; ೋಷ;
 ಪಾದ;
 ಭ;
 error
@@ -26656,12 +26656,12 @@ prayathna
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 prayathna
 ಅನುಭವ; ಅಾಯ;
@@ -26719,17 +26719,17 @@ paryaaya
 shift
 ಪಾಸ
 prayaasa
-ಆೋಪವನು;
+ಆೋಪವನು;
 ಪಾಸ;
 ೆೆ;
 ಬಹುಾನ;
-ೋ;
+ೋ;
 
 ಶುಲ;
 charge
 prayaasa
 ಪಾಸ;
-ೋ;
+ೋ;
 load
 ಪೕಗ
 ಪೕಗ
@@ -26750,12 +26750,12 @@ prayeuga
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 prayeuga
 ೆ;
@@ -26769,7 +26769,7 @@ prayeuga
 exercise
 prayeuga
 ಅಾಸ;
-ತರೇ;
+ತರೇ;
 ಪೕಗ;
 practice
 prayeuga
@@ -26826,7 +26826,7 @@ leave
 paravaanagi
 ಅನುಮ;
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಪರಾನ;
 ಸವಲತು;
 permit
@@ -26859,18 +26859,18 @@ pravaaha
 ಪಸುತ;
 ಹವ;
 current
-ಪೇಶ
+ಪೇಶ
 pravesha
-ಪೇಶ;
-ಪೇಸಲು;
+ಪೇಶ;
+ಪೇಸಲು;
 entry
-ಪೇಸಲು
+ಪೇಸಲು
 praveshisalu access
 praveshisalu entrance
-ಪೇಸಲು
+ಪೇಸಲು
 praveshisalu
-ಪೇಶ;
-ಪೇಸಲು;
+ಪೇಶ;
+ಪೇಸಲು;
 entry
 ಪೆ
 prashne
@@ -26890,24 +26890,24 @@ matter
 prashne
 ಪೆ;
 ಸಲೆ
-ೇಳ;
+ೇಳ;
 consult
 prashne
 ಪೆ;
 ಪಸು;
-ಪೇಸು;
+ಪೇಸು;
 ಪೕಸು;
-ೇಸು;
+ೇಸು;
 examine
 prashne
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
@@ -26920,9 +26920,9 @@ question
 prashnisu
 ಪೆ;
 ಪಸು;
-ಪೇಸು;
+ಪೇಸು;
 ಪೕಸು;
-ೇಸು;
+ೇಸು;
 examine
 prashnisu
 ಪೆ;
@@ -26931,14 +26931,14 @@ prashnisu
 question
 ಪಸುವದು
 prashnisuvudu
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
@@ -26965,7 +26965,7 @@ question
 ಪಶ
 prashasthi
 ಪಶ;
-ೊೆಾಡು;
+ೊೆಾಡು;
 award
 ಪಾಂತ
 prashaamtha
@@ -26975,7 +26975,7 @@ prashaamtha
 ೌನ;
 ಾಂತ;
 
-ೊಗಳ;
+ೊಗಳ;
 calm
 prashaamtha
 ಆದೆ;
@@ -26989,30 +26989,30 @@ prashaamtha
 ಪಾಂತ;
 ಾಂತ;
 quiet
-ಪೇಸು
+ಪೇಸು
 parisheudhisu
-ಪೇಸು;
+ಪೇಸು;
 ಪೕಸು;
 ಹುಡು;
 explore
 parisheudhisu
 ಪೆ;
 ಪಸು;
-ಪೇಸು;
+ಪೇಸು;
 ಪೕಸು;
-ೇಸು;
+ೇಸು;
 examine
 parisheudhisu
 ೆ;
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 ಪೕಲೆ
 parishilane
@@ -27027,7 +27027,7 @@ parishilisi
 check
 ಪೕಸು
 parishilisu
-ಪೇಸು;
+ಪೇಸು;
 ಪೕಸು;
 ಹುಡು;
 explore
@@ -27035,9 +27035,9 @@ explore
 parishilisu
 ಪೆ;
 ಪಸು;
-ಪೇಸು;
+ಪೇಸು;
 ಪೕಸು;
-ೇಸು;
+ೇಸು;
 examine
 ಪಾಸು
 prasthaapisu
@@ -27050,7 +27050,7 @@ prasthaapisu
 offer
 ಪಸುತ
 prasthutha
-ೊಡುೆ;
+ೊಡುೆ;
 ಪಚಸಲು;
 ಪಸುತ;
 present
@@ -27089,7 +27089,7 @@ prasiddhi
 ಕೆ;
 ದಯಟು;
 ಪ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 appeal
 prasiddhi
@@ -27105,7 +27105,7 @@ prasiddhi reputation
 prasiddhavaada famous
 ಪಸರ
 parisara
-ೆೆೊೆ;
+ೆೆೊೆ;
 ಪಸರ;
 environment
 ಪಸರಣ
@@ -27137,7 +27137,7 @@ parihaara
 relief
 parihaara
 ಉತರ;
-ಉತರೊಡು;
+ಉತರೊಡು;
 ಪ;
 ಪಾರ;
 answer
@@ -27216,14 +27216,14 @@ praarambhisu
 begin
 ಾಥೆ
 praarthhane
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
@@ -27238,17 +27238,17 @@ praarthhisu
 call
 ೕಾಹ
 preuthsaaha encouraging
-ೇಕರು
+ೇಕರು
 prekshhakaru
-ೇಕರು;
+ೇಕರು;
 ಾವಜಕ;
 audience
 prekshhakaru
-ೇಕರು;
+ೇಕರು;
 ಾವಜಕ;
 public
 prekshhakaru
-ೇಕರು;
+ೇಕರು;
 ಶವಣ;
 hearing
 ಪೕಸು
@@ -27256,12 +27256,12 @@ parikshhisu investigate
 parikshhisu
 ತೆ;
 ಪೕಸು;
-ೇಧೆ;
+ೇಧೆ;
 research
-ೇರಕ
+ೇರಕ
 preraka
 ಾರಣ;
-ೇರಕ;
+ೇರಕ;
 ಸಂದಭ;
 reason
 ಪ
@@ -27295,7 +27295,7 @@ paakavidhaana recipe
 ಾಠ
 paatha
 ಾಠ;
-ೋಸು;
+ೋಸು;
 teach
 paatha
 ಕ;
@@ -27307,22 +27307,22 @@ paathra
 ;
 ಾತ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 role
 paathra
 ಾತ;
 ಾಗ;
-ೋ;
-ೋಲ;
+ೋ;
+ೋಲ;
 roll
 paathra
 ಆಟ; ತುಂಡು; ತುಣುಕು; ಪಾಣ;
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 ಾ
 paadri priest
@@ -27356,7 +27356,7 @@ paalu
 game
 paalu
 ಾಲು;
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಸು;
 separate
 paalu
@@ -27381,21 +27381,21 @@ paalu
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 ಾವ
 paavathi payment
-ಾವನೊಸು
+ಾವನೊಸು
 paavanageulisu
-ಾವನೊಸು;
+ಾವನೊಸು;
 ಶುಾದ;
 clean
 paavanageulisu
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
-ಾವನೊಸು;
+ಾವನೊಸು;
 
 ಶುಾದ;
 ಸಷಾ;
@@ -27415,18 +27415,18 @@ page
 ಪ
 put
 ಪ;
-ೋಗು;
+ೋಗು;
 put
 put
 ಪ;
 ಸಳ;
 ಾನ;
-ೋಗು;
-ೈ;
+ೋಗು;
+ೈ;
 place
 put
 ಇಡು; ಪ;
-ೋಗು;
+ೋಗು;
 lay
 ಪ
 pudi
@@ -27453,7 +27453,7 @@ book
 ಪೆ
 puje
 ಪೆ;
-ೇೆ;
+ೇೆ;
 service
 ಪವ
 purva eastern
@@ -27469,12 +27469,12 @@ purvabhyaasa
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 purvabhyaasa
 ೆ;
@@ -27483,22 +27483,22 @@ purvabhyaasa
 ಾರೆ;
 ಾ;
 proof
-ಪೈಸುವ
+ಪೈಸುವ
 puresuva
 ಅನುಸಸು;
-ೆರೇಸು;
+ೆರೇಸು;
 ಪದಶನ;
-ಪೈಸುವ;
+ಪೈಸುವ;
 achieve
 ೕ
 peulis police
 ೕಸು
 peushhisu
 ಆಾರ
-ೊಡು;
+ೊಡು;
 ೕಸು;
 feed
-ೈೕ
+ೈೕ
 pepeuti compete
 ಫ
 ಾಷ
@@ -27534,7 +27534,7 @@ form
 phyaashhan
 ಾ;
 ದೂರದ;
-ೇಶನ;
+ೇಶನ;
 ಾಷ;
 ಾಗ;
 way
@@ -27546,11 +27546,11 @@ phar
 hide
 phar
 ಚಮ;
-ೊಗೆ;
+ೊಗೆ;
 ಫ;
 skin
 phar
-ೋಟು;
+ೋಟು;
 ಚಮ;
 ಫ;
 ೕಲಂ;
@@ -27590,7 +27590,7 @@ form
 ೆಂ
 bemki
 ಎೆ;
-ೋಥ;
+ೋಥ;
 ೆಂ;
 fire
 bemki
@@ -27599,7 +27599,7 @@ bemki
 shoot
 bemki
 ೆಂ;
-ಾೕೇಕ;
+ಾೕೇಕ;
 passion
 ೆಂಚು
 bemchu
@@ -27622,13 +27622,13 @@ pot
 bimdu dot
 ಂದು
 bimdu
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಕೆ;
 ಾಣ;
 ಂದು;
 ಸಳ;
-ೈ;
-ೊೆ;
+ೈ;
+ೊೆ;
 spot
 bimdu
 ಅವ;
@@ -27636,10 +27636,10 @@ bimdu
 period
 bimdu
 ಂದು;
-ೇಖನ;
+ೇಖನ;
 item
 bimdu
-ೋಸು;
+ೋಸು;
 ಂದು;
 point
 ೆಂಬಲ
@@ -27689,7 +27689,7 @@ bechchaneya
 ಉಗಾಪ;
 ಉಷ;
 ೆಚೆಯ;
-ಸುೋಷೆ;
+ಸುೋಷೆ;
 heat
 bechchaneya
 ಉಷ;
@@ -27725,7 +27725,7 @@ battalu
 dish
 battalu
 ಗಂಗಳ; ಬಟಲು;
-ೋಗು;
+ೋಗು;
 bowl
 ಟು
 bittu
@@ -27757,7 +27757,7 @@ badava
 ಾೆ;
 branch
 badava
-ೋಳಗಳ;
+ೋಳಗಳ;
 ಬಡವ; ಶಸ;
 arm
 badava
@@ -27781,7 +27781,7 @@ free
 bidugade escape
 ೆೆ
 bene
-ೋನ;
+ೋನ;
 ೆೆ;
 ಮೂೆ;
 corner
@@ -27803,7 +27803,7 @@ dry
 ಬದೆ
 baddhathe
 ಬದೆ;
-ವೊಡು;
+ವೊಡು;
 commit
 ೆದದ
 bedarida scared
@@ -27881,31 +27881,31 @@ life
 ಬಯೆ
 bayake
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೇೆ;
+ಬಯಸು; ೇೆ;
 
-ೋಾೇೆ;
+ೋಾೇೆ;
 desire
 bayake
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೋಾೇೆ;
+ಬಯಸು; ೋಾೇೆ;
 wish
 bayake
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
-ಹಕುೇೆ;
+ಹಕುೇೆ;
 demand
 bayake
 ಅಗತ;
 ಅಗತೆ;
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 require
 bayake
 ಅವಶಕೆ;
@@ -27914,15 +27914,15 @@ bayake
 requirement
 bayake
 ಅವಶಕೆ;
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ask
 ಬಯು
 bayyu
-ಆೋಸು;
+ಆೋಸು;
 ದೂಸಲು;
 ಬಯು;
 ಾಲ;
@@ -27930,26 +27930,26 @@ blame
 ಬಯಸು
 bayasu
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೇೆ;
+ಬಯಸು; ೇೆ;
 
-ೋಾೇೆ;
+ೋಾೇೆ;
 desire
 bayasu
 ಬಯಸು; ;
 will
 bayasu
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೋಾೇೆ;
+ಬಯಸು; ೋಾೇೆ;
 wish
 bayasu
 ಅಗತ;
 ಅವಶಕೆ;
-ೊರೆ;
-ೈರುಾಜ;
+ೊರೆ;
+ೈರುಾಜ;
 ಬಯಸು;
 want
 ಾಂ
@@ -27994,16 +27994,16 @@ mix
 ಬರಹಾರ
 barahagaara
 ಬರಹಾರ;
-ೇಖಕ;
+ೇಖಕ;
 writer
 ಬಹಚ
 brahmacharye
 ಬಹಚ;
-ೋದ;
+ೋದ;
 sister
 ರುಕು
 biruku
-ಅಾವೇಷ;
+ಅಾವೇಷ;
 ಆಸೆ;
 ಉದ;
 ಉೆ;
@@ -28021,7 +28021,7 @@ birugaali storm
 ರುನ
 birusina
 ಾಡು;
-ೋಪದ;
+ೋಪದ;
 ರುನ;
 wild
 ರುಾದ
@@ -28050,11 +28050,11 @@ bele
 ಬಹುಾನ;
 prize
 bele
-ಆೋಪವನು;
+ಆೋಪವನು;
 ಪಾಸ;
 ೆೆ;
 ಬಹುಾನ;
-ೋ;
+ೋ;
 
 ಶುಲ;
 charge
@@ -28115,7 +28115,7 @@ loud
 balavaada
 ಕಷ;
 ಾಸಾಯಕ;
-ದೃಢ; ೋನ;
+ದೃಢ; ೋನ;
 ಬಲಾದ;
 ಶಾ;
 hard
@@ -28180,7 +28180,7 @@ tomorrow
 belagina uta breakfast
 ೆಳಗು
 belagu
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
 ೆಳಗು;
 ಸಷಾ;
@@ -28217,7 +28217,7 @@ balasuvudu
 apply
 ಬಳಸುವದು
 balasuvudu
-ಉೋಗ;
+ಉೋಗ;
 ಬಳಸುವದು;
 employment
 
@@ -28235,30 +28235,30 @@ hot
 bassu bus
 ಬರಂಗ
 bahiramga
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಬರಂಗ;
-ೊೆ;
-ೇೆ;
+ೊೆ;
+ೇೆ;
 discover
 bahiramga reveal
 ಬಹಳ ಸಣ
 bahala sanna tiny
-ಬಹುೇಕ
+ಬಹುೇಕ
 bahutheka
 ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ಸುಾರು;
 around
 bahutheka
 ಕುತು;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 almost
 bahutheka
 ಇಂದ; ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ರುದಾ;
 
@@ -28267,7 +28267,7 @@ about
 bahutheka
 ಕುತು;
 ಕಟಾ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 nearly
 ಬಹುಮೆ
 bahumattige generally
@@ -28279,11 +28279,11 @@ bahumaana
 ವಗ;
 price
 bahumaana
-ಆೋಪವನು;
+ಆೋಪವನು;
 ಪಾಸ;
 ೆೆ;
 ಬಹುಾನ;
-ೋ;
+ೋ;
 
 ಶುಲ;
 charge
@@ -28323,11 +28323,11 @@ bahusamkhyeya
 ಾ;
 amount
 bahusamkhyeya
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -28355,8 +28355,8 @@ baagilu
 gate
 ಾಲು
 baagilu
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಾಲು;
 goal
@@ -28393,7 +28393,7 @@ baadige engage
 baadige rent
 baadige
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಾೆ;
 ಸವಲತು;
 let
@@ -28414,7 +28414,7 @@ baari
 sometimes
 ಾ
 baar
-ಛಂೋಗ;
+ಛಂೋಗ;
 ಾ;
 ಾಸು;
 ಾಪನ;
@@ -28427,17 +28427,17 @@ blow
 baarisu
 ಆತ;
 ಏಟು; ಾಸು;
-ೊೆತ;
+ೊೆತ;
 stroke
 baarisu
-ಛಂೋಗ;
+ಛಂೋಗ;
 ಾ;
 ಾಸು;
 ಾಪನ;
 ಾ;
 bar
 baarisu
-ಏಟು; ಛಂೋಗ;
+ಏಟು; ಛಂೋಗ;
 ಾಸು;
 ಾಪನ;
 beat
@@ -28454,7 +28454,7 @@ baavi
 ಸ;
 ok
 baavi
-ಆೋಗಕರ;
+ಆೋಗಕರ;
 ಾ;
 ಸಂಪಣಾ;
 well
@@ -28465,24 +28465,24 @@ good
 ಾಹ
 baahya
 ಾಹ;
-ೊರಗೆ;
+ೊರಗೆ;
 external
 baahya
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 outside
 ಾಹ
 baahya
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 out
 ಾಾಾಶ
 baahyaakaasha
-ೊಠ;
+ೊಠ;
 ತುಂಡು; ತುಣುಕು; ಾಾಾಶ;
 ಾಗ;
 room
@@ -28503,115 +28503,115 @@ bulet
 shot
 ಬೂ
 but boot
-ೋಗು
+ೋಗು
 beuguni
 ಗಂಗಳ; ಬಟಲು;
-ೋಗು;
+ೋಗು;
 bowl
-ೋಧೆ
+ೋಧೆ
 beudhane instruction
 beudhane
-ಇತರ; ತರೇ;
-ೋಧೆ;
+ಇತರ; ತರೇ;
+ೋಧೆ;
 teaching
-ೋಸು
+ೋಸು
 beudhisu
 ಾಠ;
-ೋಸು;
+ೋಸು;
 teach
-ೇೆ
+ೇೆ
 bete
 ಗುಜ;
-ೇೆ;
-ೇೆಾಡು;
-ೇಧೆ;
+ೇೆ;
+ೇೆಾಡು;
+ೇಧೆ;
 ಹುಡು;
 hunt
-ೇೆಾಡು
+ೇೆಾಡು
 beteyaadu
-ೇೆಾಡು;
+ೇೆಾಡು;
 ಂಾಸು;
 pursue
 beteyaadu
 ಗುಜ;
-ೇೆ;
-ೇೆಾಡು;
-ೇಧೆ;
+ೇೆ;
+ೇೆಾಡು;
+ೇಧೆ;
 ಹುಡು;
 hunt
-ೇೆ
+ೇೆ
 bedike
 ದಯಟು;
-ೇೆ;
+ೇೆ;
 please
 bedike
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
 bedike
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
-ಹಕುೇೆ;
+ಹಕುೇೆ;
 demand
 bedike
 ಅಗತ;
 ಅಗತೆ;
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 require
 bedike
 ಕೆ;
 ದಯಟು;
 ಪ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 appeal
 bedike
 ಅವಶಕೆ;
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ask
 bedike
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೇೆ;
+ಬಯಸು; ೇೆ;
 
-ೋಾೇೆ;
+ೋಾೇೆ;
 desire
-ೇೆೆ
+ೇೆೆ
 berede elsewhere
-ೇೆಾರು
+ೇೆಾರು
 bereyaagiru disagree
-ೇೆಾದ
+ೇೆಾದ
 bereyaada
 ಾಲು;
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಸು;
 separate
-ೇೆಾದ
+ೇೆಾದ
 bereyaada
 ಆಟ; ತುಂಡು; ತುಣುಕು; ಪಾಣ;
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 ೕಸು
 bilisu
@@ -28625,19 +28625,19 @@ bilisu
 fall
 ೕಸೆ
 bisanige fan
-ೇಸರಪಡುವ
+ೇಸರಪಡುವ
 besarapaduva
 ದದ;
-ೇಸರಪಡುವ;
+ೇಸರಪಡುವ;
 tired
 ೕಸು
 bisu
 ಅರು;
 ಅೆ;
-ೊಡಅೆ;
+ೊಡಅೆ;
 ೕಸು;
 wave
-ೈೆ
+ೈೆ
 berige screw
 ಭ
 ಭದೆ
@@ -28645,7 +28645,7 @@ bhadrathe
 ಅಡವ;
 ಆಾರ;
 ಭದೆ;
-ೊೆಾರ;
+ೊೆಾರ;
 security
 bhadrathe safety
 ಭದಪಸು
@@ -28659,12 +28659,12 @@ bhaya panic
 bharthi fill
 ಭ
 bhrame
-ಕಪಟ; ೋಷ;
+ಕಪಟ; ೋಷ;
 ಪಾದ;
 ಭ;
 mistake
 bhrame
-ಕಪಟ; ೋಷ;
+ಕಪಟ; ೋಷ;
 ಪಾದ;
 ಭ;
 error
@@ -28685,9 +28685,9 @@ bhaaga
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 bhaaga
 ಕತ;
@@ -28706,7 +28706,7 @@ bhaaga
 ಾಗ;
 concern
 bhaaga
-ೊಠ;
+ೊಠ;
 ತುಂಡು; ತುಣುಕು; ಾಾಾಶ;
 ಾಗ;
 room
@@ -28714,8 +28714,8 @@ room
 bhaaga
 ಾತ;
 ಾಗ;
-ೋ;
-ೋಲ;
+ೋ;
+ೋಲ;
 roll
 bhaaga
 ಅದೃಷ;
@@ -28728,7 +28728,7 @@ bhaaga
 ;
 ಾತ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 role
 bhaaga
 ತುಂಡು; ತುಣುಕು; ಾಗ;
@@ -28746,7 +28746,7 @@ game
 ಾಗವಸು
 bhaagavahisu
 ಾಗವಸು;
-ೇ;
+ೇ;
 ಾಜರು;
 attend
 bhaagavahisu participate
@@ -28754,10 +28754,10 @@ bhaagavahisu participate
 bhaari huge
 ಾಾತಕ
 bhaavaathmaka emotional
-ಾೕೇಕ
+ಾೕೇಕ
 bhaaveudreka
 ೆಂ;
-ಾೕೇಕ;
+ಾೕೇಕ;
 passion
 ಾೆ
 bhaashhe
@@ -28809,15 +28809,15 @@ bhupata
 menu
 ಭೂ
 bhumi
-ೇಶ;
+ೇಶ;
 ಭೂ;
 land
 bhumi
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -28856,61 +28856,61 @@ bhumi
 ಶ;
 soil
 bhumi
-ೊಳಕು;
+ೊಳಕು;
 ೌಂ;
 ಭೂ;
 ಮಣು;
-ೊಲಸು;
+ೊಲಸು;
 dirt
 bhumi
 ೌಂ;
 ಭೂ;
 ಮಣು;
 bottom
-ೋಾೇೆ
+ೋಾೇೆ
 bheugaapekshhe
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೋಾೇೆ;
+ಬಯಸು; ೋಾೇೆ;
 wish
 bheugaapekshhe
 ಅವಶಕೆ;
-ೋೆ;
+ೋೆ;
 ಬಯೆ;
-ಬಯಸು; ೇೆ;
+ಬಯಸು; ೇೆ;
 
-ೋಾೇೆ;
+ೋಾೇೆ;
 desire
-ೋಜನ
+ೋಜನ
 bheujana
 ಆಾರ;
 ಊಟ; ನು;
-ೋಜನ;
+ೋಜನ;
 lunch
 bheujana
 ಆಾರ;
 ಊಟ; ನ;
 ನು;
-ೋಜನ;
+ೋಜನ;
 dinner
 ೕಕರ
 bhikara terrible
-ೇ
+ೇ
 bheti
 ಾಗವಸು;
-ೇ;
+ೇ;
 ಾಜರು;
 attend
 bheti
 ಅಥ;
-ೈಗಾರ;
-ದುೋ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೈಗಾರ;
+ದುೋ;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 ಪಗ;
-ೇ;
+ೇ;
 see
 bheti interview
 bheti visit
@@ -28944,13 +28944,13 @@ cup
 magalu daughter
 ಮಗು
 magu child
-ೊ
+ೊ
 mechchikeu admire
 ಮೆ
 ಮೆ
 majje
 ಗುರುತು; ೆ;
-ೋಡು;
+ೋಡು;
 ಮೆ;
 ಮುೆ;
 ೆಾ;
@@ -28958,12 +28958,12 @@ mark
 ಮಟ
 matta
 ಎೆ;
-ೇತ;
+ೇತ;
 ಮಟ;
 pitch
 ಮಟದ
 mattada
-ಏೋೇ;
+ಏೋೇ;
 ಮಟದ;
 ೕಜೆ;
 ಾನ;
@@ -28978,11 +28978,11 @@ madike
 pot
 ಮಣು
 mannu
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -29002,11 +29002,11 @@ mannu
 ಶ;
 floor
 mannu
-ೊಳಕು;
+ೊಳಕು;
 ೌಂ;
 ಭೂ;
 ಮಣು;
-ೊಲಸು;
+ೊಲಸು;
 dirt
 mannu
 ೌಂ;
@@ -29028,12 +29028,12 @@ mannu
 ಮಣು;
 ಶ;
 soil
-ೊಸು
+ೊಸು
 mithigeulisu
 ತಪದು;
-ೊಸು;
+ೊಸು;
 ಸಪ;
-ಸೊಂಸು;
+ಸೊಂಸು;
 adjust
 ಮೆ
 maththe
@@ -29042,7 +29042,7 @@ maththe
 ಇನೂ;
 ಮೆ;
 ಂೆ;
-ೊಸಾ;
+ೊಸಾ;
 again
 ಮತಷು
 maththashhtu
@@ -29050,7 +29050,7 @@ maththashhtu
 ೆಚು;
 more
 maththashhtu
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ಮತಷು;
 ೕಾ;
@@ -29075,15 +29075,15 @@ maththu
 ಮತು;
 ೆಚು;
 plus
-ಮೊಂದು
+ಮೊಂದು
 maththeumdu
-ಇತರ; ಮೊಂದು;
+ಇತರ; ಮೊಂದು;
 another
-ಮೇನೂ
+ಮೇನೂ
 ಇಲ
 maththenu illa
 ಇಲ;
-ಮೇನೂ
+ಮೇನೂ
 ಇಲ;
 ಾವದೂ
 ಅಲ;
@@ -29098,7 +29098,7 @@ mathiya sabhe
 ಗಮನ; ಪಕಟೆ;
 ಮೕಯ
 ಸೆ;
-ೇಚೆ;
+ೇಚೆ;
 ಸಲೆ;
 advice
 ಮೕಯಸೆ
@@ -29112,7 +29112,7 @@ madya beer
 madya wine
 ಮದಾರ
 madyasaara
-ೇತನ;
+ೇತನ;
 ಮದಾರ;
 alcohol
 ದು
@@ -29123,19 +29123,19 @@ medu
 soft
 medu
 ದು;
-ದುೊಸಲು;
+ದುೊಸಲು;
 ಾದ;
 ೌಮ;
 smooth
-ದುೊಸಲು
+ದುೊಸಲು
 medugeulisalu
 ದು;
-ದುೊಸಲು;
+ದುೊಸಲು;
 ಾದ;
 ೌಮ;
 smooth
 medugeulisalu
-ದುೊಸಲು;
+ದುೊಸಲು;
 ವಸಗೃಹ;
 level
 ದುಳ
@@ -29203,9 +29203,9 @@ hold
 manavi
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
-ಹಕುೇೆ;
+ಹಕುೇೆ;
 demand
 manavi
 ಅವಶಕೆ;
@@ -29222,14 +29222,14 @@ manavi
 ಮನ;
 call
 manavi
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
@@ -29237,15 +29237,15 @@ manavi
 ಕೆ;
 ದಯಟು;
 ಪ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 appeal
 manavi
 ಅವಶಕೆ;
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ask
 ಮನವೆ
@@ -29275,7 +29275,7 @@ mind
 manassige
 ಅಥದ;
 ಆತ;
-ೇತನ;
+ೇತನ;
 ಮನೆ;
 spirit
 ನು
@@ -29309,14 +29309,14 @@ manushhya
 ಪ;
 ಮನುಷ;
 husband
-ಮೋಾವ
+ಮೋಾವ
 maneubhaava
-ಮೋಾವ;
+ಮೋಾವ;
 ವತೆ;
 attitude
-ಮೋಾನ
+ಮೋಾನ
 maneuvijnjaana psychology
-ಮೋವೆ
+ಮೋವೆ
 maneuvyathhe blue
 ಮರ
 mara
@@ -29347,12 +29347,12 @@ maralu
 ಅಾಡ;
 ಮರಳ;
 sand
-ಮಲಗುವ ೋೆ
+ಮಲಗುವ ೋೆ
 malaguva keune bedroom
 ಟ
 militari
 ಟ;
-ೇೆ;
+ೇೆ;
 army
 ಮೆ
 male
@@ -29408,7 +29408,7 @@ disaster
 mahaamalige supermarket
 ಾಂಸ
 maamsa meat
-ಾಡೇಾದುದು
+ಾಡೇಾದುದು
 maadabekaadudu should
 ಾಡು
 maadu
@@ -29422,7 +29422,7 @@ maadu
 ಾಯ;
 ಾಡು;
 ನಾದ;
-ೇೆ;
+ೇೆ;
 operate
 maadu
 ;
@@ -29433,7 +29433,7 @@ maadu
 act
 maadu
 ಾಡು;
-ೇೆ;
+ೇೆ;
 serve
 ಾಡು
 maadu
@@ -29464,7 +29464,7 @@ maathanaadalu
 talk
 ಾತ
 maathra
-ಏೈಕ;
+ಏೈಕ;
 ಒಂಾ;
 ಾತ;
 single
@@ -29472,7 +29472,7 @@ maathra merely
 maathra unique
 maathra
 ಒಂಾ;
-ಒಬೇ;
+ಒಬೇ;
 ಾತ;
 alone
 maathra
@@ -29481,7 +29481,7 @@ maathra
 only
 maathra
 ಒಂಾ;
-ಪೇಕಾದ;
+ಪೇಕಾದ;
 ಾತ;
 lonely
 ಾತು
@@ -29499,12 +29499,12 @@ maadari
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 maadari
 ಕರಡು; ಭೂಪಟ; ಾದ;
@@ -29571,12 +29571,12 @@ spiritual
 ಾಪನ
 maapana measurement
 maapana
-ಏಟು; ಛಂೋಗ;
+ಏಟು; ಛಂೋಗ;
 ಾಸು;
 ಾಪನ;
 beat
 maapana
-ಛಂೋಗ;
+ಛಂೋಗ;
 ಾ;
 ಾಸು;
 ಾಪನ;
@@ -29584,7 +29584,7 @@ maapana
 bar
 ಾಗ
 maarga
-ಅಂಗೇದನ;
+ಅಂಗೇದನ;
 ದೂರ; ಾಗ;
 distance
 maarga
@@ -29595,7 +29595,7 @@ road
 maarga
 ಾ;
 ದೂರದ;
-ೇಶನ;
+ೇಶನ;
 ಾಷ;
 ಾಗ;
 way
@@ -29611,7 +29611,7 @@ maarga
 ಾಗ;
 off
 maarga
-ೇತ;
+ೇತ;
 ಾ;
 ದೂರದ;
 ನೆ;
@@ -29631,7 +29631,7 @@ maarga
 method
 ಾಗದಶನ
 maargadarshana
-ನೆೊಂಡು;
+ನೆೊಂಡು;
 ಾಗದಶನ;
 guide
 ಾಂ
@@ -29833,7 +29833,7 @@ advance
 mumduvarida advanced
 ಮುಂದುವಸು
 mumduvarisu
-ೊೆಯ;
+ೊೆಯ;
 ಮುಂದುವಸು;
 continue
 ಮುಂದೂಡು
@@ -29849,15 +29849,15 @@ mukhaputa
 ಕಂಬ;
 ಮುಖಪಟ;
 ರೆ;
-ೇಪನ;
-ೊೆ;
+ೇಪನ;
+ೊೆ;
 cover
 ಮುಖ
 mukhya main
 ಮುಖಾ
 mukhyavaagi
 ಮುಖಾ;
-ೇಷಾ;
+ೇಷಾ;
 especially
 mukhyavaagi primarily
 mukhyavaagi mainly
@@ -29874,14 +29874,14 @@ muchchi
 ಹಬದ;
 solid
 muchchi
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚಾೆ;
 ಮುಚುವ;
 shut
 muchchi
-ೊದ;
-ೊಬು;
+ೊದ;
+ೊಬು;
 ದಪ;
 ಮು;
 thick
@@ -29890,7 +29890,7 @@ muchchi
 ಮು;
 closely
 muchchi
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚುವ;
 ಸುೆಯ;
@@ -29898,7 +29898,7 @@ muchchi
 close
 ಮುಚಾೆ
 muchchalaagide
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚಾೆ;
 ಮುಚುವ;
@@ -29906,29 +29906,29 @@ shut
 muchchalaagide closed
 ಮುಚುವ
 muchchuva
-ೊೆಯ;
+ೊೆಯ;
 ಮುಚುವ;
 final
 muchchuva
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚುವ;
 ಸುೆಯ;
 ಹರದ;
 close
 muchchuva
-ಉೇಶ;
-ಉೇಸುವದು;
-ೊೆಾಸು;
+ಉೇಶ;
+ಉೇಸುವದು;
+ೊೆಾಸು;
 
-ೊೆೊಳವ;
-ೊೆಯ;
+ೊೆೊಳವ;
+ೊೆಯ;
 ಗು;
 ಸು;
 ಮುಚುವ;
 end
 muchchuva
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚಾೆ;
 ಮುಚುವ;
@@ -29938,17 +29938,17 @@ muchchuva
 ಮುಚುವ;
 conclusion
 muchchuva
-ೊೆಾಸು;
-ೊೆಯ;
+ೊೆಾಸು;
+ೊೆಯ;
 ಸು;
 ಮುಚುವ;
 finish
-ಮುೊೆ
-ಮುೊೆ
+ಮುೊೆ
+ಮುೊೆ
 muchcheule
 ಒೆ;
 ಕುಲು;
-ಮುೊೆ;
+ಮುೊೆ;
 oven
 ಮುೆ
 mudige
@@ -29992,7 +29992,7 @@ muddaada
 ಾೆ;
 ಾಯಾದ;
 ಮುಾದ;
-ೇಕದ;
+ೇಕದ;
 ಸೂಕ;
 fair
 ಮುೆ
@@ -30004,7 +30004,7 @@ mudre
 make
 mudre
 ಗುರುತು; ೆ;
-ೋಡು;
+ೋಡು;
 ಮೆ;
 ಮುೆ;
 ೆಾ;
@@ -30050,14 +30050,14 @@ mute
 ಕಂೆ;
 ಕುೆ;
 ಗುಂಪ;
-ೊಂಚಲು;
+ೊಂಚಲು;
 ಮೂೆ;
 ಾ;
 bunch
 mute
 ಕಂೆ;
-ೊಂಚಲು;
-ಾೇ;
+ೊಂಚಲು;
+ಾೇ;
 ಮೂೆ;
 pack
 ೆ
@@ -30130,7 +30130,7 @@ meunachaada
 ಾಯ;
 ಾಡು;
 ನಾದ;
-ೇೆ;
+ೇೆ;
 operate
 ೆಯುಳ
 meuneyulla
@@ -30164,11 +30164,11 @@ originally
 mula source
 ಮೂೆ
 mule
-ೋನ;
+ೋನ;
 ಮೂೆ;
 angle
 mule
-ೋನ;
+ೋನ;
 ೆೆ;
 ಮೂೆ;
 corner
@@ -30241,7 +30241,7 @@ mulathh basically
 ಮೂಲಾ
 mulanivaasi
 ಜನದ;
-ೇೕಯ;
+ೇೕಯ;
 ಮೂಲಾ;
 native
 ಮೂಲಭೂತ
@@ -30304,7 +30304,7 @@ mode
 meusada
 ಾಣ;
 ೕಸದ;
-ೊಗಸುಾರ;
+ೊಗಸುಾರ;
 smart
 meusada
 ಾಣ;
@@ -30319,7 +30319,7 @@ mauna
 ೌನ;
 ಾಂತ;
 
-ೊಗಳ;
+ೊಗಳ;
 calm
 ೌಲ
 ೌಲ
@@ -30349,13 +30349,13 @@ desk
 ೕಜು
 meju
 ಾಖೆ;
-ೋಂಾಸು;
+ೋಂಾಸು;
 ೕಜು;
 ೆಾ;
 register
 meju
 ೕಜು;
-ೇಖನದ;
+ೇಖನದ;
 chart
 meju
 ತ;
@@ -30368,11 +30368,11 @@ meju
 schedule
 ೕಾ
 medhaavi
-ೊಡ;
+ೊಡ;
 ೕಾ;
 brilliant
 medhaavi
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
 ೕಾ;
 ಸಷಾ;
@@ -30434,7 +30434,7 @@ across
 mele
 ಇಂದ; ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ರುದಾ;
 
@@ -30462,7 +30462,7 @@ upon
 mele
 ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ಸುಾರು;
 around
@@ -30560,7 +30560,7 @@ mele
 upstairs
 ೕಲಂ
 melamgi
-ೋಟು;
+ೋಟು;
 ಚಮ;
 ಫ;
 ೕಲಂ;
@@ -30600,7 +30600,7 @@ melvichaarane
 monitor
 ೕಾ
 melaagi
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ೕಾ;
 ಸಹ;
@@ -30611,16 +30611,16 @@ melaagi
 ಸಹ;
 moreover
 melaagi
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ಮತಷು;
 ೕಾ;
 ಸಹ;
 also
-ೕೇಳ
+ೕೇಳ
 melelu
 ಗಸು;
-ೕೇಳ;
+ೕೇಳ;
 arise
 ಯ
 ಯಂತ
@@ -30651,7 +30651,7 @@ yaaraadaru someone
 yaaraadaru somebody
 yaaraadaru
 ಾಾದರೂ;
-ಾೇ;
+ಾೇ;
 anybody
 yaaraadaru anyone
 ಾರು
@@ -30709,10 +30709,10 @@ yaaru
 ೕವ;
 ಾರು;
 her
-ಾೇ
+ಾೇ
 yaare
 ಾಾದರೂ;
-ಾೇ;
+ಾೇ;
 anybody
 yaare whoever
 ಾವನೂ
@@ -30721,12 +30721,12 @@ yaavanu illa nobody
 ಾಾಗ
 yaavaaga
 ಾಾಗ;
-ೇೆ;
+ೇೆ;
 if
 yaavaaga
 ಅಥಾ;
 ಾಾಗ;
-ೇೆ;
+ೇೆ;
 whether
 yaavaaga
 ಾಾಗ;
@@ -30745,7 +30745,7 @@ yaavaagalu constantly
 ಅಲ
 yaavudu alla
 ಇಲ;
-ಮೇನೂ
+ಮೇನೂ
 ಇಲ;
 ಾವದೂ
 ಅಲ;
@@ -30756,7 +30756,7 @@ neither
 ಇಲ
 yaavudu illa
 ಇಲ;
-ಮೇನೂ
+ಮೇನೂ
 ಇಲ;
 ಾವದೂ
 ಅಲ;
@@ -30775,21 +30775,21 @@ yaavudu illa
 ಾವದೂ
 ಇಲ;
 none
-ಾವೇ
+ಾವೇ
 yaavude
 ಒಂದು; ೆಲವ;
-ಾವೇ;
+ಾವೇ;
 any
 yaavude whatever
 ಯುಗ
 yuga
 ಅವ;
-ೈ;
+ೈ;
 ಯುಗ; ವಯಸು;
 time
 yuga
 ಅವ;
-ೈ;
+ೈ;
 ಯುಗ; ವಯಸು;
 age
 ಯುದ
@@ -30798,11 +30798,11 @@ yuddha
 ಗದಲ;
 ಚಸು;
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 fight
 yuddha
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 battle
 yuddha
 ಯುದ;
@@ -30812,19 +30812,19 @@ yuddha
 ಚೆ;
 ಯುದ;
 ಸೆ;
-ೋಾಟ;
+ೋಾಟ;
 contest
 yuddha
 ಒಾಡು;
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 struggle
 ಯುದಗಳ
 yuddhagalu
 ಯುದ;
 ಯುದಗಳ;
 war
-ಯುೈೆ
+ಯುೈೆ
 yuneted united
 ೕಗ
 yeugya
@@ -30846,7 +30846,7 @@ yeugya
 ಅಹ;
 ಆಕಮಣ;
 ಆಕಮಣಾಡು;
-ಆೋಸಲು;
+ಆೋಸಲು;
 
 ಪದಾಗ;
 ೕಗ;
@@ -30872,7 +30872,7 @@ yeujane
 scheme
 ೕಜೆ
 yeujane
-ಏೋೇ;
+ಏೋೇ;
 ಮಟದ;
 ೕಜೆ;
 ಾನ;
@@ -30926,8 +30926,8 @@ rakshhane
 ಕಂಬ;
 ಮುಖಪಟ;
 ರೆ;
-ೇಪನ;
-ೊೆ;
+ೇಪನ;
+ೊೆ;
 cover
 rakshhane
 ಾವಲುಾರ;
@@ -30953,7 +30953,7 @@ rekaard
 record
 rekaard
 ಾಖೆ;
-ೋಂಾಸು;
+ೋಂಾಸು;
 ೕಜು;
 ೆಾ;
 register
@@ -30982,11 +30982,11 @@ vacation
 rajaadinagalu
 ರಜ; ರಾನಗಳ;
 holiday
-ರಣೇ
+ರಣೇ
 ranabheri
 ಎಚೆ;
-ಾಬೊಸು;
-ರಣೇ;
+ಾಬೊಸು;
+ರಣೇ;
 alarm
 ರದು
 raddu
@@ -31007,20 +31007,20 @@ ran
 ನೆ;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 march
 ran
 ನೆ;
 ನೆಾಡು;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 walk
 ran
 ರ;
 ಸರಹದು;
 ಹವ;
-ೋಗುವದು;
+ೋಗುವದು;
 run
 ರ
 rab
@@ -31053,7 +31053,7 @@ restles
 ೆೆ;
 worried
 restles anxious
-ೆೋೆಂ
+ೆೋೆಂ
 resteuremt restaurant
 ರಹಸ
 rahasya
@@ -31069,7 +31069,7 @@ rahasyavaada
 secret
 ಾ
 raak
-ೊಡಬಂೆ;
+ೊಡಬಂೆ;
 ಾ;
 rock
 ಾಜ
@@ -31092,7 +31092,7 @@ status
 ಾ
 ಾ
 raad
-ಛಂೋಗ;
+ಛಂೋಗ;
 ಾ;
 ಾಸು;
 ಾಪನ;
@@ -31126,11 +31126,11 @@ raashi
 ಾ;
 quantity
 raashi
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -31155,7 +31155,7 @@ raashi
 ಕಂೆ;
 ಕುೆ;
 ಗುಂಪ;
-ೊಂಚಲು;
+ೊಂಚಲು;
 ಮೂೆ;
 ಾ;
 bunch
@@ -31206,36 +31206,36 @@ rus
 ;
 ರೂ;
 trick
-ೋ
+ೋ
 reugi patient
-ೋ
+ೋ
 reul
 ಾತ;
 ಾಗ;
-ೋ;
-ೋಲ;
+ೋ;
+ೋಲ;
 roll
-ೋಲ
+ೋಲ
 reular
 ;
 ಾತ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 role
 reular
 ಾತ;
 ಾಗ;
-ೋ;
-ೋಲ;
+ೋ;
+ೋಲ;
 roll
 reular
 ಆಟ; ತುಂಡು; ತುಣುಕು; ಪಾಣ;
 ಾತ;
 ಾಲು;
 
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಗ;
-ೋಲ;
+ೋಲ;
 part
 ೌಂ
 raumd
@@ -31246,27 +31246,27 @@ raumd
 ಸುತ;
 ಸುಾರು;
 round
-ೇಖನದ
+ೇಖನದ
 rekhanada
 ೕಜು;
-ೇಖನದ;
+ೇಖನದ;
 chart
-ೇೕ
+ೇೕ
 rediyeu
-ೇೕ;
-ೇೕ
+ೇೕ;
+ೇೕ
 ೆ;
 radio
-ೇೕ
+ೇೕ
 ೆ
 rediyeu set
-ೇೕ;
-ೇೕ
+ೇೕ;
+ೇೕ
 ೆ;
 radio
-ೈತ
+ೈತ
 retha farmer
-ೈಲು
+ೈಲು
 relu train
 ಲ
 ಂಗ
@@ -31275,7 +31275,7 @@ limga sex
 lamgaru
 ಲಂಗರು; ಸರಪ;
 guy
-ಲಂೇಳ
+ಲಂೇಳ
 lambisihelu insist
 ೆಕ
 lekka
@@ -31288,7 +31288,7 @@ lekka
 ೆಕ;
 count
 lekka
-ಎೇಳ;
+ಎೇಳ;
 ೆಕ;
 quote
 lekka
@@ -31315,11 +31315,11 @@ figure
 lakshhana definition
 ಲಸು
 lakshhisu
-ೈಗಾರ;
+ೈಗಾರ;
 ಗಾರ;
-ೋಟ;
-ೋಡಲು;
-ೋಡು;
+ೋಟ;
+ೋಡಲು;
+ೋಡು;
 
 ಪಗ;
 ಲಸು;
@@ -31381,49 +31381,49 @@ laavanya
 ಾವಣ;
 ಹೂವ;
 flower
-ೋ
+ೋ
 leud
-ಆೋಪವನು;
+ಆೋಪವನು;
 ಪಾಸ;
 ೆೆ;
 ಬಹುಾನ;
-ೋ;
+ೋ;
 
 ಶುಲ;
 charge
 leud
 ಪಾಸ;
-ೋ;
+ೋ;
 load
-ೋಹದ
+ೋಹದ
 leuhada metal
-ೇಖಕ
+ೇಖಕ
 lekhaka author
 lekhaka
 ಬರಹಾರ;
-ೇಖಕ;
+ೇಖಕ;
 writer
-ೇಖನ
+ೇಖನ
 lekhana article
 lekhana
 ಂದು;
-ೇಖನ;
+ೇಖನ;
 item
-ೇಖ
+ೇಖ
 lekhani pen
-ೇಪನ
+ೇಪನ
 lepana
 ಕಂಬ;
 ಮುಖಪಟ;
 ರೆ;
-ೇಪನ;
-ೊೆ;
+ೇಪನ;
+ೊೆ;
 cover
-ೈಂಕ
+ೈಂಕ
 lemgika sexual
 ವ
 ವಂೆ
-ೊಡು
+ೊಡು
 vamthige keudu contribute
 ವಂದೆ
 vamdane thanks
@@ -31454,17 +31454,17 @@ vichaarane
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 vichaarane
 ತೆ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 analysis
 vichaarane exam
 vichaarane
@@ -31505,7 +31505,7 @@ knowledge
 vijnjaana science
 ವಜ
 vajra diamond
-ೇತ
+ೇತ
 vijetha winner
 ವಟಗುಟುೆ
 vataguttuvike
@@ -31519,11 +31519,11 @@ vataguttuvike
 talk
 ಾಾಸ
 vidyaabhyaasa
-ತರೇ;
+ತರೇ;
 ಾಾಸ;
 education
 vidyaabhyaasa
-ತರೇ;
+ತರೇ;
 ಾಾಸ;
 training
 ಾ
@@ -31535,7 +31535,7 @@ vidushhaka
 ಇ;
 ದೂಷಕ;
 punch
-ೇಶಗಳ
+ೇಶಗಳ
 videshagalalli abroad
 ಾನ
 vidhaana
@@ -31555,7 +31555,7 @@ approach
 ನಯೕಲ
 vinayashila
 ನಯೕಲ;
-ೇಹ;
+ೇಹ;
 friendly
 vinayashila
 ಆಾಮಾಯಕ;
@@ -31664,7 +31664,7 @@ vibhaagisu
 share
 vibhaagisu
 ಾಲು;
-ೇೆಾದ;
+ೇೆಾದ;
 ಾಸು;
 separate
 vibhaagisu split
@@ -31682,7 +31682,7 @@ vimarshe
 criticism
 ಾನ
 vimaana
-ಏೋೇ;
+ಏೋೇ;
 ಮಟದ;
 ೕಜೆ;
 ಾನ;
@@ -31710,7 +31710,7 @@ human
 vyakthi
 ಏಕ; ವ;
 individual
-ವಕೊಸು
+ವಕೊಸು
 vyakthageulisu imply
 ವತ
 vyakthithva
@@ -31776,12 +31776,12 @@ vayaska adult
 ವಯಸು
 vayassu
 ಅವ;
-ೈ;
+ೈ;
 ಯುಗ; ವಯಸು;
 age
 vayassu
 ಅವ;
-ೈ;
+ೈ;
 ಯುಗ; ವಯಸು;
 time
 ಾಾನ
@@ -31885,23 +31885,23 @@ vargikarisalu
 class
 ವತೆ
 varthane
-ನೆದುೊ;
+ನೆದುೊ;
 ವತೆ;
 behave
 varthane
-ಮೋಾವ;
+ಮೋಾವ;
 ವತೆ;
 attitude
 ವರ
 varadi
 ;
 ವರ;
-ೇಳ;
+ೇಳ;
 relate
 varadi
 ;
 ವರ;
-ೇ;
+ೇ;
 tell
 varadi
 ಕರಡು ಮಸೂೆ;
@@ -31934,7 +31934,7 @@ at
 viruddhavaagi
 ಇಂದ; ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ರುದಾ;
 
@@ -31968,7 +31968,7 @@ viruddhavaada
 ರುದಾದ;
 ವಸು;
 opposite
-ೋಸು
+ೋಸು
 vireudhisu resist
 
 vil
@@ -31990,7 +31990,7 @@ valaya
 area
 valaya sector
 valaya
-ವಲಯ; ೊಂಟಪ;
+ವಲಯ; ೊಂಟಪ;
 belt
 ಾಸ
 vilaasa
@@ -32056,11 +32056,11 @@ vivaaha
 ಮದುೆ;
 ಾಹ;
 marriage
-ೇಕದ
+ೇಕದ
 vivekada
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 ೕಾಾಹ;
 ಸೂಕ;
 reasonable
@@ -32068,59 +32068,59 @@ vivekada
 ಾೆ;
 ಾಯಾದ;
 ಮುಾದ;
-ೇಕದ;
+ೇಕದ;
 ಸೂಕ;
 fair
 vivekada
 ಾಾದ;
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 wise
 vivekada
-ೇಕದ;
+ೇಕದ;
 ಸೂಕ;
 appropriate
-ೇಚೆ
+ೇಚೆ
 vivechane
 ಗಮನ; ಪಕಟೆ;
 ಮೕಯ
 ಸೆ;
-ೇಚೆ;
+ೇಚೆ;
 ಸಲೆ;
 advice
-ೇಷಕ
+ೇಷಕ
 vishleshhaka analyst
-ೇಷಣ
+ೇಷಣ
 vishleshhana
 ೆ;
 ತೆ;
 ಪಯತ;
 ಪೕಗ;
-ಪೇಸು;
+ಪೇಸು;
 
 ಪವಾಸ;
 ಾದ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 test
 vishleshhana
 ಾರ;
-ೇಷಣ;
+ೇಷಣ;
 ಸಜೆ;
 resolution
 vishleshhana
 ತೆ;
 ಾರೆ;
-ೇಷಣ;
+ೇಷಣ;
 analysis
 ಶ
 vishva
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -32159,27 +32159,27 @@ vishva
 floor
 ಷ
 vishishhta typical
-ೇಷ
+ೇಷ
 visheshha
 ಅತುತಮ;
-ೇಷ;
+ೇಷ;
 excellent
-ೇಷಾ
+ೇಷಾ
 visheshhavaagi particular
 visheshhavaagi specifically
 visheshhavaagi
-ೇಷಾ;
+ೇಷಾ;
 ೆನ;
 ೆಚುವ;
 extra
 visheshhavaagi
 ಮುಖಾ;
-ೇಷಾ;
+ೇಷಾ;
 especially
 ಷಯ
 vishhaya
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಷಯ;
 ವಸು;
@@ -32192,7 +32192,7 @@ shop
 vishhaya
 ತೃಪ;
 ಷಯ;
-ಸಂೋಷ;
+ಸಂೋಷ;
 content
 vishhaya
 ಷಯ;
@@ -32283,11 +32283,11 @@ vasamtha
 spring
 ವಸಗೃಹ
 vasathigrriha
-ದುೊಸಲು;
+ದುೊಸಲು;
 ವಸಗೃಹ;
 level
 vasathigrriha
-ಏೋೇ;
+ಏೋೇ;
 ಮಟದ;
 ೕಜೆ;
 ಾನ;
@@ -32300,7 +32300,7 @@ vasathigrriha
 ವಸಗೃಹ;
 map
 vasathigrriha
-ೋೆ;
+ೋೆ;
 ವಸಗೃಹ;
 flat
 ಸಸಲು
@@ -32375,8 +32375,8 @@ vasthu
 ವಸು;
 against
 vasthu
-ಉೇಶ;
-ಉೇಸುವದು;
+ಉೇಶ;
+ಉೇಸುವದು;
 ಗು;
 ಷಯ;
 ವಸು;
@@ -32411,12 +32411,12 @@ visthirna
 ವಲಯ; ೕಣ;
 zone
 visthirna
-ೇಶ;
+ೇಶ;
 ೕಣ;
 country
 visthirna
-ೇಶ;
-ಪೇಶ;
+ೇಶ;
+ಪೇಶ;
 ೕಣ;
 region
 visthirna
@@ -32424,13 +32424,13 @@ visthirna
 ವಲಯ; ೕಣ;
 area
 visthirna
-ೇತ;
+ೇತ;
 ೕಣ;
 field
 ಸಜೆ
 visarjane
 ಾರ;
-ೇಷಣ;
+ೇಷಣ;
 ಸಜೆ;
 resolution
 visarjane
@@ -32442,10 +32442,10 @@ visarjisu
 ಾ;
 ಸಸು;
 empty
-ವೊಡು
+ವೊಡು
 vahisikeudu
 ಬದೆ;
-ವೊಡು;
+ವೊಡು;
 commit
 ಾಕ
 vaakya
@@ -32619,88 +32619,88 @@ vrrishhti
 ಮೆ;
 ವೃ;
 shower
-ೇಗ
+ೇಗ
 vega
 ಅಾತುರ;
 ನೆ;
-ೇಗ;
+ೇಗ;
 speed
 vega
 ಅಾತುರ;
-ೇರು;
-ೇಗ;
+ೇರು;
+ೇಗ;
 gear
-ೇಗಾ
+ೇಗಾ
 vegavaagi
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 
 ೕಘಾ;
 fast
 vegavaagi
 ಚುರುಾದ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 ೕಘಾ;
 quick
 vegavaagi
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 quickly
-ೇಗಾದ
+ೇಗಾದ
 vegavaada
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 quickly
 vegavaada
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 
 ೕಘಾ;
 fast
 vegavaada
 ಚುರುಾದ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 ೕಘಾ;
 quick
-ೇತನ
+ೇತನ
 vethana pay
 vethana
 ಪಫಲ;
-ೇತನ;
+ೇತನ;
 ಸಂಬಳ;
 salary
-ೇೆ
+ೇೆ
 vedike
 ಧೆ;
-ೇೆ;
+ೇೆ;
 platform
-ೇೆ
+ೇೆ
 vele
 ಅಥಾ;
 ಾಾಗ;
-ೇೆ;
+ೇೆ;
 whether
 vele
 ಾಾಗ;
-ೇೆ;
+ೇೆ;
 if
-ೈದೕಯ
+ೈದೕಯ
 vedyakiya medical
-ೈದರು
+ೈದರು
 vedyaru doctor
-ೈರ
+ೈರ
 veras virus
-ೈಧ
+ೈಧ
 vevidhya variety
 ಶ
 ಶಂಸು
@@ -32732,7 +32732,7 @@ loud
 shakthishaali
 ಕಷ;
 ಾಸಾಯಕ;
-ದೃಢ; ೋನ;
+ದೃಢ; ೋನ;
 ಬಲಾದ;
 ಶಾ;
 hard
@@ -32764,7 +32764,7 @@ sharathkaala
 fall
 ಶವಣ
 shravana
-ೇಕರು;
+ೇಕರು;
 ಶವಣ;
 hearing
 shravana
@@ -32773,17 +32773,17 @@ shravana
 ear
 ೕ
 shri sir
-ೇ
+ೇ
 shreni
 ಆೕಗ;
-ೇ;
+ೇ;
 commission
 shreni
 ಅನುಕಮ;
 ಆೆ;
-ೇ;
+ೇ;
 ಸಂಘಸು;
-ೊಂೆ;
+ೊಂೆ;
 order
 ೕಮಂತ
 shrimamtha
@@ -32792,13 +32792,13 @@ shrimamtha
 ೕಮಂತ;
 ಾಾಜ;
 
-ೇರಳಾ;
+ೇರಳಾ;
 rich
 ಲುೆ
 shilube cross
 ಶವದ
 shavada
-ೇಹ;
+ೇಹ;
 ಶವದ;
 body
 ಶವಸಂಾರ
@@ -32808,7 +32808,7 @@ shavasamskaara
 funeral
 ಶಸ
 shasthra
-ೋಳಗಳ;
+ೋಳಗಳ;
 ಬಡವ; ಶಸ;
 arm
 ಸು
@@ -32821,7 +32821,7 @@ shaamtha
 ೌನ;
 ಾಂತ;
 
-ೊಗಳ;
+ೊಗಳ;
 calm
 ಾಂತ
 shaamtha
@@ -32846,14 +32846,14 @@ shaapimg
 shop
 shaapimg
 ಾಂ;
-ೇಖಡಲು;
-ೇರು;
+ೇಖಡಲು;
+ೇರು;
 store
 ಾೆ
 shaale school
 ಶುಾದ
 shuchiyaada
-ಾವನೊಸು;
+ಾವನೊಸು;
 ಶುಾದ;
 clean
 shuchiyaada pure
@@ -32862,9 +32862,9 @@ shuchiyaada
 ಶುಾದ;
 neat
 shuchiyaada
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
-ಾವನೊಸು;
+ಾವನೊಸು;
 
 ಶುಾದ;
 ಸಷಾ;
@@ -32872,11 +32872,11 @@ shuchiyaada
 clear
 ಶುಲ
 shulka
-ಆೋಪವನು;
+ಆೋಪವನು;
 ಪಾಸ;
 ೆೆ;
 ಬಹುಾನ;
-ೋ;
+ೋ;
 
 ಶುಲ;
 charge
@@ -32888,35 +32888,35 @@ nothing
 ಶೆ
 shule
 ಾಯ;
-ೊಂದೆ;
+ೊಂದೆ;
 ಶೆ;
 ಾ;
 hurt
-ೇಧೆ
+ೇಧೆ
 sheudhane
 ತೆ;
 ಪೕಸು;
-ೇಧೆ;
+ೇಧೆ;
 research
 sheudhane
 ಗುಜ;
-ೇಧೆ;
+ೇಧೆ;
 ಹುಡು;
 search
 sheudhane
 ಗುಜ;
-ೇೆ;
-ೇೆಾಡು;
-ೇಧೆ;
+ೇೆ;
+ೇೆಾಡು;
+ೇಧೆ;
 ಹುಡು;
 hunt
-ೇಸು
+ೇಸು
 sheudhisu
 ಪೆ;
 ಪಸು;
-ಪೇಸು;
+ಪೇಸು;
 ಪೕಸು;
-ೇಸು;
+ೇಸು;
 examine
 ಶೃಂಗ
 shrrimga
@@ -32933,29 +32933,29 @@ shrrimga
 ಎತರ;
 ಾ;
 ತುತತು;
-ಶೃಂಗ; ೊಂಟ;
+ಶೃಂಗ; ೊಂಟ;
 height
-ೇಕಾಾರು
+ೇಕಾಾರು
 shekadaavaaru percentage
-ೇಖಡಲು
+ೇಖಡಲು
 shekharisidalu
 ಾಂ;
-ೇಖಡಲು;
-ೇರು;
+ೇಖಡಲು;
+ೇರು;
 store
 ೕಘಾ
 shighravaagi
 ಚುರುಾದ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 ೕಘಾ;
 quick
 ೕಘಾ
 shighravaagi
 ಚುರುಾದ;
 ತತಾ;
-ೇಗಾ;
-ೇಗಾದ;
+ೇಗಾ;
+ೇಗಾದ;
 
 ೕಘಾ;
 fast
@@ -32964,7 +32964,7 @@ shighravaagi
 ೕಘಾ;
 early
 shighravaagi
-ೇರಾ;
+ೇರಾ;
 ೕಘಾ;
 immediately
 shighravaagi prompt
@@ -32979,9 +32979,9 @@ shithaka
 refrigerator
 ೕೆ
 shirshhike title
-ೈಕ
+ೈಕ
 shekshhanika educational
-ೈ
+ೈ
 sheli style
 ಷ
 ಷರತು
@@ -33005,34 +33005,34 @@ shharaththu
 ಾಕ;
 ಷರತು;
 sentence
-ೇರು
+ೇರು
 shheru
 ಒದಸು;
 ೕಡುತೆ;
-ೇರು;
+ೇರು;
 ಹೆ;
 supply
 shheru
 ಾಂ;
-ೇಖಡಲು;
-ೇರು;
+ೇಖಡಲು;
+ೇರು;
 store
 ಸ
 ಸಂಕಟ
 samkata
-ೋವ;
+ೋವ;
 ಸಂಕಟ;
 pain
 samkata
 ಾಳ;
-ಸಂಕಟ; ಸೊಳವ;
+ಸಂಕಟ; ಸೊಳವ;
 suffer
 ಸಂಕಮಣ
 samkramana transition
-ಸಂೇತ
+ಸಂೇತ
 samketha
 ೆ;
-ಸಂೇತ;
+ಸಂೇತ;
 signal
 ಸಂೕಣ
 samkirna complicated
@@ -33067,9 +33067,9 @@ samghatisu organize
 samghatisu
 ಅನುಕಮ;
 ಆೆ;
-ೇ;
+ೇ;
 ಸಂಘಸು;
-ೊಂೆ;
+ೊಂೆ;
 order
 ಸಂಘಷ
 samgharshha conflict
@@ -33086,24 +33086,24 @@ samchaara
 traffic
 ಸಂೆ
 samje evening
-ಸಂೋಷ
+ಸಂೋಷ
 samtheushha
 ತೃಪ;
-ಸಂೋಷ;
+ಸಂೋಷ;
 pleased
 samtheushha
-ಆನಂದೊಸು;
-ಸಂೋಷ;
+ಆನಂದೊಸು;
+ಸಂೋಷ;
 pleasure
 samtheushha
 ತೃಪ;
-ಸಂೋಷ;
+ಸಂೋಷ;
 glad
 samtheushha happy
 samtheushha
 ತೃಪ;
 ಷಯ;
-ಸಂೋಷ;
+ಸಂೋಷ;
 content
 ಸಂದಭ
 samdarbha
@@ -33135,7 +33135,7 @@ chance
 samdarbha context
 samdarbha
 ಾರಣ;
-ೇರಕ;
+ೇರಕ;
 ಸಂದಭ;
 reason
 ಸಂದು
@@ -33168,7 +33168,7 @@ wealth
 ಸಂಪಕ
 samparka
 ಕಟು;
-ೊಂ;
+ೊಂ;
 ಸಂಪಕ;
 link
 samparka connect
@@ -33177,7 +33177,7 @@ samparka
 ಸಂಪಕ;
 join
 samparka
-ೊಂ;
+ೊಂ;
 ಸಂಪಕ;
 connection
 samparka
@@ -33250,7 +33250,7 @@ sampurnavaagi
 ಸಂಪಣಾ;
 total
 sampurnavaagi
-ಆೋಗಕರ;
+ಆೋಗಕರ;
 ಾ;
 ಸಂಪಣಾ;
 well
@@ -33323,7 +33323,7 @@ sambamdhisu belong
 ಸಂಬಳ
 sambala
 ಪಫಲ;
-ೇತನ;
+ೇತನ;
 ಸಂಬಳ;
 salary
 ಸಂಭವೕಯ
@@ -33429,9 +33429,9 @@ samvaada
 ಸಂಾದ;
 ಹರಟು;
 talk
-ಸಂೇದೆ
+ಸಂೇದೆ
 samvedane
-ಸಂೇದೆ;
+ಸಂೇದೆ;
 ಸಶನ;
 feeling
 ಸಂಸ
@@ -33470,11 +33470,11 @@ sakaalika
 ಸಾಕ;
 ಾಂದೆ;
 comfortable
-ಗೇ
+ಗೇ
 sigaret cigarette
 ಾಂ
 styaamd
-ೊೆಯ;
+ೊೆಯ;
 ಾಂ;
 stand
 
@@ -33491,7 +33491,7 @@ band
 ಸುೕ
 studiyeu
 ಾಾಾರ;
-ಾೇಜು;
+ಾೇಜು;
 ಸುೕ;
 studio
 ಸು
@@ -33546,14 +33546,14 @@ sthuthisu
 ಸುಸು;
 invite
 sthuthisu
-ೋರು;
-ೇಳ;
+ೋರು;
+ೇಳ;
 ದಯಟು;
 ಪೆ;
 ಪಸುವದು;
 
 ಾಥೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
 ಸುಸು;
 request
@@ -33577,27 +33577,27 @@ sthhala
 ಪ;
 ಸಳ;
 ಾನ;
-ೋಗು;
-ೈ;
+ೋಗು;
+ೈ;
 place
 sthhala
 ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 location
 sthhala
 ಆಸನ; ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 seat
 sthhala
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಕೆ;
 ಾಣ;
 ಂದು;
 ಸಳ;
-ೈ;
-ೊೆ;
+ೈ;
+ೊೆ;
 spot
 sthhala
 ಪ;
@@ -33607,7 +33607,7 @@ situation
 sthhala
 ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 site
 ಸಳ
 sthhala
@@ -33640,13 +33640,13 @@ sthhaana
 ಪ;
 ಸಳ;
 ಾನ;
-ೋಗು;
-ೈ;
+ೋಗು;
+ೈ;
 place
 sthhaana
 ಆಸನ; ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 seat
 sthhaana
 ಪ;
@@ -33656,7 +33656,7 @@ situation
 sthhaana
 ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 location
 sthhaana
 ಕೆ;
@@ -33673,11 +33673,11 @@ sthhaana post
 sthhaana
 ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 site
 sthhaana
-ಉೋಗ;
-ಕೇ;
+ಉೋಗ;
+ಕೇ;
 ೆಲಸ;
 ಪಾಗ;
 ಾನ;
@@ -33693,7 +33693,7 @@ sthhaapisu settle
 ಸದು
 saddu noise
 saddu
-ಆೋಗಕರ;
+ಆೋಗಕರ;
 ಉಚ
 ಸರದ;
 ಧ;
@@ -33716,7 +33716,7 @@ similar
 sadrrisha similarly
 sadrrisha
 ಉಾಹರೆೆ;
-ಸದೃಶ; ಸಮ; ಾೇ;
+ಸದೃಶ; ಸಮ; ಾೇ;
 same
 sadrrisha
 ಅಂಾಜು;
@@ -33738,7 +33738,7 @@ near
 ೆಾ
 sensaarship
 ಗುರುತು; ೆ;
-ೋಡು;
+ೋಡು;
 ಮೆ;
 ಮುೆ;
 ೆಾ;
@@ -33749,29 +33749,29 @@ snaana bath
 snaanagrriha bathroom
 ಾಯು
 snaayu muscle
-ೇಹ
+ೇಹ
 sneha
 ನಯೕಲ;
-ೇಹ;
+ೇಹ;
 friendly
-ೇಹಾ
+ೇಹಾ
 snehakkaagi friendship
-ೇತ
+ೇತ
 snehitha
 ೆೆಯ;
 ಪಚಯ;
-ೇತ;
+ೇತ;
 friend
 snehitha
 ೆೆಯ;
-ೇತ;
+ೇತ;
 boyfriend
 ಸೆ
 spardhe
 ಚೆ;
 ಯುದ;
 ಸೆ;
-ೋಾಟ;
+ೋಾಟ;
 contest
 spardhe competition
 ಸಶೆ
@@ -33782,12 +33782,12 @@ sparshakke
 touch
 ಸಶನ
 sparshana
-ಸಂೇದೆ;
+ಸಂೇದೆ;
 ಸಶನ;
 feeling
 ಸಷಾ
 spashhtavaagi
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
 ೆಳಗು;
 ಸಷಾ;
@@ -33797,29 +33797,29 @@ spashhtavaagi
 ಸಷಾ;
 obviously
 spashhtavaagi
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
-ಾವನೊಸು;
+ಾವನೊಸು;
 
 ಶುಾದ;
 ಸಷಾ;
 ಸೕಕಸು;
 clear
 spashhtavaagi
-ೆರವೊ;
+ೆರವೊ;
 ಸಷಾ;
 clearly
 spashhtavaagi
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
 ೕಾ;
 ಸಷಾ;
 bright
 ಸೕಕಸು
 spashhtikarisu
-ೆರವೊ;
+ೆರವೊ;
 ಪಾಶಾನ;
-ಾವನೊಸು;
+ಾವನೊಸು;
 
 ಶುಾದ;
 ಸಷಾ;
@@ -33849,7 +33849,7 @@ guard
 ಸೆ
 sabhe meeting
 sabhe
-ಅೇಶನ;
+ಅೇಶನ;
 ಸೆ;
 session
 ಸಾಪ
@@ -33857,7 +33857,7 @@ sabhaapathi speaker
 ಸಮ
 sama
 ಉಾಹರೆೆ;
-ಸದೃಶ; ಸಮ; ಾೇ;
+ಸದೃಶ; ಸಮ; ಾೇ;
 same
 sama equal
 sama
@@ -33876,7 +33876,7 @@ sama
 like
 ಸ
 samithi committee
-ಸಮೋಲನ
+ಸಮೋಲನ
 samatheulana balance
 ಸಮ
 sammathi willing
@@ -33891,7 +33891,7 @@ samaya
 ಸಮಯ;
 during
 samaya
-ಆೋ;
+ಆೋ;
 ಾಲದ;
 ಸಮಯ;
 whereas
@@ -33920,7 +33920,7 @@ efficient
 ಸಮೆ
 samasye
 ಅಸಸೆ;
-ಕಲಕು; ೊಂದೆ;
+ಕಲಕು; ೊಂದೆ;
 ಸಮೆ;
 trouble
 samasye
@@ -34015,9 +34015,9 @@ saripadisi
 improve
 saripadisi
 ತಪದು;
-ೊಸು;
+ೊಸು;
 ಸಪ;
-ಸೊಂಸು;
+ಸೊಂಸು;
 adjust
 ಸಪಸು
 saripadisu repair
@@ -34041,29 +34041,29 @@ properly
 sariyaagiruva justify
 ಸರಳ
 sarala
-ೇವಲ;
+ೇವಲ;
 ಘಟಕ; ಸರಳ; ಸರಳಾ;
 unit
 ಸರಳ
 sarala
-ೇವಲ;
+ೇವಲ;
 ಸರಳ; ಸರಳಾ;
 simple
 sarala
-ೇವಲ;
+ೇವಲ;
 ಸರಳ; ಸರಳಾ;
 simply
 ಸರಳಾ
 saralavaagi
-ೇವಲ;
+ೇವಲ;
 ಘಟಕ; ಸರಳ; ಸರಳಾ;
 unit
 saralavaagi
-ೇವಲ;
+ೇವಲ;
 ಸರಳ; ಸರಳಾ;
 simple
 saralavaagi
-ೇವಲ;
+ೇವಲ;
 ಸರಳ; ಸರಳಾ;
 simply
 ಸಸಲು
@@ -34091,7 +34091,7 @@ sarahaddu
 ನೆ;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 march
 sarahaddu
 ನೆ;
@@ -34102,24 +34102,24 @@ sarahaddu
 ನೆಾಡು;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 walk
 sarahaddu
 ರ;
 ಸರಹದು;
 ಹವ;
-ೋಗುವದು;
+ೋಗುವದು;
 run
-ಸೊಂಸು
+ಸೊಂಸು
 sariheumdisu
-ಸೊಂಸು;
-ೋ;
+ಸೊಂಸು;
+ೋ;
 host
 sariheumdisu
 ತಪದು;
-ೊಸು;
+ೊಸು;
 ಸಪ;
-ಸೊಂಸು;
+ಸೊಂಸು;
 adjust
 ಸಾಸ
 saraasari
@@ -34127,7 +34127,7 @@ saraasari
 ಸಾಸ;
 medium
 saraasari average
-ಸೋವರ
+ಸೋವರ
 sareuvara lake
 ಸಲಕರೆ
 salakarane
@@ -34139,7 +34139,7 @@ salakarane tool
 ಸಲೆ
 salahe suggest
 salahe
-ಪೋಧೆ;
+ಪೋಧೆ;
 ಸಲೆ;
 suggestion
 salahe
@@ -34151,15 +34151,15 @@ salahe
 ಗಮನ; ಪಕಟೆ;
 ಮೕಯ
 ಸೆ;
-ೇಚೆ;
+ೇಚೆ;
 ಸಲೆ;
 advice
 ಸಲೆ
-ೇಳ
+ೇಳ
 salahe kelu
 ಪೆ;
 ಸಲೆ
-ೇಳ;
+ೇಳ;
 consult
 ಸೕಾ
 salisaagi easily
@@ -34169,7 +34169,7 @@ seletha drawing
 ಸಂತ
 svamtha
 ಸಂತ;
-ೊಂೆ;
+ೊಂೆ;
 own
 ಚು
 svichchu switch
@@ -34185,7 +34185,7 @@ svathh
 ಸಹ;
 even
 svathh
-ತನೇ;
+ತನೇ;
 ಸತಃ;
 itself
 ಸಯಂ
@@ -34203,27 +34203,27 @@ size
 ಸವಲತು
 savalaththu
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಾೆ;
 ಸವಲತು;
 let
 savalaththu
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ೕ;
 ಸವಲತು;
 allow
 savalaththu
 ಅಂೕಕಸು;
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಅೆ;
 ಸವಲತು;
 admit
 savalaththu
 ಅನುಮ;
 ಅನುಮ
-ೊಡು;
+ೊಡು;
 ಪರಾನ;
 ಸವಲತು;
 permit
@@ -34241,7 +34241,7 @@ svalpa
 few
 svalpa least
 svalpa
-ಏನು; ಏೋ
+ಏನು; ಏೋ
 ಒಂದು; ಸಲ;
 somewhat
 svalpa short
@@ -34252,7 +34252,7 @@ svasthha
 ಸಸ;
 tone
 svasthha
-ಆೋಗಕರ;
+ಆೋಗಕರ;
 ಉಚ
 ಸರದ;
 ಧ;
@@ -34289,7 +34289,7 @@ savaari ride
 ಸಾಲು
 savaalu
 ಾರಣ;
-ಪೋದೆ;
+ಪೋದೆ;
 ಸಾಲು;
 challenge
 savaalu
@@ -34300,7 +34300,7 @@ cause
 ೕಕ
 svikarisi
 ಅನುೕಸಲು;
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
 accept
 svikarisi
@@ -34318,14 +34318,14 @@ svikarisi
 ೕಕ;
 take
 svikarisi
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
-ೊಂದು;
+ೊಂದು;
 suppose
 svikarisi
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
-ೊಂದು;
+ೊಂದು;
 assume
 ೕಕಸು
 svikarisu
@@ -34336,7 +34336,7 @@ adopt
 svikaaraarha
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 ೕಾಾಹ;
 ಸೂಕ;
 reasonable
@@ -34350,7 +34350,7 @@ saha
 ಸಹ;
 still
 saha
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ಮತಷು;
 ೕಾ;
@@ -34377,7 +34377,7 @@ saha
 ಸಹ;
 despite
 saha
-ಅಂೇ;
+ಅಂೇ;
 ೕಾ;
 ೕಾ;
 ಸಹ;
@@ -34389,10 +34389,10 @@ sihi
 ;
 ಾದ;
 sweet
-ಸಹೋ
+ಸಹೋ
 sahadyeugi
 ಒಡಾ;
-ಸಹೋ;
+ಸಹೋ;
 mate
 ಾದ
 sihiyaada
@@ -34407,14 +34407,14 @@ soft
 ಾದ
 sihiyaada
 ದು;
-ದುೊಸಲು;
+ದುೊಸಲು;
 ಾದ;
 ೌಮ;
 smooth
-ಸೊಳವ
+ಸೊಳವ
 sahisikeulluva
 ಾಳ;
-ಸಂಕಟ; ಸೊಳವ;
+ಸಂಕಟ; ಸೊಳವ;
 suffer
 ಸಾನುಭೂ
 sahaanubhuthi sympathy
@@ -34530,7 +34530,7 @@ saamraajya
 ೕಮಂತ;
 ಾಾಜ;
 
-ೇರಳಾ;
+ೇರಳಾ;
 rich
 ಾಾನ
 saamaanya
@@ -34557,7 +34557,7 @@ saamaanya
 usually
 saamaanya general
 saamaanya
-ಅೇ
+ಅೇ
 ಸಮಯದ;
 ಒೆ;
 ಾಾನ;
@@ -34608,11 +34608,11 @@ saamaanyavaagi
 usual
 ಾಮೂಕ
 saamuhika
-ೇತ;
+ೇತ;
 ಕುೆ;
 ೌಂ;
 ಗುಂಪ;
-ೇಶ;
+ೇಶ;
 ೆಲಾಸು;
 
 ಪಾಣ;
@@ -34639,17 +34639,17 @@ saarige
 transportation
 ಾವಜಕ
 saarvajanika
-ೇಕರು;
+ೇಕರು;
 ಾವಜಕ;
 public
 ಾವಜಕ
 saarvajanika
-ೇಕರು;
+ೇಕರು;
 ಾವಜಕ;
 audience
 ಾರು
 saaru soup
-ಾೋಟು
+ಾೋಟು
 saareutu coach
 saareutu trainer
 ಾಲ
@@ -34658,18 +34658,18 @@ saala
 ಾಲ;
 debt
 saala
-ಕಡೊಡು;
+ಕಡೊಡು;
 ೆ;
 ಾಲ;
 loan
 saala
-ಆೋಸು;
+ಆೋಸು;
 ದೂಸಲು;
 ಬಯು;
 ಾಲ;
 blame
 saala
-ಕಡೊಡು;
+ಕಡೊಡು;
 ೆ;
 ಾಲ;
 credit
@@ -34730,12 +34730,12 @@ sukha
 ಅದೃಷ;
 ಸುಖ;
 fortune
-ಸುೋಷೆ
+ಸುೋಷೆ
 sukheushhnathe
 ಉಗಾಪ;
 ಉಷ;
 ೆಚೆಯ;
-ಸುೋಷೆ;
+ಸುೋಷೆ;
 heat
 ಸುಗಂಧ
 sugamdha
@@ -34760,10 +34760,10 @@ suththa
 round
 ಸುತು
 suththu involve
-ಸುತುವಯೇ
+ಸುತುವಯೇ
 suththuvariyade
 ಆವಸು;
-ಸುತುವಯೇ;
+ಸುತುವಯೇ;
 surround
 ಸು
 suddi news
@@ -34798,7 +34798,7 @@ round
 sumaaru
 ಇಂದ; ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ರುದಾ;
 
@@ -34807,7 +34807,7 @@ about
 sumaaru
 ಕುತು;
 ೆ;
-ಬಹುೇಕ;
+ಬಹುೇಕ;
 ೕೆ;
 ಸುಾರು;
 around
@@ -34817,7 +34817,7 @@ sumaaru
 roughly
 ಸುೆಯ
 suligeya
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚುವ;
 ಸುೆಯ;
@@ -34842,27 +34842,27 @@ suvaasane
 ರು;
 ಸುಾಸೆ;
 taste
-ೊಂಟ
+ೊಂಟ
 seumta
 ಎತರ;
 ಾ;
 ತುತತು;
-ಶೃಂಗ; ೊಂಟ;
+ಶೃಂಗ; ೊಂಟ;
 height
-ೊಂಟಪ
+ೊಂಟಪ
 seumtapatti
-ವಲಯ; ೊಂಟಪ;
+ವಲಯ; ೊಂಟಪ;
 belt
-ೊನ
+ೊನ
 seukkina
 ಅಹಂಾರ;
-ಜಂಬದ; ೊನ;
+ಜಂಬದ; ೊನ;
 ೆ;
 proud
-ೊಕು
+ೊಕು
 seukku
 ಅಹಂಾರ;
-ೊಕು;
+ೊಕು;
 ೆ;
 pride
 ಸೂಕ
@@ -34880,13 +34880,13 @@ suktha
 ಾೆ;
 ಾಯಾದ;
 ಮುಾದ;
-ೇಕದ;
+ೇಕದ;
 ಸೂಕ;
 fair
 suktha
 ಾಣ;
 ದ;
-ೇಕದ;
+ೇಕದ;
 ೕಾಾಹ;
 ಸೂಕ;
 reasonable
@@ -34895,14 +34895,14 @@ suktha
 ಅಹ;
 ಆಕಮಣ;
 ಆಕಮಣಾಡು;
-ಆೋಸಲು;
+ಆೋಸಲು;
 
 ಪದಾಗ;
 ೕಗ;
 ಸೂಕ;
 fit
 suktha
-ೇಕದ;
+ೇಕದ;
 ಸೂಕ;
 appropriate
 suktha
@@ -34927,11 +34927,11 @@ sukshhma
 ೆಳಾದ;
 ಸೂ;
 thin
-ೊಗಸುಾರ
+ೊಗಸುಾರ
 seugasugaara
 ಾಣ;
 ೕಸದ;
-ೊಗಸುಾರ;
+ೊಗಸುಾರ;
 smart
 ಸೂಚೆ
 suchane
@@ -34960,36 +34960,36 @@ phrase
 suthrikarisu
 ಪದ; ಸೂೕಕಸು;
 word
-ೊೆ
+ೊೆ
 seunne
-ಎೋ;
-ೋ;
-ೊೆ;
+ಎೋ;
+ೋ;
+ೊೆ;
 code
 ಸೂಯ
 surya sun
-ೋಗು
+ೋಗು
 seugu
 ಪ;
 ಸಳ;
 ಾನ;
-ೋಗು;
-ೈ;
+ೋಗು;
+ೈ;
 place
 seugu
 ಇಡು; ಪ;
-ೋಗು;
+ೋಗು;
 lay
 seugu
 ಪ;
-ೋಗು;
+ೋಗು;
 put
-ೋದರ
+ೋದರ
 seudara brother
-ೋದ
+ೋದ
 seudari
 ಬಹಚ;
-ೋದ;
+ೋದ;
 sister
 ೌಕಯಗಳ
 saukaryagalu
@@ -35000,7 +35000,7 @@ housing
 ೌಮ
 saumya
 ದು;
-ದುೊಸಲು;
+ದುೊಸಲು;
 ಾದ;
 ೌಮ;
 smooth
@@ -35010,35 +35010,35 @@ saumya
 ಾದ;
 ೌಮ;
 soft
-ೇ
+ೇ
 se
 ;
 ವರ;
-ೇ;
+ೇ;
 tell
 se say
 ೕಊದು
 siti udu
 ಉದಾೕಲ;
-ೊಳೆ;
+ೊಳೆ;
 ಟೂ;
 ೕ
 ಊದು;
 pipe
-ೇಡು
+ೇಡು
 sedu
 ಅಸಾಾನ;
 ಕಡುಹೆ;
-ೇಡು;
+ೇಡು;
 spite
-ೇತುೆ
+ೇತುೆ
 sethuve bridge
-ೇೆ
+ೇೆ
 sene
 ಟ;
-ೇೆ;
+ೇೆ;
 army
-ೇಬು
+ೇಬು
 sebu apple
 ೕತ
 simitha
@@ -35050,18 +35050,18 @@ simaa
 ಗ;
 ೕಾ;
 limit
-ೇದಂೆ
+ೇದಂೆ
 seridamthe including
-ೇೆ
+ೇೆ
 serive
 ಒಳೆ;
-ೇೆ;
+ೇೆ;
 contain
 serive
 ಅಥ;
 ಒಳೆ;
-ದುೋ;
-ೇೆ;
+ದುೋ;
+ೇೆ;
 include
 ೕಳಗಂ
 silugamdi
@@ -35069,25 +35069,25 @@ silugamdi
 ತ;
 ೕಳಗಂ;
 crack
-ೇೆ
+ೇೆ
 seve
 ೆಲಸ;
 ಾಯ;
 ಾಡು;
 ನಾದ;
-ೇೆ;
+ೇೆ;
 operate
 seve
 ಾಡು;
-ೇೆ;
+ೇೆ;
 serve
 seve
 ಪೆ;
-ೇೆ;
+ೇೆ;
 service
-ೇವಕ
+ೇವಕ
 sevaka
-ೇವಕ;
+ೇವಕ;
 ಹುಡುಗ;
 boy
 ೕಸ
@@ -35095,47 +35095,47 @@ sisan
 ಮಾೆ;
 ೕಸ;
 season
-ೈಕ
+ೈಕ
 sekal
 ಚಕ;
-ೈಕ;
+ೈಕ;
 bike
 sekal
 ಚಕ;
-ೈಕ;
+ೈಕ;
 bicycle
-ೈ
+ೈ
 set
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಕೆ;
 ಾಣ;
 ಂದು;
 ಸಳ;
-ೈ;
-ೊೆ;
+ೈ;
+ೊೆ;
 spot
 set
 ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 location
-ೈ
+ೈ
 set
 ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 site
 set
 ಪ;
 ಸಳ;
 ಾನ;
-ೋಗು;
-ೈ;
+ೋಗು;
+ೈ;
 place
 set
 ಆಸನ; ಸಳ;
 ಾನ;
-ೈ;
+ೈ;
 seat
 ಹ
 ೆಂಗಸು
@@ -35210,7 +35210,7 @@ himde
 ಇನೂ;
 ಮೆ;
 ಂೆ;
-ೊಸಾ;
+ೊಸಾ;
 again
 himde ago
 himde
@@ -35269,7 +35269,7 @@ previous
 himdina former
 ಂಾಸು
 himbaalisu
-ೇೆಾಡು;
+ೇೆಾಡು;
 ಂಾಸು;
 pursue
 himbaalisu
@@ -35295,24 +35295,24 @@ himse
 force
 ಹ
 hakki bird
-ಹಕುೇೆ
+ಹಕುೇೆ
 hakkukelike claim
 hakkukelike
 ಅವಶಕೆ;
 ಬಯೆ;
-ೇೆ;
+ೇೆ;
 ಮನ;
-ಹಕುೇೆ;
+ಹಕುೇೆ;
 demand
 ಹೆ
 hage
-ೇಷ;
+ೇಷ;
 ಹೆ;
 hate
 ಹಗ
 hagga
 ಇಬ;
-ೇಬಲು;
+ೇಬಲು;
 ಹಗ;
 cable
 hagga
@@ -35345,7 +35345,7 @@ hachche
 chip
 ೆನ
 hechchina
-ೇಷಾ;
+ೇಷಾ;
 ೆನ;
 ೆಚುವ;
 extra
@@ -35399,7 +35399,7 @@ hechchaagi mostly
 ೆಚು
 hechchu
 ಅತಂತ;
-ಅೇಕ;
+ಅೇಕ;
 ೆಚು;
 much
 hechchu
@@ -35420,7 +35420,7 @@ hechchukadime
 relative
 ೆಚುವ
 hechchuvari
-ೇಷಾ;
+ೇಷಾ;
 ೆನ;
 ೆಚುವ;
 extra
@@ -35430,7 +35430,7 @@ hejje pace
 
 hit
 ;
-ೊೆ;
+ೊೆ;
 strike
 hit
 ಏಟು; ಗುದು;
@@ -35465,7 +35465,7 @@ provide
 hade
 ಒದಸು;
 ೕಡುತೆ;
-ೇರು;
+ೇರು;
 ಹೆ;
 supply
 hade
@@ -35514,7 +35514,7 @@ hennu female
 hanadubbara inflation
 ಹರದ
 haththirada
-ೊೆಾಸು;
+ೊೆಾಸು;
 ಮು;
 ಮುಚುವ;
 ಸುೆಯ;
@@ -35546,7 +35546,7 @@ hedarisu
 cow
 ೆೆ
 hinnele
-ತರೇ;
+ತರೇ;
 ೆೆ;
 background
 ಹಬದ
@@ -35575,12 +35575,12 @@ hebbayake ambition
 ೆ
 hemme
 ಅಹಂಾರ;
-ೊಕು;
+ೊಕು;
 ೆ;
 pride
 hemme
 ಅಹಂಾರ;
-ಜಂಬದ; ೊನ;
+ಜಂಬದ; ೊನ;
 ೆ;
 proud
 ಮವಷ
@@ -35598,7 +35598,7 @@ haratu
 talk
 ಹರಡು
 haradu
-ಹರಡು; ೊಸು;
+ಹರಡು; ೊಸು;
 shine
 ಯ
 hiriya senior
@@ -35620,7 +35620,7 @@ harivu
 ರ;
 ಸರಹದು;
 ಹವ;
-ೋಗುವದು;
+ೋಗುವದು;
 run
 harivu
 ನ;
@@ -35655,7 +35655,7 @@ halavaaru
 distinct
 ಹಲವ
 halavu
-ಅೇಕ;
+ಅೇಕ;
 ಹಲವ;
 many
 halavu
@@ -35663,7 +35663,7 @@ halavu
 ಹಲಾರು;
 ಹಲವ;
 several
-ಹೋ
+ಹೋ
 haleu hi
 ಹಳಯ
 haladiya yellow
@@ -35704,36 +35704,36 @@ cow
 hasuru green
 ಹಸುೆ
 hasule baby
-ಾಕೇೆಂದು
+ಾಕೇೆಂದು
 haakabekemdu
 ನಕಲು ಾಡ;
-ಾಕೇೆಂದು;
+ಾಕೇೆಂದು;
 rip
 haakabekemdu
 ನಕಲು ಾಡ;
-ಾಕೇೆಂದು;
+ಾಕೇೆಂದು;
 tear
-ಾೇ
+ಾೇ
 haageye
 ಉಾಹರೆೆ;
-ಸದೃಶ; ಸಮ; ಾೇ;
+ಸದೃಶ; ಸಮ; ಾೇ;
 same
 ಾಜ
 haajari presence
 ಾಜರು
 haajariru
 ಾಗವಸು;
-ೇ;
+ೇ;
 ಾಜರು;
 attend
 ಾ
 haani
 ಾಯ;
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 injury
 haani
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 harm
 haani
@@ -35743,12 +35743,12 @@ haani
 ruin
 haani
 ಅಧಃಪತನ; ೆಸು;
-ೊಂದೆ;
+ೊಂದೆ;
 ಾ;
 damage
 haani
 ಾಯ;
-ೊಂದೆ;
+ೊಂದೆ;
 ಶೆ;
 ಾ;
 hurt
@@ -35788,13 +35788,13 @@ haasige bed
 haasya joke
 ಹುೆದ
 huchchedda
-ೇ;
+ೇ;
 ಪಾಶನ;
 ಹುೆದ;
 ಹುಚುದ;
 crazy
 huchchedda
-ೇ;
+ೇ;
 ಪಾಶನ;
 ಹುೆದ;
 ಹುಚುದ;
@@ -35809,18 +35809,18 @@ huchchaatike
 mood
 ಹುಚು
 huchchu
-ೋಪ;
+ೋಪ;
 ಹುಚು;
 anger
 ಹುಚುದ
 huchchuhidida
-ೇ;
+ೇ;
 ಪಾಶನ;
 ಹುೆದ;
 ಹುಚುದ;
 crazy
 huchchuhidida
-ೇ;
+ೇ;
 ಪಾಶನ;
 ಹುೆದ;
 ಹುಚುದ;
@@ -35830,25 +35830,25 @@ huttida born
 ಹುಡು
 huduki
 ಗುಜ;
-ೇೆ;
-ೇೆಾಡು;
-ೇಧೆ;
+ೇೆ;
+ೇೆಾಡು;
+ೇಧೆ;
 ಹುಡು;
 hunt
 huduki
-ಪೇಸು;
+ಪೇಸು;
 ಪೕಸು;
 ಹುಡು;
 explore
 huduki seek
 huduki
 ಗುಜ;
-ೇಧೆ;
+ೇಧೆ;
 ಹುಡು;
 search
 ಹುಡುಗ
 huduga
-ೇವಕ;
+ೇವಕ;
 ಹುಡುಗ;
 boy
 huduga
@@ -35884,39 +35884,39 @@ hulusaagi
 ದಪ;
 ಹುಲುಾ;
 gross
-ೊಂತು
+ೊಂತು
 heumdiththu had
-ೊಂೆ
+ೊಂೆ
 heumdide has
-ೊಂೆ
+ೊಂೆ
 heumdive
 ಸಂತ;
-ೊಂೆ;
+ೊಂೆ;
 own
 heumdive
 ಅನುಕಮ;
 ಆೆ;
-ೇ;
+ೇ;
 ಸಂಘಸು;
-ೊಂೆ;
+ೊಂೆ;
 order
 heumdive have
-ೊಂೆ
+ೊಂೆ
 heumdive possess
-ೊಂಸು
+ೊಂಸು
 heumdisu adapt
-ೊಂದು
+ೊಂದು
 heumdu
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
-ೊಂದು;
+ೊಂದು;
 assume
 heumdu
-ಇಟುೋ;
+ಇಟುೋ;
 ೕಕ;
-ೊಂದು;
+ೊಂದು;
 suppose
-ೊಗಳ
+ೊಗಳ
 heugalu celebrate
 heugalu
 ಇನೂ;
@@ -35925,140 +35925,140 @@ heugalu
 ೌನ;
 ಾಂತ;
 
-ೊಗಳ;
+ೊಗಳ;
 calm
-ೊೆ
+ೊೆ
 heutte
-ೊೆ;
-ೊೆ;
+ೊೆ;
+ೊೆ;
 stomach
-ೊೆ
+ೊೆ
 heude
 ;
-ೊೆ;
+ೊೆ;
 strike
 ಹೂೆ
 hudike
 ಬಂಡಾಳ;
 ಹೂೆ;
 investment
-ೊೆತ
+ೊೆತ
 heudetha
 ಆತ;
 ಏಟು; ಾಸು;
-ೊೆತ;
+ೊೆತ;
 stroke
-ೊೆಾರ
+ೊೆಾರ
 heunegaara
 ಅಡವ;
 ಆಾರ;
 ಭದೆ;
-ೊೆಾರ;
+ೊೆಾರ;
 security
 heunegaara
 ಆಾರ;
-ೊೆಾರ;
+ೊೆಾರ;
 guarantee
-ೊೆಾಡು
+ೊೆಾಡು
 heunemaadu
 ಪಶ;
-ೊೆಾಡು;
+ೊೆಾಡು;
 award
-ೊಸು
+ೊಸು
 heuththisu
-ಹರಡು; ೊಸು;
+ಹರಡು; ೊಸು;
 shine
-ೊೆ
+ೊೆ
 heudike
 ಕಂಬ;
 ಮುಖಪಟ;
 ರೆ;
-ೇಪನ;
-ೊೆ;
+ೇಪನ;
+ೊೆ;
 cover
 heudike
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಬರಂಗ;
-ೊೆ;
-ೇೆ;
+ೊೆ;
+ೇೆ;
 discover
 heudike
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಕೆ;
 ಾಣ;
 ಂದು;
 ಸಳ;
-ೈ;
-ೊೆ;
+ೈ;
+ೊೆ;
 spot
-ೊರೆ
+ೊರೆ
 heurage
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 out
 heurage
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 outside
-ೊರಗೆ
+ೊರಗೆ
 heuragade
 ಾಹ;
-ೊರಗೆ;
+ೊರಗೆ;
 external
 heuragade
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 out
 heuragade
 ಆ;
 ಇಂದ; ಾಹ;
-ೊರೆ;
-ೊರಗೆ;
+ೊರೆ;
+ೊರಗೆ;
 outside
-ೊರಡು
+ೊರಡು
 heuragidu
 ಪಬಂಸು;
-ೊರಡು;
-ೊರತುಪ;
+ೊರಡು;
+ೊರತುಪ;
 except
-ೊೆಾ
+ೊೆಾ
 heuregaadi
 ಾರು;
 ಾರುಗಳ;
-ೊೆಾ;
+ೊೆಾ;
 car
-ೊರತು
+ೊರತು
 heurathu unless
-ೊರತುಪ
+ೊರತುಪ
 heurathupadisi
 ಪಬಂಸು;
-ೊರಡು;
-ೊರತುಪ;
+ೊರಡು;
+ೊರತುಪ;
 except
 heurathupadisi
 ಉ;
 ಕಾವಸು;
-ೊರತುಪ;
+ೊರತುಪ;
 save
-ೊರದಬುವದು
+ೊರದಬುವದು
 heuradabbuvudu
-ದೂಡು; ೊರದಬುವದು;
+ದೂಡು; ೊರದಬುವದು;
 rush
-ೊಲಸು
+ೊಲಸು
 heulasu
-ೊಳಕು;
+ೊಳಕು;
 ೌಂ;
 ಭೂ;
 ಮಣು;
-ೊಲಸು;
+ೊಲಸು;
 dirt
-ೊಲಸು
+ೊಲಸು
 ಾಡು
 heulasu maadu dirty
 ಹೂವ
@@ -36066,137 +36066,137 @@ huvu
 ಾವಣ;
 ಹೂವ;
 flower
-ೊಸ
+ೊಸ
 heusa
 ಾಾ;
-ೊಸ;
+ೊಸ;
 new
 heusa
 ಾಾ;
-ೊಸ;
+ೊಸ;
 recent
-ೊಸಾ
+ೊಸಾ
 heusadaagi
 ಆದೆ;
 ಆಾಗೂ;
 ಇನೂ;
 ಮೆ;
 ಂೆ;
-ೊಸಾ;
+ೊಸಾ;
 again
-ೊಸಬ
+ೊಸಬ
 heusaba
 ಅನ;
 ಪರೕಯ;
-ೊಸಬ;
+ೊಸಬ;
 foreign
 heusaba
 ಅಾತ;
 ಅನ;
-ೊಸಬ;
+ೊಸಬ;
 stranger
-ೋಗುವದು
+ೋಗುವದು
 heuguvudu go
 heuguvudu
 ನೆ;
 ನೆಾಡು;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 walk
 heuguvudu
 ರ;
 ಸರಹದು;
 ಹವ;
-ೋಗುವದು;
+ೋಗುವದು;
 run
 heuguvudu
 ನೆ;
 ರ;
 ಸರಹದು;
-ೋಗುವದು;
+ೋಗುವದು;
 march
-ೋೆಲು
+ೋೆಲು
 heutelu hotel
-ೋಾಟ
+ೋಾಟ
 heuraata
 ಕಾಟ;
 ಗದಲ;
 ಚಸು;
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 fight
 heuraata
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 battle
 heuraata
 ಒಾಡು;
 ಯುದ;
-ೋಾಟ;
+ೋಾಟ;
 struggle
 heuraata
 ಚೆ;
 ಯುದ;
 ಸೆ;
-ೋಾಟ;
+ೋಾಟ;
 contest
-ೋೆ
+ೋೆ
 heulike
-ೋೆ;
-ೋಸು;
+ೋೆ;
+ೋಸು;
 compare
 heulike comparison
-ೋಸು
-ೋಸು
+ೋಸು
+ೋಸು
 heulisu
-ೋೆ;
-ೋಸು;
+ೋೆ;
+ೋಸು;
 compare
-ೋ
+ೋ
 heust
-ಸೊಂಸು;
-ೋ;
+ಸೊಂಸು;
+ೋ;
 host
 ಹೃದಯ
 hrridaya heart
 ೌದು
 haudu yes
 haudu yeah
-ೇೆ
+ೇೆ
 hege find
 hege
-ಅೇಸಲು;
+ಅೇಸಲು;
 ಬರಂಗ;
-ೊೆ;
-ೇೆ;
+ೊೆ;
+ೇೆ;
 discover
-ೇಾದರೂ
+ೇಾದರೂ
 hegaadaru anyway
-ೇೋ
+ೇೋ
 hegeu somehow
-ೇರಳಾ
+ೇರಳಾ
 heralavaagi
 ಐಶಯವಳ;
 ದಂ;
 ೕಮಂತ;
 ಾಾಜ;
 
-ೇರಳಾ;
+ೇರಳಾ;
 rich
 ೕರುವಂೆ
 hiruvamthe suck
-ೇೆ
+ೇೆ
 helike statement
-ೇಳ
+ೇಳ
 helu
 ಪಕಸು;
-ೇಳ;
+ೇಳ;
 inform
 helu
 ;
 ವರ;
-ೇಳ;
+ೇಳ;
 relate
  """
 # Kannada Dictionary has been stored in a string because
