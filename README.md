@@ -27,6 +27,12 @@ The above table illustrates how the analysis of errors is done.
 * After that we remove proper nouns from the list of error words.
 * Now we are left with English error words , which are  passed through the algorithm and corrected.
 
+The below images describe how the correction is done-  
+<img src= "images/1.png" width="900" height="500">
+<img src= "images/2.png" width="900" height="500">
+As it can be seen, 'ttlugu' has been corrected to 'telugu' and 'ou' has been corrected to 'on'.
+
+
 ## Further Work ## 
 * Resolve all Kannada errors from Transliterations part.
 * To be able to separate all the proper nouns from the text.
