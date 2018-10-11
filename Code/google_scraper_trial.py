@@ -3,7 +3,7 @@
 """
 Created on Wed Jul 11 16:29:33 2018
 
-@author: KJ
+@author: Kaustumbh and Dhairya
 """
 
 text_file2 = open("Proper_nouns.txt", "r")
