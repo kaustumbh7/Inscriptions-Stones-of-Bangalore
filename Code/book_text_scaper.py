@@ -3,7 +3,7 @@
 """
 Created on Fri Jul 13 23:47:55 2018
 
-@author: KJ
+@author: Kaustumbh and Dhairya
 """
 
 # import libraries
